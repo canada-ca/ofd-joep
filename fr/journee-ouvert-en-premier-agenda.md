@@ -4,7 +4,7 @@ title:  Journée Ouvert en premier (Ébauche)
 lang: fr
 altLang: en
 altLangPage: open first day
-filename: journee-ouvert-en-premier
+filename: journee-ouvert-en-premier-agenda
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
