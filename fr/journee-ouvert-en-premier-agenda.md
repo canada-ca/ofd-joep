@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Journée Ouvert en premier
+title:  Journée Ouvert en premier (Ébauche)
 lang: fr
 altLang: en
 altLangPage: open first day

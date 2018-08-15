@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open First Day
+title: Open First Day (Draft)
 lang: en
 altLang: fr
 altLangPage: journee ouverte en premier agenda
