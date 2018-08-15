@@ -1,12 +1,20 @@
-# Journée "Ouvert en premier"
-
+---
+layout: default
+title:  "Journée Ouvert en premier"
+lang: fr
+altLang: en
+altLangPage: open first day
+filename: journee-ouvert-en-premier
+---
+{% assign dataVariable = site.playbookData[page.lang] %}
+{% assign dataSource = site.data[dataVariable] %}
 ## Objectif
 
 Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), la journée "Ouvert en premier" mettra en évidence comment le Gouvernement du Canada continuera d'adopter des normes ouvertes, d'utiliser et de contribuer aux logiciels libres, supportant ainsi une culture ouverte et des marchés ouverts.
 
 ## Agenda
 
-[English](../../en/Resources/open-first-day-agenda.md)
+[English](../en/open-first-day-agenda.html)
 
 > Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués.
 

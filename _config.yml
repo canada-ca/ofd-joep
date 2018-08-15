@@ -16,7 +16,7 @@ twitter_username: canada-ca
 github_username:  canada-ca
 wet_cdts_hosturl: "https://www.canada.ca/etc/designs/canada/cdts/gcweb"
 wet_cdts_version: "v4_0_28"
-email: foss@tbs-sct.gc.ca
+email: guillaume.charest@tbs-sct.gc.ca
 
 # Build settings
 markdown: kramdown
