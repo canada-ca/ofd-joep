@@ -26,7 +26,7 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
 
 ### Endroit
 
-Bayview Yards, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
+Cours Bayview, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
 
 ### Prix
 
