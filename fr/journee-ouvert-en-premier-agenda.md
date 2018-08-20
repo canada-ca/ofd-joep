@@ -12,6 +12,10 @@ filename: journee-ouvert-en-premier-agenda
 
 Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), la journée "Ouvert en premier" mettra en évidence comment le Gouvernement du Canada continuera d'adopter des normes ouvertes, d'utiliser et de contribuer aux logiciels libres, supportant ainsi une culture ouverte et des marchés ouverts.
 
+De nombreux départements travaillent conjointement avec la population et des partenaires du secteur privé afin d'améliorer la qualité de leurs services pour les canadiennes et les canadiens.
+
+Cette journée vise à offrir un espace de discussion et d'engagement pour les différents acteurs de la fonction publique, du secteur privé et de la population pour échanger sur les progrès effecutés au cours des dernières années ainsi que sur les meilleures façons de continuer d'ajouter de la valeur à nos activités et services.
+
 ## Agenda
 
 [English](../en/open-first-day-agenda.html)
@@ -52,7 +56,9 @@ Le lien sera affiché prochainement
 
 ### Services offerts
 
-- Un café est disponible sur place pour acheter des collations et le diner
+- Un café est disponible sur place pour acheter des collations et le diner.
+- Une salle de réunion sera disponible pour organiser des discussions sur réservation.
+- Un tableau d'échange de contacts et de services sera disponible pour préparer une activité de réseautage sur l'heure du dîner.
 
 ## Horaire
 
@@ -261,6 +267,7 @@ La modératrice sera probablement la présentatrice principale.
 - Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
 - Noureen Syed - Microsoft (Provisoire)
 - Aaron Snow - Service numérique canadien (Provisoire)
+- Jeffrey Osier-Mixon - Intel
 - Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
 - Mike Milinkovich - Fondation Eclipse (Provisoire)
 - À confirmer - Recherchons participantes et participants intéressés
