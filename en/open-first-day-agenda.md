@@ -52,8 +52,10 @@ Link upcoming soon
 
 ### Available Services
 
-- A coffee shop is available on site for snacks and lunch
-- One of the small boardroom will be reserved for side discussions on demand
+- A coffee shop is available on site for snacks and lunch.
+- One of the small boardroom will be reserved for side discussions on reservation.
+- A board will be setup to exchange contact and services details in order to prepare a networking activity during lunchtime.
+
 
 ## Schedule
 
@@ -123,7 +125,7 @@ Link upcoming soon
     <td class="tg-c3ow">11:15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow">11:30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#1-managing-intellectual-property-and-licences">1. Managing Intellectual Property and Licences</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -131,13 +133,13 @@ Link upcoming soon
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Topic 2</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10:45</td>
+    <td class="tg-c3ow">11:45</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11:00</td>
+    <td class="tg-c3ow">12:00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11:15</td>
+    <td class="tg-c3ow">12:15</td>
   </tr>
   <tr>
     <td class="tg-uys7">12:30</td>
