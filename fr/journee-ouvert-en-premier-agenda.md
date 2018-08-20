@@ -14,7 +14,7 @@ Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/cana
 
 De nombreux départements travaillent conjointement avec la population et des partenaires du secteur privé afin d'améliorer la qualité de leurs services pour les canadiennes et les canadiens.
 
-Cette journée vise à offrir un espace de discussion et d'engagement pour les différents acteurs de la fonction publique, du secteur privé et de la population pour échanger sur les progrès effecutés au cours des dernières années ainsi que sur les meilleures façons de continuer d'ajouter de la valeur à nos activités et services.
+Cette journée vise à offrir un espace de discussion et d'engagement pour les différents acteurs de la fonction publique, du secteur privé et de la population pour échanger sur les progrès effectués au cours des dernières années ainsi que sur les meilleures façons de continuer d'ajouter de la valeur à nos activités et services.
 
 ## Agenda
 
@@ -128,7 +128,7 @@ Le lien sera affiché prochainement
     <td class="tg-c3ow">11 h 15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10 h 30</td>
+    <td class="tg-c3ow">11 h 30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#2-liberer-du-code-source-du-gc">2. Libérer du code source du GC</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#1-gerer-la-propriete-intellectuelle-et-les-licences">1. Gérer la propriété intellectuelle et les licences</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
@@ -136,13 +136,13 @@ Le lien sera affiché prochainement
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Sujet 2</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10 h 45</td>
+    <td class="tg-c3ow">11 h 45</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11 h 00</td>
+    <td class="tg-c3ow">12 h 00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11 h 15</td>
+    <td class="tg-c3ow">12 h 15</td>
   </tr>
   <tr>
     <td class="tg-uys7">12 h 30</td>
