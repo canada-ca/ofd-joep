@@ -8,6 +8,8 @@ filename: journee-ouvert-en-premier-agenda
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
+[English](../en/open-first-day-agenda.html)
+
 ## Objectif
 
 Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), la journée "Ouvert en premier" mettra en évidence comment le Gouvernement du Canada continuera d'adopter des normes ouvertes, d'utiliser et de contribuer aux logiciels libres, supportant ainsi une culture ouverte et des marchés ouverts.
@@ -16,9 +18,7 @@ De nombreux départements travaillent conjointement avec la population et des pa
 
 Cette journée vise à offrir un espace de discussion et d'engagement pour les différents acteurs de la fonction publique, du secteur privé et de la population pour échanger sur les progrès effectués au cours des dernières années ainsi que sur les meilleures façons de continuer d'ajouter de la valeur à nos activités et services.
 
-## Agenda
-
-[English](../en/open-first-day-agenda.html)
+## Format de la journée
 
 > Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. Lien pour le [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues).
 

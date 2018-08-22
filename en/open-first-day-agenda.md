@@ -8,6 +8,8 @@ filename: open-first-day-agenda
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
+[Français](../fr/journee-ouvert-en-premier-agenda.html)
+
 ## Purpose
 
 Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting open standards, using and contributing to open source software, thus supporting an open culture and open markets.
@@ -16,9 +18,7 @@ Many departments have been working in collaboration with the population as well 
 
 This day will provide an opportunity for the various actors of the public service, private sector and the population to discuss and engage together to exchange the progress made over the last years and how we can continue to add value to our activities and services together.
 
-## Agenda
-
-[Français](../fr/journee-ouvert-en-premier-agenda.html)
+## Format of the day
 
 > Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues).
 
