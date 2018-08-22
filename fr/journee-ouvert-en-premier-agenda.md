@@ -14,13 +14,17 @@ filename: journee-ouvert-en-premier-agenda
 
 Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), la journée "Ouvert en premier" mettra en évidence comment le Gouvernement du Canada continuera d'adopter des normes ouvertes, d'utiliser et de contribuer aux logiciels libres, supportant ainsi une culture ouverte et des marchés ouverts.
 
-De nombreux départements travaillent conjointement avec la population et des partenaires du secteur privé afin d'améliorer la qualité de leurs services pour les canadiennes et les canadiens.
+Les départements du Gouvernement du Canada travaillent ouvertement et en collaboration avec la population et des partenaires du secteur privé afin d'améliorer la qualité de leurs services pour les canadiennes et les canadiens en utilisant des logiciels libres et des standards ouverts.
 
 Cette journée vise à offrir un espace de discussion et d'engagement pour les différents acteurs de la fonction publique, du secteur privé et de la population pour échanger sur les progrès effectués au cours des dernières années ainsi que sur les meilleures façons de continuer d'ajouter de la valeur à nos activités et services.
 
 ## Format de la journée
 
-> Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. Lien pour le [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues).
+> Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
+
+La journée Ouvert en premier offrira un large éventail d'activités et de sessions permettant aux participants d'apprendre et d'engager la conversation avec d'autres employées du gouvernement ainsi qu'avec des représentants du secteur privé et des membres du public. 
+
+Afin d'aider à capturer l'étendue de ce qui fera partie de la journée, nous avons mis de multiple
 
 ## Logistiques
 

@@ -12,15 +12,29 @@ filename: open-first-day-agenda
 
 ## Purpose
 
-Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting open standards, using and contributing to open source software, thus supporting an open culture and open markets.
+Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting open standards, using and contributing to Open Source Software, thus supporting an open culture and open markets.
 
-Many departments have been working in collaboration with the population as well as with private companies to enhance the quality of their service offerings for all Canadians.
+Government of Canada departments have been working openly and in collaboration with the population as well as with private companies to enhance the quality of their service offerings for all Canadians using Open Source Software and open standards.
 
 This day will provide an opportunity for the various actors of the public service, private sector and the population to discuss and engage together to exchange the progress made over the last years and how we can continue to add value to our activities and services together.
 
 ## Format of the day
 
-> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues).
+> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions. If you notice syntax or ortograph errors, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
+
+The Open First Day will offer a wide variety of activities and sessions for participants to learn and engage with other government employees as well as with private sector representatives and members of the public. 
+
+In order to help capture the breadth of what is in scope, we have put together multiple streams.
+
+The first stream is the general, or "executive", stream which is geared towards a higher level view of what Open Government is; how we can use and contribute to Open Source Software and how we can actually procure such technologies.
+
+Then, there are three more specific streams with sessions where engagement with the participants will be privileged. 
+
+- The Rules stream will have a session around the legislative clarifications and guidance on the use and contribution to Open Source Software.
+- The Tools stream will offer sessions around the decentralized version control system Git and how it is possible to leverage Open Source Software at every layer of an application.
+- The People stream will explore the work done by various departments in terms of crowdsourcing and open collaboration as well as how Open Source Software can be leveraged in such initiatives.
+
+For the people who are already familiar with these concepts, a series of networking activities will be held during the day to help support a greater cohesion of the community of practice as well as the external service providers. Such activities include an Unconference stream, speed networking sessions, lunchtime and after event mixing. We're also planning on having  a small dedicated boardroom that people will be able to register for 15 minutes sessions on site for more immersed discussions. 
 
 ## Logistics
 
@@ -309,7 +323,7 @@ Workshop (TBC)
 
 #### Description
 
-Explore the various open source software industry business models and procurement methods and how they can support your organization and be more agile.
+Explore the various Open Source Software industry business models and procurement methods and how they can support your organization and be more agile.
 
 [Back to Schedule](#schedule)
 
@@ -383,7 +397,7 @@ Work through:
 
 - Choosing the right licence for your project;
 - Understanding the compatible licences of external projects with yours;
-- Understanding how you can contribute to third party open source software as a Government of Canada employee
+- Understanding how you can contribute to third party Open Source Software as a Government of Canada employee
 
 [Back to Schedule](#schedule)
 
