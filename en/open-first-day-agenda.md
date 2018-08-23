@@ -40,7 +40,7 @@ For the people who are already familiar with these concepts, a series of network
 
 To register, please fill in the form at the following link:
 
-https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord
+[https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord)
 
 > Please note that due to capacity reasons, the number of registration for this event is limited to 250 people. A waiting list will be created upon reaching the maximum number of registrants to ensure as many people as possible can attend.
 

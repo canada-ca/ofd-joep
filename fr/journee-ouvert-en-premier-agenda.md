@@ -40,7 +40,7 @@ Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une 
 
 Pour vous enregistrer, veuillez remplir le formulaire à la page suivante:
 
-https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr
+[https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr)
 
 > Veuillez noter que pour des raisons de capacité physiques, le nombre d'enregistrement pour assister à l'événement sur place sera limité à 250 personnes mais qu'une liste d'attente sera créée afin de permettre au plus de gens possible de participer.
 
