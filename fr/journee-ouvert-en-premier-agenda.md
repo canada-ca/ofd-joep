@@ -129,10 +129,10 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#1-formes-dapprovisionnement-en-logiciels-et-technologies-libres">1. Formes d'approvisionnement en logiciels et technologies libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#formes-dapprovisionnement-en-logiciels-et-technologies-libres">Formes d'approvisionnement en logiciels et technologies libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#1-contributions-participatives-crowdsourcing--co-lab">1. Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Sujet 1</a></td>
   </tr>
   <tr>
@@ -146,8 +146,8 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#2-liberer-du-code-source-du-gc">2. Libérer du code source du GC</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#1-gerer-la-propriete-intellectuelle-et-les-licences">1. Gérer la propriété intellectuelle et les licences</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#liberer-du-code-source-du-gc">Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#gerer-la-propriete-intellectuelle-et-les-licences">Gérer la propriété intellectuelle et les licences</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Sujet 2</a></td>
@@ -176,9 +176,9 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#3-gouvernement-ouvert">3. Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#1-travailler-avec-git">1. Travailler avec Git</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Sujet 3</a></td>
   </tr>
@@ -195,8 +195,8 @@ Gratuit
     <td class="tg-c3ow">14 h 30</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#2-orchestration-et-infonuagique-hybride">2. Orchestration et infonuagique hybride</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#2-travailler-ouvertement">2. Travailler ouvertement</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#piles-technologies-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#travailler-ouvertement">Travailler ouvertement</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
@@ -236,7 +236,7 @@ Instructions générales
 
 #### Invitée, invité
 
-À confirmer (Alex Benay, Marc Brouillard, etc.)
+À confirmer
 
 #### Description
 
@@ -256,11 +256,7 @@ Suggestion:
 
 #### Invitée, invité
 
-- Kirsten Burgard - Gouvernement des États-Unis
-- Noureen Syed - Microsoft
-- Deborah Bryant - RedHat w/ Stephen Walli - Microsoft
-- Rikki Endsley - RedHat
-- Hillary Hartley - Services numérique de l'Ontario
+À confirmer
 
 #### Description
 
@@ -282,12 +278,8 @@ La modératrice sera probablement la présentatrice principale.
 
 - Kirsten Burgard - Gouvernement des États-Unis (Provisoire)
 - Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
-- Noureen Syed - Microsoft (Provisoire)
 - Aaron Snow - Service numérique canadien (Provisoire)
-- Jeffrey Osier-Mixon - Intel
 - Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
-- Mike Milinkovich - Fondation Eclipse (Provisoire)
-- À confirmer - Recherchons participantes et participants intéressés
 
 #### Sujets
 
@@ -308,7 +300,7 @@ La modératrice sera probablement la présentatrice principale.
 
 ## Volet Exécutif Général
 
-### 1. Formes d'approvisionnement en logiciels et technologies libres
+### Formes d'approvisionnement en logiciels et technologies libres
 
 #### Durée
 
@@ -328,7 +320,7 @@ Explorez les différents modèles d'affaires des entreprises du logiciels libres
 
 [Retour à l'Horaire](#horaire)
 
-### 2. Libérer du code source du GC
+### Libérer du code source du GC
 
 #### Durée
 
@@ -344,11 +336,13 @@ Sessions de travail
 
 #### Description
 
-Comment aligner vos lignes d'affaires et vos TI pour libérer du code source.  
+- Qu'est-ce que relâcher votre code ouvertement implique pour votre équipe?
+- Quelles questions devez-vous vous demander?
+- Comment accompagner votre équipe pour travailler ouvertement?
 
 [Retour à l'Horaire](#horaire)
 
-### 3. Gouvernement Ouvert
+### Gouvernement Ouvert
 
 #### Durée
 
@@ -376,7 +370,7 @@ Sessions de travail/Présentation (?)
 
 ## Volet Règles
 
-### 1. Gérer la propriété intellectuelle et les licences
+### Gérer la propriété intellectuelle et les licences
 
 #### Durée
 
@@ -402,7 +396,7 @@ Travaillez sur:
 
 ## Volet Outils
 
-### 1. Travailler avec Git
+### Travailler avec Git
 
 #### Durée
 
@@ -418,9 +412,11 @@ Sessions de travail
 
 #### Description
 
+À venir
+
 [Retour à l'Horaire](#horaire)
 
-### 2. Orchestration et infonuagique hybride
+### Piles technologiques complètes en logiciels libres
 
 #### Durée
 
@@ -428,7 +424,7 @@ Sessions de travail
 
 #### Invitée, invité
 
-À confirmer - SPC (Bernard Maltais)
+Statistiques Canada
 
 #### Format
 
@@ -436,11 +432,13 @@ Sessions de travail
 
 #### Description
 
+À venir
+
 [Retour à l'Horaire](#horaire)
 
 ## Volet Personnes
 
-### 1. Contributions participatives (crowdsourcing) – Co-Lab
+### Contributions participatives (crowdsourcing) – Co-Lab
 
 #### Invitée, invité
 
@@ -456,7 +454,7 @@ Explorez comment votre organisation peut bénéficier de la contribution partici
 
 [Retour à l'Horaire](#horaire)
 
-### 2. Travailler ouvertement
+### Travailler ouvertement
 
 #### Invitée, invité
 

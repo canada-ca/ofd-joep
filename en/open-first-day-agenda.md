@@ -130,10 +130,10 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#1-procuring-open-source-software-and-technologies">1. Procuring Open Source Software and Technologies</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#procuring-open-source-software-and-technologies">Procuring Open Source Software and Technologies</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#1-crowd-sourcing-contributions--co-lab">1. Crowd-sourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Topic 1</a></td>
   </tr>
   <tr>
@@ -147,8 +147,8 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">11:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#2-releasing-gc-source-code-open">2. Releasing GC Source Code Open</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#1-managing-intellectual-property-and-licences">1. Managing Intellectual Property and Licences</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#managing-intellectual-property-and-licences">Managing Intellectual Property and Licences</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Topic 2</a></td>
@@ -177,9 +177,9 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">13:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#3-open-government">3. Open Government</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-government">Open Government</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#1-working-with-git">1. Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#working-with-git">Working with Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Topic 3</a></td>
   </tr>
@@ -196,8 +196,8 @@ Free of charge
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#2-orchestration-and-hybrid-clouds">2. Orchestration and Hybrid Clouds</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#2-open-projects-at-deil">2. Open Projects at DEIL</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
@@ -237,7 +237,7 @@ House cleaning
 
 #### Speaker
 
-TBC (Alex Benay, Marc Brouillard, etc.)
+To be confirmed
 
 #### Description
 
@@ -257,13 +257,7 @@ Suggested:
 
 #### Speaker
 
-TBC
-
-- Kirsten Burgard - US Government
-- Noureen Syed - Microsoft
-- Deborah Bryant - RedHat w/ Stephen Walli - Microsoft
-- Rikki Endsley - RedHat
-- Hillary Hartley - Ontario Digital Services
+To be confirmed
 
 #### Description
 
@@ -285,11 +279,8 @@ Moderator will most likely be the keynote speaker.
 
 - Kirsten Burgard - US Government (Tentative)
 - Pierre-Antoine Ferron - Ville de Montréal (Tentative)
-- Noureen Syed - Microsoft (Tentative)
 - Aaron Snow - Canadian Digital Service (Tentative)
 - Andrew Gibson - Treasury Board Secretariat (Tentative)
-- Mike Milinkovich - Eclipse Foundation (Tentative)
-- TBC - Looking for interested participants
 
 #### Topics
 
@@ -310,7 +301,7 @@ Moderator will most likely be the keynote speaker.
 
 ## Executive/General Stream
 
-### 1. Procuring Open Source Software and Technologies
+### Procuring Open Source Software and Technologies
 
 #### Duration
 
@@ -330,7 +321,7 @@ Explore the various Open Source Software industry business models and procuremen
 
 [Back to Schedule](#schedule)
 
-### 2. Releasing GC Source Code Open
+### Releasing GC Source Code Open
 
 #### Duration
 
@@ -352,7 +343,7 @@ Workshop
 
 [Back to Schedule](#schedule)
 
-### 3. Open Government
+### Open Government
 
 #### Duration
 
@@ -380,7 +371,7 @@ Workshop/Presentation (?)
 
 ## Rules Stream
 
-### 2. Managing Intellectual Property and Licences
+### Managing Intellectual Property and Licences
 
 #### Duration
 
@@ -406,7 +397,7 @@ Work through:
 
 ## Tools Stream
 
-### 1. Working with Git
+### Working with Git
 
 #### Duration
 
@@ -422,9 +413,11 @@ Workshop
 
 #### Description
 
+Upcoming
+
 [Back to Schedule](#schedule)
 
-### 2. Orchestration and Hybrid Clouds
+### Full Open Source Application Stack
 
 #### Duration
 
@@ -432,19 +425,21 @@ Workshop
 
 #### Speaker
 
-TBC - SSC (Bernard Maltais?), Intel (they worked on the Hybrid Clouds strategy)
+Statistics Canada
 
 #### Format
 
-Workshop
+Presentation/Workshop
 
 #### Description
+
+Upcoming
 
 [Back to Schedule](#schedule)
 
 ## People Stream
 
-### 1. Crowd-sourcing contributions – Co-Lab
+### Crowd-sourcing contributions – Co-Lab
 
 #### Speaker
 
@@ -461,7 +456,7 @@ software
 
 [Back to Schedule](#schedule)
 
-### 2. Open Projects at DEIL
+### Open Projects at DEIL
 
 #### Exploring the potential of open data using an “open project” approach
 
