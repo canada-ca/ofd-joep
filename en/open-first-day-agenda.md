@@ -58,10 +58,6 @@ Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
 
 Free of charge
 
-### Registration
-
-Link upcoming soon
-
 ### Audience
 
 - Government of Canada Public Servants - All levels
