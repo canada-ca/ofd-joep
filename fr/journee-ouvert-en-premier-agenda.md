@@ -281,7 +281,6 @@ La modératrice sera probablement la présentatrice principale.
 - Aaron Snow - Service numérique canadien (Provisoire)
 - Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
 
-
 #### Sujets
 
 - Valeur ajoutée (pourquoi)
