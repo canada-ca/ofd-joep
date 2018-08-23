@@ -1,0 +1,16 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "http://www.austlii.edu.au/"
+    },
+    {
+      "pattern": "http://www.gcpedia.gc.ca/"
+    },
+    {
+      "pattern": "../en/open-first-day-agenda.html"
+    },
+    {
+      "pattern": "../fr/journee-ouvert-en-premier-agenda.html"
+    }
+  ]
+}

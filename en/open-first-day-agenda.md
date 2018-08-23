@@ -3,7 +3,7 @@ layout: default
 title: Open First Day (Draft)
 lang: en
 altLang: fr
-altLangPage: journee ouverte en premier agenda
+altLangPage: journee ouvert en premier agenda
 filename: open-first-day-agenda
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
@@ -16,19 +16,19 @@ Following the redaction of the [Open First Whitepaper](https://github.com/canada
 
 Government of Canada departments have been working openly and in collaboration with the population as well as with private companies to enhance the quality of their service offerings for all Canadians using Open Source Software and open standards.
 
-This day will provide an opportunity for the various actors of the public service, private sector and the population to discuss and engage together to exchange the progress made over the last years and how we can continue to add value to our activities and services together.
+This day will provide an opportunity for the various actors of the public service, private sector and the population to discuss and engage together in order to exchange on the progress made over the last years and how we can continue to add value to our activities and services together.
 
 ## Format of the day
 
-> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions. If you notice syntax or ortograph errors, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
+> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions. If you notice syntax or other mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
 
-The Open First Day will offer a wide variety of activities and sessions for participants to learn and engage with other government employees as well as with private sector representatives and members of the public. 
+The Open First Day will offer a wide variety of activities and sessions for participants to learn and engage with other government employees as well as with private sector representatives and members of the public.
 
 In order to help capture the breadth of what is in scope, we have put together multiple streams.
 
 The first stream is the general, or "executive", stream which is geared towards a higher level view of what Open Government is; how we can use and contribute to Open Source Software and how we can actually procure such technologies.
 
-Then, there are three more specific streams with sessions where engagement with the participants will be privileged. 
+Then, there are three more specific streams with sessions where engagement with the participants will be privileged.
 
 - The Rules stream will have a session around the legislative clarifications and guidance on the use and contribution to Open Source Software.
 - The Tools stream will offer sessions around the decentralized version control system Git and how it is possible to leverage Open Source Software at every layer of an application.
@@ -81,7 +81,6 @@ Link upcoming soon
 - A coffee shop is available on site for snacks and lunch.
 - One of the small boardroom will be reserved for side discussions on reservation.
 - A board will be setup to exchange contact and services details in order to prepare a networking activity during lunchtime.
-
 
 ## Schedule
 
