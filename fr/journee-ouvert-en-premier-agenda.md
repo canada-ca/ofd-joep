@@ -69,7 +69,7 @@ Le lien sera affiché prochainement
 
 ### Configuration des salles
 
-- Fonderie: Large salle pouvant recevoir jusqu'à 250 personnes
+- Fonderie: Large salle pouvant recevoir jusqu'à 250 personnes, 150 lorsque des tables sont installées
 - Salle de formation: Salle moyenne de formation pouvant recevoir jusqu'à 40 personnes assises, 60 avec des personnes debout
 - Salle de réunion: Salle moyenne de réunion pouvant recevoir jusqu'à 24 personnes assises, 30 avec des personnes debout
 - Salles A et B: Deux salles de rencontre pour 6 personnes

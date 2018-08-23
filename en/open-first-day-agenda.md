@@ -12,9 +12,9 @@ filename: open-first-day-agenda
 
 ## Purpose
 
-Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting open standards, using and contributing to Open Source Software, thus supporting an open culture and open markets.
+Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting Open Standards, using and contributing to Open Source Software, thus supporting an open culture and open markets.
 
-Government of Canada departments have been working openly and in collaboration with the population as well as with private companies to enhance the quality of their service offerings for all Canadians using Open Source Software and open standards.
+Government of Canada departments have been working openly and in collaboration with the population as well as with private companies to enhance the quality of their service offerings for all Canadians using Open Source Software and Open Standards.
 
 This day will provide an opportunity for the various actors of the public service, private sector and the population to discuss and engage together in order to exchange on the progress made over the last years and how we can continue to add value to our activities and services together.
 
@@ -70,7 +70,7 @@ Link upcoming soon
 
 ### Room Setup
 
-- Foundry: Large open room hosting up to 250 people
+- Foundry: Large open room hosting up to 250 people, 150 with tables.
 - Training room: Medium size training room hosting up to 40, possibly 60 people
 - Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
 - Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
@@ -481,7 +481,7 @@ Workshop
 
 Over the last few years, the Data Exploration and Integration Lab (DEIL) at Statistics Canada has conducted an increasing amount of work using various open source tools, open data, and open code. For instance, since 2016, DEIL has implemented tools and project solutions on its GitHub account, providing and sharing code under an open source license. In January 2018, DEIL began exploring the potential of integrating open data into coherent and standardized datasets. This exploration and experience has given rise to the idea of using an “open project” approach.
 
-This workshop will engage the audience with practical examples of “open projects”, that is, projects that, to the extent possible, make use of open software, open code, open standards, open data, and open project management tools. The focus will be on the integration of buildings and business records, using exclusively open microdata. The preliminary results obtained to date are very encouraging and more can be achieved in a collaborative environment.
+This workshop will engage the audience with practical examples of “open projects”, that is, projects that, to the extent possible, make use of open software, open code, Open Standards, open data, and open project management tools. The focus will be on the integration of buildings and business records, using exclusively open microdata. The preliminary results obtained to date are very encouraging and more can be achieved in a collaborative environment.
 
 The workshop will discuss the potential and benefits of working as an open project, the challenges that are encountered and the possible solutions. For instance, some of the integration solutions are developed in Python and the GNU/Linux operating system to allow for a more fluid development platform, which was found to simplify the data processing framework. Availability and accuracy of the data will be also discussed. An open project framework permits all participants to actively engage in the current and future development of the ongoing work. The session will provide simple hands-on examples on how to contribute to such initiatives.
 
