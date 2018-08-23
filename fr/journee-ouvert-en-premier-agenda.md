@@ -57,10 +57,6 @@ Cours Bayview, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
 
 Gratuit
 
-### Enregistrement
-
-Le lien sera affiché prochainement
-
 ### Auditoire
 
 - Membres de la fonction publique du Gouvernement du Canada - Tous niveaux confondus
