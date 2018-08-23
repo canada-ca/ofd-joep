@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Journée Ouvert en premier (Ébauche)
+title:  Journée Ouvert en premier
 lang: fr
 altLang: en
 altLangPage: open first day
@@ -9,6 +9,8 @@ filename: journee-ouvert-en-premier-agenda
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
 [English](../en/open-first-day-agenda.html)
+
+> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
 
 ## Objectif
 
@@ -19,8 +21,6 @@ Les départements du Gouvernement du Canada travaillent ouvertement et en collab
 Cette journée vise à offrir un espace de discussion et d'engagement pour les différents acteurs de la fonction publique, du secteur privé et de la population pour échanger sur les progrès effectués au cours des dernières années ainsi que sur les meilleures façons de continuer d'ajouter de la valeur à nos activités et services.
 
 ## Format de la journée
-
-> Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
 
 La journée Ouvert en premier offrira un large éventail d'activités et de sessions permettant aux participants d'apprendre et d'échanger avec d'autres employées du gouvernement ainsi qu'avec des représentants du secteur privé et des membres du public.
 
