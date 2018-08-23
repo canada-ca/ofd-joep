@@ -34,7 +34,15 @@ Then, there are three more specific streams with sessions where engagement with 
 - The Tools stream will offer sessions around the decentralized version control system Git and how it is possible to leverage Open Source Software at every layer of an application.
 - The People stream will explore the work done by various departments in terms of crowdsourcing and open collaboration as well as how Open Source Software can be leveraged in such initiatives.
 
-For the people who are already familiar with these concepts, a series of networking activities will be held during the day to help support a greater cohesion of the community of practice as well as the external service providers. Such activities include an Unconference stream, speed networking sessions, lunchtime and after event mixing. We're also planning on having  a small dedicated boardroom that people will be able to register for 15 minutes sessions on site for more immersed discussions. 
+For the people who are already familiar with these concepts, a series of networking activities will be held during the day to help support a greater cohesion of the community of practice as well as the external service providers. Such activities include an Unconference stream, speed networking sessions, lunchtime and after event mixing.
+
+## Registration
+
+To register, please fill in the form at the following link:
+
+https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord
+
+> Please note that due to capacity reasons, the number of registration for this event is limited to 250 people. A waiting list will be created upon reaching the maximum number of registrants to ensure as many people as possible can attend.
 
 ## Logistics
 

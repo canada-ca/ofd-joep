@@ -22,9 +22,27 @@ Cette journée vise à offrir un espace de discussion et d'engagement pour les d
 
 > Veuillez noter que l'agenda présent est provisoire et un document de travail en constante évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités, de l'endroit et des sujets de séances. Nous vous encourageons à nous suggérer des invités, panélistes, modérateurs et même des sujets pour les différentes séances prévues. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
 
-La journée Ouvert en premier offrira un large éventail d'activités et de sessions permettant aux participants d'apprendre et d'engager la conversation avec d'autres employées du gouvernement ainsi qu'avec des représentants du secteur privé et des membres du public. 
+La journée Ouvert en premier offrira un large éventail d'activités et de sessions permettant aux participants d'apprendre et d'échanger avec d'autres employées du gouvernement ainsi qu'avec des représentants du secteur privé et des membres du public. 
 
-Afin d'aider à capturer l'étendue de ce qui fera partie de la journée, nous avons mis de multiple
+Afin d'aider à capturer l'étendue des sujets abordés tout au long de la journée, nous avons mis en place différents volets.
+
+Le premier volet, soit le général ou exécutif, sera principalement dirigé vers une vue de haut niveau de ce qu'implique un Gouvernement Ouvert; comment utiliser et contribuer aux logiciels libres; et comment fonctionne l'approvisionnement de ces technologies.
+
+Puis, il y aura trois volets plus spécifiques avec des sessions favorisant l'engagement avec les participants.
+
+- Le volet Règles visera à clarifier et à guider les participants autour des dimensions légales de l'utilisation et de la contribution aux logiciels libres.
+- Le volet Outils aura pour objectif de présenter des technologies des méthodes de travail comme le système de contrôle de version décentralisé Git et comment mettre à profit des logiciels libres à tous les niveaux d'applications.
+- Le volet Personnes explorera le travail effectué par divers départements en terme de socio-contributions et de collaboration ouverte ainsi que la mise à profit des logiciels libres pour que ce type d'initiatives soient un succès.
+
+Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une série d'activités de réseautage seront organisées durant la journée pour supporter une plus grande cohésion de la communauté de pratique du gouvernement ainsi que la rencontre de partenaire externes. Ces activités incluent un volet de "non-conférence", des sessions de rencontres rapides et des opportunités de rencontres sur l'heure du diner et après la journée. 
+
+## Enregistrement
+
+Pour vous enregistrer, veuillez remplir le formulaire à la page suivante:
+
+https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr
+
+> Veuillez noter que pour des raisons de capacité physiques, le nombre d'enregistrement pour assister à l'événement sur place sera limité à 250 personnes mais qu'une liste d'attente sera créée afin de permettre au plus de gens possible de participer.
 
 ## Logistiques
 
