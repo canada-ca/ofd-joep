@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open First Day (Draft)
+title: Open First Day
 lang: en
 altLang: fr
 altLangPage: journee ouvert en premier agenda
@@ -9,6 +9,8 @@ filename: open-first-day-agenda
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
 [Français](../fr/journee-ouvert-en-premier-agenda.html)
+
+> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
 
 ## Purpose
 
@@ -19,8 +21,6 @@ Government of Canada departments have been working openly and in collaboration w
 This day will provide an opportunity for the various actors of the public service, private sector and the population to discuss and engage together in order to exchange on the progress made over the last years and how we can continue to add value to our activities and services together.
 
 ## Format of the day
-
-> Please note that this agenda is tentative. Changes and updates will be made as we receive confirmation of speakers, venue and topics. We encourage you to suggest speakers, panelists, moderators or even topics for the various sessions. If you notice syntax or other mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
 
 The Open First Day will offer a wide variety of activities and sessions for participants to learn and engage with other government employees as well as with private sector representatives and members of the public.
 
