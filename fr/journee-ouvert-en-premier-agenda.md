@@ -38,7 +38,7 @@ Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une 
 
 ## Enregistrement
 
-Pour vous enregistrer, veuillez remplir le formulaire à la page suivante:
+Pour vous enregistrer, veuillez remplir le formulaire à la page suivante (si vous n'êtes pas d'un département du gouvernement, nous vous prions de choisir "Autre" pour votre organisation:
 
 [https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr)
 

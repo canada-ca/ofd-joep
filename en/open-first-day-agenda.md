@@ -38,7 +38,7 @@ For the people who are already familiar with these concepts, a series of network
 
 ## Registration
 
-To register, please fill in the form at the following link:
+To register, please fill in the form at the following link (if you're not from a government department, please choose "Other" as your organisation):
 
 [https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord)
 
