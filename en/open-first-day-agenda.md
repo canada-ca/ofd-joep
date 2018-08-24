@@ -178,9 +178,9 @@ Free of charge
   <tr>
     <td class="tg-c3ow">13:30</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#procuring-open-source-software-and-technologies">Procuring Open Source Software and Technologies</a></td>
-    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#working-with-git">Working with Git</a></td>
-    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:45</td>
@@ -193,8 +193,8 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">14:30</td>
-    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
-    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
   </tr>
