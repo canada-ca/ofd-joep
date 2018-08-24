@@ -42,7 +42,7 @@ To register, please fill in the form at the following link (if you're not from a
 
 [https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord)
 
-> Please note that due to capacity reasons, the number of registration for this event is limited to 250 people. A waiting list will be created upon reaching the maximum number of registrants to ensure as many people as possible can attend.
+> Please note that we have to limit number of registrations for this event to 250 people but that a waiting list will be created upon reaching the maximum number of registrants to ensure as many people as possible can attend.
 
 ## Logistics
 
@@ -101,19 +101,19 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5"><a href="./open-first-day-agenda.html#welcome">Welcome</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.html#welcome">Welcome</a><br><a href="./open-first-day-agenda.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda.html#keynote">Keynote</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda.html#keynote">Keynote</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
+    <td class="tg-c3ow" colspan="3" rowspan="4"><a href="./open-first-day-agenda.html#panel">Panel</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#Speed Networking">Speed Networking</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Setup</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda.html#panel">Panel</a></td>
-    <td class="tg-c3ow" rowspan="5"><a href="./open-first-day-agenda.html#unconference-stream">Setup</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
@@ -123,18 +123,19 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">10:00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2">Break</td>
+    <td class="tg-c3ow" colspan="4" rowspan="1">Break</td>
+    <td class="tg-c3ow" rowspan="22"><a href="./open-first-day-agenda.html#unconference-stream">Unconference</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:15</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-government">Open Government</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#managing-intellectual-property-and-licences">Managing Intellectual Property and Licences</a></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#procuring-open-source-software-and-technologies">Procuring Open Source Software and Technologies</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Topic 1</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -144,14 +145,13 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">11:15</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#managing-intellectual-property-and-licences">Managing Intellectual Property and Licences</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Topic 2</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:45</td>
@@ -161,10 +161,10 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">12:15</td>
+    <td class="tg-uys7" colspan="4" rowspan="5">"Problem Solving" Lunch</td>
   </tr>
   <tr>
     <td class="tg-uys7">12:30</td>
-    <td class="tg-uys7" colspan="5" rowspan="4">Lunch</td>
   </tr>
   <tr>
     <td class="tg-uys7">12:45</td>
@@ -177,11 +177,10 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">13:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-government">Open Government</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#procuring-open-source-software-and-technologies">Procuring Open Source Software and Technologies</a></td>
+    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#working-with-git">Working with Git</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Topic 3</a></td>
+    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:45</td>
@@ -194,11 +193,10 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-c3ow">14:30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
+    <td class="tg-c3ow" rowspan="4" bgcolor="#DCDCDC"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:45</td>
@@ -209,88 +207,90 @@ Free of charge
   <tr>
     <td class="tg-c3ow">15:15</td>
   </tr>
+  <tr>
+    <td class="tg-c3ow">15:30</td>
+    <td class="tg-uys7" colspan="5">Closing Remarks</td>
+  </tr>
 </table>
 
-## Main Stream
+## Welcome
 
-### Welcome
-
-#### Duration
+### Duration
 
 5-10 minutes
 
-#### Speaker
+### Speaker
 
 Master of Ceremony
 
-#### Description
+### Description
 
 House cleaning
 
 [Back to Schedule](#schedule)
 
-### Opening Remarks
+## Opening Remarks
 
-#### Duration
+### Duration
 
 10 minutes
 
-#### Speaker
+### Speaker
 
-To be confirmed
+#### Olivia Neal ([@LivNeal](https://twitter.com/livneal))
 
-#### Description
+Executive Director, Digital Change
 
-Suggested:
-
-- Digital Strategy alignment with Open Source Software and Open Standards
-  - Use and contribute to Open Source Software
-  - Work in the open
+Office of the Chief Information Officer of Canada
 
 [Back to Schedule](#schedule)
 
-### Keynote
+## Keynote
 
-#### Duration
+### Duration
 
 20-25 minutes
 
-#### Speaker
+### Speaker
 
 To be confirmed
 
-#### Description
+### Description
 
-Why using and contributing to Open Source Software is critical for our success.
+Why using and contributing to Open Source Software and Open Standards is critical for our success.
 
 [Back to Schedule](#schedule)
 
-### Panel
+## Panel
 
-#### Duration
+### Duration
 
 45 minutes
 
-#### Moderator
+### Moderator
 
-Moderator will most likely be the keynote speaker.
+#### Olivia Neal ([@LivNeal](https://twitter.com/livneal))
 
-#### Panelists
+Executive Director, Digital Change
+
+Office of the Chief Information Officer of Canada
+
+### Panelists
 
 - Kirsten Burgard - US Government (Tentative)
 - Pierre-Antoine Ferron - Ville de Montréal (Tentative)
 - Aaron Snow - Canadian Digital Service (Tentative)
 - Andrew Gibson - Treasury Board Secretariat (Tentative)
 
-#### Topics
+### Topics
 
 - Business Value (Why)
   - Using Open Source Software and Open Standards
-    - Total Cost of Ownership
     - Industry best practices
     - Interoperability
     - Open markets
     - Vendors availability
+    - Total Cost of Ownership
   - Contribution to Open Source Community
     - Releasing GC Source Code
     - Direct contribution to 3rd party projects

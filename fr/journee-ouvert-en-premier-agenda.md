@@ -36,12 +36,13 @@ Puis, il y aura trois volets plus spécifiques avec des sessions favorisant l'en
 
 Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une série d'activités de réseautage seront organisées durant la journée pour supporter une plus grande cohésion de la communauté de pratique du gouvernement ainsi que la rencontre de partenaire externes. Ces activités incluent un volet de "non-conférence", des sessions de rencontres rapides et des opportunités de rencontres sur l'heure du diner et après la journée.
 
-## Enregistrement
+## Inscription
 
-Pour vous enregistrer, veuillez remplir le formulaire à la page suivante (si vous n'êtes pas d'un département du gouvernement, nous vous prions de choisir "Autre" pour votre organisation:
+Pour vous inscrire, veuillez remplir le formulaire à la page suivante (si vous n'êtes pas d'un département du gouvernement, nous vous prions de choisir "Autre" pour votre organisation):
+
 [https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr)
 
-> Veuillez noter que pour des raisons de capacité physiques, le nombre d'enregistrement pour assister à l'événement sur place sera limité à 250 personnes mais qu'une liste d'attente sera créée afin de permettre au plus de gens possible de participer.
+> Veuillez noter que le nombre d'inscriptions pour assister à l'événement sur place sera limité à 250 personnes mais qu'une liste d'attente sera créée afin de permettre au plus de gens possible de participer.
 
 ## Logistiques
 
@@ -100,19 +101,19 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5"><a href="./journee-ouvert-en-premier-agenda.html#bienvenue">Bienvenue</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#accueil">Accueil</a><br><a href="./journee-ouvert-en-premier-agenda.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda.html#présentation-principale">Présentation principale</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda.html#présentation-principale">Présentation principale</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
+    <td class="tg-c3ow" colspan="3" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#panel-de-discussion">Panel de discussion</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#réseautage-éclair">Réseautage éclair</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Préparation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda.html#panel">Panel</a></td>
-    <td class="tg-c3ow" rowspan="5"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Préparation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 30</td>
@@ -122,18 +123,18 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2">Pause</td>
+    <td class="tg-c3ow" colspan="4" rowspan="1">Pause</td>
+    <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 15</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#formes-dapprovisionnement-en-logiciels-et-technologies-libres">Formes d'approvisionnement en logiciels et technologies libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Sujet 1</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">10 h 30</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
@@ -143,14 +144,13 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 15</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">11 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#liberer-du-code-source-du-gc">Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#gerer-la-propriete-intellectuelle-et-les-licences">Gérer la propriété intellectuelle et les licences</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Sujet 2</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">11 h 30</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 45</td>
@@ -160,10 +160,10 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">12 h 15</td>
+      <td class="tg-uys7" colspan="4" rowspan="5">Lunch "Résolution de problèmes"</td>
   </tr>
   <tr>
     <td class="tg-uys7">12 h 30</td>
-    <td class="tg-uys7" colspan="5" rowspan="4">Lunch</td>
   </tr>
   <tr>
     <td class="tg-uys7">12 h 45</td>
@@ -176,11 +176,10 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#formes-dapprovisionnement-en-logiciels-et-technologies-libres">Formes d'approvisionnement en logiciels et technologies libres</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Sujet 3</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 45</td>
@@ -197,7 +196,6 @@ Gratuit
     <td class="tg-c3ow" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#piles-technologies-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#travailler-ouvertement">Travailler ouvertement</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14 h 45</td>
@@ -208,88 +206,90 @@ Gratuit
   <tr>
     <td class="tg-c3ow">15 h 15</td>
   </tr>
+  <tr>
+    <td class="tg-c3ow">15 h 30</td>
+    <td class="tg-uys7" colspan="5">Remarques de fermeture</td>
+  </tr>
 </table>
 
-## Sessions Communes
+## Accueil
 
-### Bienvenue
-
-#### Durée
+### Durée
 
 5-10 minutes
 
-#### Invitée, invité
+### Invitée, invité
 
 Maitre de cérémonie
 
-#### Description
+### Description
 
 Instructions générales
 
 [Retour à l'Horaire](#horaire)
 
-### Mot d'ouverture
+## Mot d'ouverture
 
-#### Durée
+### Durée
 
 10 minutes
 
-#### Invitée, invité
+### Invitée
 
-À confirmer
+#### Olivia Neal [@LivNeal](https://twitter.com/livneal)
 
-#### Description
+Directrice exécutive, Changement numérique
 
-Suggestion:
-
-- Alignement de la Stratégie numérique avec les normes ouvertes et les logiciels libres
-  - Utiliser et contribuer aux logiciels libres
-  - Travailler ouvertement
+Bureau du Dirigeant principal de l'information du Canada
 
 [Retour à l'Horaire](#horaire)
 
-### Présentation principale
+## Présentation principale
 
-#### Durée
+### Durée
 
 20-25 minutes
 
-#### Invitée, invité
+### Invitée, invité
 
 À confirmer
 
-#### Description
+### Description
 
-Pourquoi utiliser et contribuer aux logiciels libres est critiques à notre succès.
+Pourquoi utiliser et contribuer aux logiciels libres et aux normes ouvertes est critique à notre succès.
 
 [Retour à l'Horaire](#horaire)
 
-### Panel
+## Panel de discussion
 
-#### Durée
+### Durée
 
 45 minutes
 
-#### Modératrice, Modérateur
+### Modératrice, Modérateur
 
-La modératrice sera probablement la présentatrice principale.
+#### Olivia Neal [@LivNeal](https://twitter.com/livneal)
 
-#### Panélistes
+Directrice exécutive, Changement numérique
+
+Bureau du Dirigeant principal de l'information du Canada
+
+### Panélistes
 
 - Kirsten Burgard - Gouvernement des États-Unis (Provisoire)
 - Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
 - Aaron Snow - Service numérique canadien (Provisoire)
 - Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
 
-#### Sujets
+### Sujets
 
 - Valeur ajoutée (pourquoi)
   - Utiliser les logiciels libres et les normes ouvertes
-    - Coût total de possession
     - Meilleures pratiques de l'industrie
     - Interopérabilité
     - Marchés ouverts
     - Disponibilité des vendeurs
+    - Coût total de possession
   - Contribution à la communauté des logiciels libres
     - Libérer le code source au Gouvernement du Canada
     - Contribution directe aux projets tiers
