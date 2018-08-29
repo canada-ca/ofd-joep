@@ -217,7 +217,7 @@ Free of charge
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2">Upcoming</td>
-    <td class="tg-c3ow" rowspan="2">Upcoming</td>    
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:15</td>
