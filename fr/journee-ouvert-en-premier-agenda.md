@@ -87,6 +87,9 @@ Gratuit
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:center}
+.empty {
+  background-image: repeating-linear-gradient(45deg, #ccc, #ccc 30px, #dbdbdb 30px, #dbdbdb 60px);
+}
 .tg .tg-uys7{border-color:inherit;text-align:center;vertical-align:center;min-width:80px}
 </style>
 
@@ -101,15 +104,14 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#accueil">Accueil</a><br><a href="./journee-ouvert-en-premier-agenda.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda.html#présentation-principale">Présentation principale</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#accueil">Accueil</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
-    <td class="tg-c3ow" colspan="3" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#panel-de-discussion">Panel de discussion</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#réseautage-éclair">Réseautage éclair</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda.html#présentation-principale">Présentation principale</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Préparation</a></td>
   </tr>
   <tr>
@@ -117,50 +119,52 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 30</td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda.html#panel-de-discussion">Panel de discussion</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="1">Pause</td>
     <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 15</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="1">Pause</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 00</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 15</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#gerer-la-propriete-intellectuelle-et-les-licences">Gérer la propriété intellectuelle et les licences</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 30</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#formes-dapprovisionnement-en-logiciels-et-technologies-libres">Formes d'approvisionnement en logiciels et technologies libres</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#travailler-avec-git">Travailler avec Git</a></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12 h 00</td>
+    <td class="tg-uys7" colspan="4" rowspan="4">Lunch  et Réseautage</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12 h 15</td>
-      <td class="tg-uys7" colspan="4" rowspan="5">Lunch "Résolution de problèmes"</td>
   </tr>
   <tr>
     <td class="tg-uys7">12 h 30</td>
@@ -170,38 +174,46 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-uys7">13 h 00</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#formes-dapprovisionnement-en-logiciels-et-technologies-libres">Formes d'approvisionnement en logiciels et technologies libres</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#travailler-avec-git">Travailler avec Git</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14 h 00</td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#piles-technologiques-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14 h 15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14 h 30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#piles-technologies-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#travailler-ouvertement">Travailler ouvertement</a></td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15 h 00</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15 h 15</td>

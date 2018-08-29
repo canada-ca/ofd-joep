@@ -87,6 +87,9 @@ Free of charge
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:center}
+.empty {
+  background-image: repeating-linear-gradient(45deg, #ccc, #ccc 30px, #dbdbdb 30px, #dbdbdb 60px);
+}
 .tg .tg-uys7{border-color:inherit;text-align:center;vertical-align:center;min-width:80px}
 </style>
 
@@ -101,108 +104,120 @@ Free of charge
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.html#welcome">Welcome</a><br><a href="./open-first-day-agenda.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda.html#keynote">Keynote</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.html#welcome">Welcome</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
-    <td class="tg-c3ow" colspan="3" rowspan="4"><a href="./open-first-day-agenda.html#panel">Panel</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#Speed Networking">Speed Networking</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./open-first-day-agenda.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda.html#keynote">Keynote</a></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Setup</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:15</td>
+
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
+        <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda.html#panel">Panel</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="1">Break</td>
     <td class="tg-c3ow" rowspan="22"><a href="./open-first-day-agenda.html#unconference-stream">Unconference</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:15</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-government">Open Government</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#managing-intellectual-property-and-licences">Managing Intellectual Property and Licences</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-
+    <td class="tg-c3ow" colspan="4" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#open-government">Open Government</a></td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:15</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
+
   </tr>
   <tr>
     <td class="tg-c3ow">11:30</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#procuring-open-source-software-and-technologies">Procuring Open Source Software and Technologies</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#working-with-git">Working with Git</a></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12:00</td>
+      <td class="tg-uys7" colspan="4" rowspan="4">Networking Lunch</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12:15</td>
-    <td class="tg-uys7" colspan="4" rowspan="5">"Problem Solving" Lunch</td>
+
   </tr>
   <tr>
     <td class="tg-uys7">12:30</td>
+
   </tr>
   <tr>
     <td class="tg-uys7">12:45</td>
   </tr>
   <tr>
     <td class="tg-uys7">13:00</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:30</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#procuring-open-source-software-and-technologies">Procuring Open Source Software and Technologies</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#working-with-git">Working with Git</a></td>
-    <td class="tg-c3ow" rowspan="4"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:00</td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow empty" rowspan="4"></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:30</td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:00</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:15</td>
@@ -217,15 +232,15 @@ Free of charge
 
 ### Duration
 
-5-10 minutes
+30 minutes
 
 ### Speaker
 
-Master of Ceremony
+Master of Ceremony & Animators
 
 ### Description
 
-House cleaning
+House cleaning & Crowd Engagement Activity
 
 [Back to Schedule](#schedule)
 
@@ -249,7 +264,7 @@ Office of the Chief Information Officer of Canada
 
 ### Duration
 
-20-25 minutes
+20 minutes
 
 ### Speaker
 
@@ -305,7 +320,7 @@ Office of the Chief Information Officer of Canada
 
 #### Duration
 
-55 minutes
+25 minutes
 
 #### Speaker
 
