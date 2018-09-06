@@ -44,6 +44,12 @@ To register, please fill in the form at the following link (if you're not from a
 
 > Please note that we have to limit number of registrations for this event to 250 people but that a waiting list will be created upon reaching the maximum number of registrants to ensure as many people as possible can attend.
 
+### Remote participation
+
+In order to support remote participation to the event, we will establish a streaming option for the main sessions.
+
+This section will be updated once the technical details are confirmed and registration will not be required to connect.
+
 ## Logistics
 
 ### Date
@@ -101,6 +107,13 @@ Free of charge
     <th class="tg-uys7"><a href="./open-first-day-agenda.html#tools-stream">Tools</a><br>(C)</th>
     <th class="tg-uys7"><a href="./open-first-day-agenda.html#people-stream">People</a><br>(D)</th>
     <th class="tg-c3ow"><a href="./open-first-day-agenda.html#unconference-stream">Unconference</a><br>(E)</th>
+  </tr>
+  <tr>
+    <td class="tg-uys7">08:00</td>
+    <td class="tg-uys7" colspan="5" rowspan="2">Registration of participants</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">08:15</td>
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
