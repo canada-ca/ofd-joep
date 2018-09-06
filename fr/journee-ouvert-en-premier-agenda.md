@@ -44,6 +44,12 @@ Pour vous inscrire, veuillez remplir le formulaire à la page suivante (si vous 
 
 > Veuillez noter que le nombre d'inscriptions pour assister à l'événement sur place sera limité à 250 personnes mais qu'une liste d'attente sera créée afin de permettre au plus de gens possible de participer.
 
+### Participation à distance
+
+Afin de permettre aux gens ne pouvant se déplacer jusqu'à l'endroit retenu de participer, nous établirons une webdiffusion pour les séances principales.
+
+Les informations pour se connecter seront mis à jour dans cette section lorsque les détails techniques seront confirmés et il ne sera pas nécessaire de s'inscrire pour se connecter.
+
 ## Logistiques
 
 ### Date
@@ -101,6 +107,13 @@ Gratuit
     <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-outils">Outils</a><br>(C)</th>
     <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-personnes">Personnes</a><br>(D)</th>
     <th class="tg-c3ow"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Non-conférence</a><br>(E)</th>
+  </tr>
+  <tr>
+    <td class="tg-uys7">8 h 00</td>
+    <td class="tg-uys7" colspan="5" rowspan="2">Enregistrement des participantes et participants</td>
+  </tr>
+  <tr>
+    <td class="tg-uys7">8 h 15</td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
