@@ -26,9 +26,9 @@ La journée Ouvert en premier offrira un large éventail d'activités et de sess
 
 Afin d'aider à capturer l'étendue des sujets abordés tout au long de la journée, nous avons mis en place différents volets.
 
-Le premier volet, soit le général ou exécutif, sera principalement dirigé vers une vue de haut niveau de ce qu'implique un Gouvernement Ouvert; comment utiliser et contribuer aux logiciels libres; et comment fonctionne l'approvisionnement de ces technologies.
+Le premier volet, soit le général ou exécutif, sera principalement dirigé vers une vue de haut niveau de ce qu'implique un Gouvernement Ouvert et comment utiliser et contribuer aux logiciels libres.
 
-Puis, il y aura trois volets plus spécifiques avec des sessions favorisant l'engagement avec les participants.
+Il y aura également trois volets plus spécifiques avec des sessions favorisant l'engagement avec les participants.
 
 - Le volet Règles visera à clarifier et à guider les participants autour des dimensions légales de l'utilisation et de la contribution aux logiciels libres.
 - Le volet Outils aura pour objectif de présenter des technologies des méthodes de travail comme le système de contrôle de version décentralisé Git et comment mettre à profit des logiciels libres à tous les niveaux d'applications.
@@ -52,9 +52,11 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
 
 ## Logistiques
 
-### Date
+### Date et Heure
 
-28 septembre 2018
+- 28 septembre 2018
+- De 08:30 à 16:00
+  - L'enregistrement commencera à 08:00
 
 ### Endroit
 

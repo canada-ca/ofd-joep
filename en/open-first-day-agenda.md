@@ -52,17 +52,19 @@ This section will be updated once the technical details are confirmed and regist
 
 ## Event Details
 
-### Date
+### Date & Time
 
-September 28, 2018
+- September 28, 2018
+- From 08:30 to 16:00
+  - Registration starts at 08:00
 
 ### Venue
 
-Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
+- Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
 
 ### Price
 
-Free of charge
+- Free of charge
 
 ### Audience
 
