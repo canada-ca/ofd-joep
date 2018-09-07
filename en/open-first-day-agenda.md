@@ -281,7 +281,7 @@ Office of the Chief Information Officer of Canada
 
 ### Speaker
 
-To be confirmed
+#### Kirsten Burgard ([]())
 
 ### Description
 
