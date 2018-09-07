@@ -8,33 +8,11 @@ filename: journee-ouvert-en-premier-agenda
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
-[English](../en/open-first-day-agenda.html)
+[English](../en/open-first-day-agenda-details.html)
 
 > Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
 
-## Objectif
-
-Suivant la rédaction du [Livre blanc Ouvert en premier](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), la journée "Ouvert en premier" mettra en évidence comment le Gouvernement du Canada continuera d'adopter des normes ouvertes, d'utiliser et de contribuer aux logiciels libres, supportant ainsi une culture ouverte et des marchés ouverts.
-
-Les départements du Gouvernement du Canada travaillent ouvertement et en collaboration avec la population et des partenaires du secteur privé afin d'améliorer la qualité de leurs services pour les canadiennes et les canadiens en utilisant des logiciels libres et des standards ouverts.
-
-Cette journée vise à offrir un espace de discussion et d'engagement pour les différents acteurs de la fonction publique, du secteur privé et de la population pour échanger sur les progrès effectués au cours des dernières années ainsi que sur les meilleures façons de continuer d'ajouter de la valeur à nos activités et services.
-
-## Format de la journée
-
-La journée Ouvert en premier offrira un large éventail d'activités et de sessions permettant aux participants d'apprendre et d'échanger avec d'autres employées du gouvernement ainsi qu'avec des représentants du secteur privé et des membres du public.
-
-Afin d'aider à capturer l'étendue des sujets abordés tout au long de la journée, nous avons mis en place différents volets.
-
-Le premier volet, soit le général ou exécutif, sera principalement dirigé vers une vue de haut niveau de ce qu'implique un Gouvernement Ouvert; comment utiliser et contribuer aux logiciels libres; et comment fonctionne l'approvisionnement de ces technologies.
-
-Puis, il y aura trois volets plus spécifiques avec des sessions favorisant l'engagement avec les participants.
-
-- Le volet Règles visera à clarifier et à guider les participants autour des dimensions légales de l'utilisation et de la contribution aux logiciels libres.
-- Le volet Outils aura pour objectif de présenter des technologies des méthodes de travail comme le système de contrôle de version décentralisé Git et comment mettre à profit des logiciels libres à tous les niveaux d'applications.
-- Le volet Personnes explorera le travail effectué par divers départements en terme de socio-contributions et de collaboration ouverte ainsi que la mise à profit des logiciels libres pour que ce type d'initiatives soient un succès.
-
-Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une série d'activités de réseautage seront organisées durant la journée pour supporter une plus grande cohésion de la communauté de pratique du gouvernement ainsi que la rencontre de partenaire externes. Ces activités incluent un volet de "non-conférence", des sessions de rencontres rapides et des opportunités de rencontres sur l'heure du diner et après la journée.
+## [Retour au sommaire](./journee-ouvert-en-premier-agenda.html)
 
 ## Inscription
 
@@ -49,40 +27,6 @@ Pour vous inscrire, veuillez remplir le formulaire à la page suivante (si vous 
 Afin de permettre aux gens ne pouvant se déplacer jusqu'à l'endroit retenu de participer, nous établirons une webdiffusion pour les séances principales.
 
 Les informations pour se connecter seront mis à jour dans cette section lorsque les détails techniques seront confirmés et il ne sera pas nécessaire de s'inscrire pour se connecter.
-
-## Logistiques
-
-### Date
-
-28 septembre 2018
-
-### Endroit
-
-Cours Bayview, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
-
-### Prix
-
-Gratuit
-
-### Auditoire
-
-- Membres de la fonction publique du Gouvernement du Canada - Tous niveaux confondus
-- Représentants et représentantes de compagnies privées
-- Public général
-
-### Configuration des salles
-
-- Fonderie: Large salle pouvant recevoir jusqu'à 250 personnes, 150 lorsque des tables sont installées
-- Salle de formation: Salle moyenne de formation pouvant recevoir jusqu'à 40 personnes assises, 60 avec des personnes debout
-- Salle de réunion: Salle moyenne de réunion pouvant recevoir jusqu'à 24 personnes assises, 30 avec des personnes debout
-- Salles A et B: Deux salles de rencontre pour 6 personnes
-- Aire ouverte pour kiosques
-
-### Services offerts
-
-- Un café est disponible sur place pour acheter des collations et le diner.
-- Une salle de réunion sera disponible pour organiser des discussions sur réservation.
-- Un tableau d'échange de contacts et de services sera disponible pour préparer une activité de réseautage sur l'heure du dîner.
 
 ## Horaire
 
@@ -497,7 +441,7 @@ Découvrez comment travailler ouvertement affecte votre propre travail, votre é
 
 ## Volet Non-Conférence
 
-Ce volet provisoire vise à amener les participantes et les participants ensembles et à décider quels seront les sujets de discussion. Ce type de discussion vise à encourager l'échange et l'engagement avec l'aide d'une modératrice ou d'un modérateur expérimenté.
+Ce volet vise à amener les participantes et les participants ensembles et à décider quels seront les sujets de discussion. Ce type de discussion vise à encourager l'échange et l'engagement avec l'aide d'une modératrice ou d'un modérateur expérimenté.
 
 Ressource extenre (en anglais): [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)

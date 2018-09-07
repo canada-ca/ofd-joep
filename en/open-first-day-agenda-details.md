@@ -8,33 +8,11 @@ filename: open-first-day-agenda
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
-[Français](../fr/journee-ouvert-en-premier-agenda.html)
+[Français](../fr/journee-ouvert-en-premier-agenda-detaille.html)
 
 > Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
 
-## Purpose
-
-Following the redaction of the [Open First Whitepaper](https://github.com/canada-ca/Open_First_Whitepaper/blob/master/README.md), the Open First Day will highlight how the Government of Canada has been and will continue adopting Open Standards, using and contributing to Open Source Software, thus supporting an open culture and open markets.
-
-Government of Canada departments have been working openly and in collaboration with the population as well as with private companies to enhance the quality of their service offerings for all Canadians using Open Source Software and Open Standards.
-
-This day will provide an opportunity for the various actors of the public service, private sector and the population to discuss and engage together in order to exchange on the progress made over the last years and how we can continue to add value to our activities and services together.
-
-## Format of the day
-
-The Open First Day will offer a wide variety of activities and sessions for participants to learn and engage with other government employees as well as with private sector representatives and members of the public.
-
-In order to help capture the breadth of what is in scope, we have put together multiple streams.
-
-The first stream is the general, or "executive", stream which is geared towards a higher level view of what Open Government is; how we can use and contribute to Open Source Software and how we can actually procure such technologies.
-
-Then, there are three more specific streams with sessions where engagement with the participants will be privileged.
-
-- The Rules stream will have a session around the legislative clarifications and guidance on the use and contribution to Open Source Software.
-- The Tools stream will offer sessions around the decentralized version control system Git and how it is possible to leverage Open Source Software at every layer of an application.
-- The People stream will explore the work done by various departments in terms of crowdsourcing and open collaboration as well as how Open Source Software can be leveraged in such initiatives.
-
-For the people who are already familiar with these concepts, a series of networking activities will be held during the day to help support a greater cohesion of the community of practice as well as the external service providers. Such activities include an Unconference stream, speed networking sessions, lunchtime and after event mixing.
+## [Back to summary](./open-first-day-agenda.html)
 
 ## Registration
 
@@ -49,40 +27,6 @@ To register, please fill in the form at the following link (if you're not from a
 In order to support remote participation to the event, we will establish a streaming option for the main sessions.
 
 This section will be updated once the technical details are confirmed and registration will not be required to connect.
-
-## Logistics
-
-### Date
-
-September 28, 2018
-
-### Venue
-
-Bayview Yards, 7 Bayview Rd, Ottawa, ON K1Y 2C5
-
-### Price
-
-Free of charge
-
-### Audience
-
-- Government of Canada Public Servants - All levels
-- Private Sector Companies Representatives
-- General Public
-
-### Room Setup
-
-- Foundry: Large open room hosting up to 250 people, 150 with tables.
-- Training room: Medium size training room hosting up to 40, possibly 60 people
-- Boardroom: Medium size meeting room hosting up to 24, possibly 30 people
-- Rooms A & B: Two 6 people meeting rooms for small meetings and logistics team
-- Open area for kiosks
-
-### Available Services
-
-- A coffee shop is available on site for snacks and lunch.
-- One of the small boardroom will be reserved for side discussions on reservation.
-- A board will be setup to exchange contact and services details in order to prepare a networking activity during lunchtime.
 
 ## Schedule
 
@@ -243,17 +187,28 @@ Free of charge
 
 ## Welcome
 
-### Duration
+### Details
 
-30 minutes
+- Time: 8:30
+- Duration: 30 minutes
+- Room: Foundry
+- Format: Presentation and Workshop
 
-### Speaker
+### Speakers
 
-Master of Ceremony & Animators
+#### Master of Ceremony
+
+Sabrina Nash
+
+#### Unconference Facilitators
+
+Ioana Finichu
+John
+Jeff
 
 ### Description
 
-House cleaning & Crowd Engagement Activity
+House cleaning & Engagement Activity
 
 [Back to Schedule](#schedule)
 
@@ -281,7 +236,7 @@ Office of the Chief Information Officer of Canada
 
 ### Speaker
 
-To be confirmed
+#### Kirsten Burgard
 
 ### Description
 
