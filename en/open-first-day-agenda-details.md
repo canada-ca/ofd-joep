@@ -202,9 +202,9 @@ Sabrina Nash
 
 #### Unconference Facilitators
 
-Ioana Finichu
-John
-Jeff
+Ioana Finichiu
+Joël Bourgeoys
+John Kenney
 
 ### Description
 

@@ -11,6 +11,24 @@
     },
     {
       "pattern": "../fr/journee-ouvert-en-premier-agenda.html"
+    },
+    {
+      "pattern": "../en/open-first-day-agenda-details.html"
+    },
+    {
+      "pattern": "../fr/journee-ouvert-en-premier-agenda-detaille.html"
+    },
+    {
+      "pattern": "./open-first-day-agenda.html"
+    },
+    {
+      "pattern": "./journee-ouvert-en-premier-agenda.html"
+    },
+    {
+      "pattern": "./open-first-day-agenda-details.html"
+    },
+    {
+      "pattern": "./journee-ouvert-en-premier-agenda-detaille.html"
     }
   ]
 }
