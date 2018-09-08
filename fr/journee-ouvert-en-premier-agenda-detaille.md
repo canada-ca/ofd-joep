@@ -252,7 +252,7 @@ Cette présentation couvrira les raisons qui ont poussé à la création de Drup
 
 ## Panel de discussion
 
-### Durée
+### Détails
 
 - Heure: 09:30
 - Durée: 45 minutes
@@ -295,6 +295,56 @@ Bureau du Dirigeant principal de l'information du Canada
 
 ## Volet Exécutif Général
 
+### Gouvernement Ouvert
+
+#### Détails
+
+- Heure: 10:30
+- Durée: 30 minutes
+- Salle: Salle de formation (À confirmer)
+- Format: Présentation
+
+#### Invitée
+
+##### Karin Fuller
+
+Agente principale de projet, Direction du dirigeant principal de l'information
+
+Secrétariat du Conseil du Trésor Canada
+
+#### Description
+
+(À mettre à jour) Gouvernement ouvert:
+
+- Qu'est-ce qui fait partie d'un gouvernement Ouvert au Gouvernement du Canada?
+- Qui sont les différents acteurs?
+- Comment en faites-vous partie?
+- Que devons-nous faire?
+- Comment le secteur privée et les citoyennes et citoyens peuvent bénéficier et mettre à profit un Gouvernement ouvert?
+
+[Retour à l'Horaire](#horaire)
+
+### Libérer du code source du GC
+
+#### Détails
+
+- Heure: 11:00
+- Durée: 30 minutes
+- Salle: Salle de formation (À confirmer)
+- Format: Présentation
+
+#### Invité
+
+##### Calvin Rodo
+
+Emploi et Développement social Canada (EDSC)
+
+#### Description
+
+Calvin Rodo du EDSC partagera son expérience dans l'application d'une licence de logiciel libre au code de son équipe. Il discutera des raisons pour lesquelles vous voudrez peut-être appliquer une licence, de ce que cela signifie pour votre équipe de libérer votre code, et des diverses parties prenantes qu'il a dû engager au EDSC dans sa tentative de libérer son projet comme logiciel libre.
+
+[Retour à l'Horaire](#horaire)
+
 ### Formes d'approvisionnement en logiciels et technologies libres
 
 #### Durée
@@ -312,54 +362,6 @@ Sessions de travail (?)
 #### Description
 
 Explorez les différents modèles d'affaires des entreprises du logiciels libres et les méthodes d'approvisionnement pouvant supporter votre organisation à être rendre plus agile.
-
-[Retour à l'Horaire](#horaire)
-
-### Libérer du code source du GC
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Proposé: Emploi et développement Social Canada
-
-#### Format
-
-Sessions de travail
-
-#### Description
-
-- Qu'est-ce que relâcher votre code ouvertement implique pour votre équipe?
-- Quelles questions devez-vous vous demander?
-- Comment accompagner votre équipe pour travailler ouvertement?
-
-[Retour à l'Horaire](#horaire)
-
-### Gouvernement Ouvert
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Équipe du Gouvernement ouvert, Secrétariat du Conseil du Trésor Canada
-
-#### Format
-
-Sessions de travail/Présentation (?)
-
-#### Description
-
-(À mettre à jour) Gouvernement ouvert:
-
-- Qu'est-ce qui fait partie d'un gouvernement Ouvert au Gouvernement du Canada?
-  - Qui sont les différents acteurs?
-  - Comment en faites-vous partie?
-  - Que devons-nous faire?
-- Comment le secteur privée et les citoyennes et citoyens peuvent bénéficier et mettre à profit un Gouvernement ouvert?
 
 [Retour à l'Horaire](#horaire)
 

@@ -299,6 +299,56 @@ Office of the Chief Information Officer of Canada
 
 ## Executive/General Stream
 
+### Open Government
+
+#### Details
+
+- Time: 10:30
+- Duration: 30 minutes
+- Room: Training Room (To be confirmed)
+- Format: Presentation
+
+#### Speaker
+
+##### Karin Fuller
+
+Senior Project Officer, Office of the Chief Information Officer
+
+Treasury Board Secretariat Canada
+
+#### Description
+
+(To be confirmed) Open Government Partnership:
+
+- What’s the scope of Open in the Government of Canada
+- Who are the different actors?
+- How are you a part of it?
+- What do we need to do?
+- How can citizens and private sector organisations benefit and leverage an Open Government?
+
+[Back to Schedule](#schedule)
+
+### Releasing GC Source Code as Open Source
+
+#### Details
+
+- Time: 11:00
+- Duration: 30 minutes
+- Room: Training Room (To be confirmed)
+- Format: Presentation
+
+#### Speaker
+
+##### Calvin Rodo
+
+Employment and Social Development Canada (ESDC)
+
+#### Description
+
+Calvin Rodo from ESDC will be sharing his experiences in attempting to apply an Open Source licence to his team's code. He will be discussing why you may want to apply a licence, what it means for your team to Open Source your code, and the various stakeholders he had to engage at ESDC in his attempt to Open Source his project.
+
+[Back to Schedule](#schedule)
+
 ### Procuring Open Source Software and Technologies
 
 #### Details
@@ -316,54 +366,6 @@ Workshop (TBC)
 #### Description
 
 Explore the various Open Source Software industry business models and procurement methods and how they can support your organization and be more agile.
-
-[Back to Schedule](#schedule)
-
-### Releasing GC Source Code Open
-
-#### Duration
-
-55 minutes
-
-#### Speaker
-
-Proposed: Employment and Social Development Canada
-
-#### Format
-
-Workshop
-
-#### Description
-
-- What it means for your team to release code as open source?
-- What are the questions you need to ask yourself?
-- How do you accompany your team in working in the open?
-
-[Back to Schedule](#schedule)
-
-### Open Government
-
-#### Duration
-
-55 minutes
-
-#### Speaker
-
-Open Government Team, Treasury Board Secretariat Canada
-
-#### Format
-
-Workshop/Presentation (?)
-
-#### Description
-
-(To be updated) Open Government Partnership:
-
-- What’s the scope of Open in the Government of Canada
-  - Who are the different actors?
-  - How are you a part of it?
-  - What do we need to do?
-- How can citizens and private sector organisations benefit and leverage an Open Government?
 
 [Back to Schedule](#schedule)
 
