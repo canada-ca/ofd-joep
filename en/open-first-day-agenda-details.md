@@ -486,7 +486,7 @@ The workshop will discuss the potential and benefits of working as an open proje
 
 ## Unconference Stream
 
-The Open First Day will start with an engagement activity with all participants present for the day. The exercice will provide an opportunity for the attendents to highlight their areas of interest and provide the moderators of the unconference stream with the material to prioritize the discussion topics of the day.
+The Open First Day will start with an engagement activity with all participants present for the day. The exercice will provide an opportunity for the people present to highlight their areas of interest and provide the moderators of the unconference stream with the material to prioritize the discussion topics of the day.
 
 A dedicated boardroom will offer a chance to the Open First Day participants to exchange with their peers on subjects that matter to them in a environment moderators by our team.
 
