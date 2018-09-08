@@ -256,9 +256,12 @@ This presentation will cover the reasons why Drupal4Gov was founded, what were a
 
 ## Panel
 
-### Duration
+### Details
 
-45 minutes
+- Time: 9:30
+- Duration: 45 minutes
+- Room: Foundry
+- Format: Panel
 
 ### Moderator
 
@@ -298,7 +301,7 @@ Office of the Chief Information Officer of Canada
 
 ### Procuring Open Source Software and Technologies
 
-#### Duration
+#### Details
 
 25 minutes
 
