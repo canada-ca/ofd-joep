@@ -198,13 +198,13 @@ This section will be updated once the technical details are confirmed and regist
 
 #### Master of Ceremony
 
-Sabrina Nash
+- Sabrina Nash
 
 #### Unconference Facilitators
 
-Ioana Finichiu
-Joël Bourgeoys
-John Kenney
+- Ioana Finichiu
+- Joël Bourgeoys
+- John Kenney
 
 ### Description
 
@@ -214,9 +214,12 @@ House cleaning & Engagement Activity
 
 ## Opening Remarks
 
-### Duration
+### Details
 
-10 minutes
+- Time: 9:00
+- Duration: 10 minutes
+- Room: Foundry
+- Format: Presentation
 
 ### Speaker
 
@@ -230,17 +233,24 @@ Office of the Chief Information Officer of Canada
 
 ## Keynote
 
-### Duration
+### Details
 
-20 minutes
+- Time: 9:10
+- Duration: 20 minutes
+- Room: Foundry
+- Format: Presentation
 
 ### Speaker
 
 #### Kirsten Burgard
 
+Founder of Drupal4Gov, an open source community of government employees interested in making government more open to open source.
+
+Web Developer at United States Department of State
+
 ### Description
 
-Why using and contributing to Open Source Software and Open Standards is critical for our success.
+This presentation will cover the reasons why Drupal4Gov was founded, what were and still are the challenges in making public administrations more open to open source software and why we should request that all IT solutions use open standards.
 
 [Back to Schedule](#schedule)
 
@@ -260,25 +270,27 @@ Office of the Chief Information Officer of Canada
 
 ### Panelists
 
-- Kirsten Burgard - US Government (Tentative)
-- Pierre-Antoine Ferron - Ville de Montréal (Tentative)
-- Aaron Snow - Canadian Digital Service (Tentative)
-- Andrew Gibson - Treasury Board Secretariat (Tentative)
+- Aaron Snow - Canadian Digital Service
+- Andrew Gibson - Treasury Board Secretariat, Financial Management Services
+- Kirsten Burgard - US Government
+- Mélanie Robert - Treasury Board Secretariat, Open Government
+- Pierre-Antoine Ferron - Ville de Montréal
 
 ### Topics
 
-- Business Value (Why)
-  - Using Open Source Software and Open Standards
+- Why should we:
+  - Use Open Source Software and Open Standards?
     - Industry best practices
     - Interoperability
     - Open markets
     - Vendors availability
     - Total Cost of Ownership
-  - Contribution to Open Source Community
+  - Contribute to Open Source Community?
     - Releasing GC Source Code
     - Direct contribution to 3rd party projects
     - Open culture and organisation
     - Benefit to society
+- What are the challenges that await us?
 
 [Back to Schedule](#schedule)
 

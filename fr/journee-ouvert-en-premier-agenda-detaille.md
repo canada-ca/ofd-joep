@@ -183,25 +183,39 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
 
 ## Accueil
 
-### Durée
+### Détails
 
-5-10 minutes
+- Heure: 08:30
+- Durée: 30 minutes
+- Salle: Fonderie
+- Format: Présentation et séance de travail
 
 ### Invitée, invité
 
-Maitre de cérémonie
+#### Maitre de cérémonie
+
+- Sabrina Nash
+
+#### Facilitateurs de la non-conférence
+
+- Ioana Finichiu
+- Joël Bourgeoys
+- John Kenney
 
 ### Description
 
-Instructions générales
+Instructions générales et activité d'engagement
 
 [Retour à l'Horaire](#horaire)
 
 ## Mot d'ouverture
 
-### Durée
+### Détails
 
-10 minutes
+- Heure: 09:00
+- Durée: 10 minutes
+- Salle: Fonderie
+- Format: Présentation
 
 ### Invitée
 
@@ -215,17 +229,24 @@ Bureau du Dirigeant principal de l'information du Canada
 
 ## Présentation principale
 
-### Durée
+### Détails
 
-20-25 minutes
+- Heure: 09:10
+- Durée: 20 minutes
+- Salle: Fonderie
+- Format: Présentation
 
 ### Invitée, invité
 
-À confirmer
+#### Kirsten Burgard
+
+Fondatrice de Drupal4Gov, une communauté d'employées et d'employés du gouvernement intéressés à rendre les administrations publiques plus ouvertes aux logiciels libres.
+
+Développeuse Web au Département d'État des États-Unis
 
 ### Description
 
-Pourquoi utiliser et contribuer aux logiciels libres et aux normes ouvertes est critique à notre succès.
+Cette présentation couvrira les raisons qui ont poussé à la création de Drupal4Gov, quels étaient et quels sont toujours les défis pour rendre les administrations publiques plus ouvertes à utiliser des logiciels libres ainsi que pourquoi nous devrions exiger l'utilisation de standards ouverts pour toutes les solutions TI.
 
 [Retour à l'Horaire](#horaire)
 
@@ -233,9 +254,12 @@ Pourquoi utiliser et contribuer aux logiciels libres et aux normes ouvertes est 
 
 ### Durée
 
-45 minutes
+- Heure: 09:30
+- Durée: 45 minutes
+- Salle: Fonderie
+- Format: Panel de discussion
 
-### Modératrice, Modérateur
+### Modératrice
 
 #### Olivia Neal [@LivNeal](https://twitter.com/livneal)
 
@@ -245,25 +269,27 @@ Bureau du Dirigeant principal de l'information du Canada
 
 ### Panélistes
 
-- Kirsten Burgard - Gouvernement des États-Unis (Provisoire)
-- Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
-- Aaron Snow - Service numérique canadien (Provisoire)
-- Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
+- Aaron Snow - Service numérique canadien
+- Andrew Gibson - Secrétariat du Conseil du Trésor
+- Kirsten Burgard - Gouvernement des États-Unis
+- Mélanie Robert - Secrétariat du Conseil du Trésor
+- Pierre-Antoine Ferron - Ville de Montréal
 
 ### Sujets
 
-- Valeur ajoutée (pourquoi)
-  - Utiliser les logiciels libres et les normes ouvertes
+- Pourquoi devrions-nous:
+  - Utiliser les logiciels libres et les normes ouvertes?
     - Meilleures pratiques de l'industrie
     - Interopérabilité
     - Marchés ouverts
     - Disponibilité des vendeurs
     - Coût total de possession
-  - Contribution à la communauté des logiciels libres
+  - Contribuer à la communauté des logiciels libres?
     - Libérer le code source au Gouvernement du Canada
     - Contribution directe aux projets tiers
     - Culture ouverte et organisation
     - Bénéfice pour la société
+- Quels sont les défis qui nous attendent?
 
 [Retour à l'Horaire](#horaire)
 
