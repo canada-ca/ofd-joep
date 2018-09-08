@@ -351,27 +351,28 @@ Calvin Rodo from ESDC will be sharing his experiences in attempting to apply an 
 
 ## Rules Stream
 
-### Managing Intellectual Property and Licences
+### Open Source Licences
 
-#### Duration
+#### Details
 
-55 minutes
+- Time: 11:30
+- Duration: 30 minutes
+- Room: Training Room (To be confirmed)
+- Format: Presentation
 
 #### Speaker
 
-Proposed: Treasury Board Secretariat & Justice Canada
+##### To be confirmed
+
+Treasury Board Secretariat Canada
 
 #### Format
 
-Workshop
+Presentation
 
 #### Description
 
-Work through:
-
-- Choosing the right licence for your project;
-- Understanding the compatible licences of external projects with yours;
-- Understanding how you can contribute to third party Open Source Software as a Government of Canada employee
+This session will provide an overview of the different and most popular Open Source Licences and what their different clauses imply for a project.
 
 [Back to Schedule](#schedule)
 

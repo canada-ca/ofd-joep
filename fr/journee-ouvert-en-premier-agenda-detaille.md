@@ -347,27 +347,24 @@ Calvin Rodo du EDSC partagera son expérience dans l'application d'une licence d
 
 ## Volet Règles
 
-### Gérer la propriété intellectuelle et les licences
+### Licences des logiciels libres
 
-#### Durée
+#### Détails
 
-55 minutes
+- Heure: 11:30
+- Durée: 30 minutes
+- Salle: Salle de formation (À confirmer)
+- Format: Présentation
 
 #### Invitée, invité
 
-Proposé: Secrétariat du Conseil du Trésor Canada et Justice Canada
+##### À confirmer
 
-#### Format
-
-Sessions de travail
+Secrétariat du Conseil du Trésor Canada
 
 #### Description
 
-Travaillez sur:
-
-- Choisir la bonne licence de logiciel libre pour votre projet;
-- Comprendre les licences compatibles des projets externes avec vos projets;
-- Comprendre comment vous pouvez contribuer aux projets de logiciels libres de  tierces parties en tant qu'employée et employé du Gouvernement du Canada
+Cette séance présentera un survol des différentes et des plus populaires licences de logiciels libres et ce que leurs différentes clauses impliquent pour un projet.
 
 [Retour à l'Horaire](#horaire)
 
