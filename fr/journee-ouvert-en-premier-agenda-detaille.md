@@ -345,26 +345,6 @@ Calvin Rodo du EDSC partagera son expérience dans l'application d'une licence d
 
 [Retour à l'Horaire](#horaire)
 
-### Formes d'approvisionnement en logiciels et technologies libres
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Proposé: Services publics et approvisionnement Canada
-
-#### Format
-
-Sessions de travail (?)
-
-#### Description
-
-Explorez les différents modèles d'affaires des entreprises du logiciels libres et les méthodes d'approvisionnement pouvant supporter votre organisation à être rendre plus agile.
-
-[Retour à l'Horaire](#horaire)
-
 ## Volet Règles
 
 ### Gérer la propriété intellectuelle et les licences

@@ -349,26 +349,6 @@ Calvin Rodo from ESDC will be sharing his experiences in attempting to apply an 
 
 [Back to Schedule](#schedule)
 
-### Procuring Open Source Software and Technologies
-
-#### Details
-
-25 minutes
-
-#### Speaker
-
-Proposed: Public Services and Procurement Canada
-
-#### Format
-
-Workshop (TBC)
-
-#### Description
-
-Explore the various Open Source Software industry business models and procurement methods and how they can support your organization and be more agile.
-
-[Back to Schedule](#schedule)
-
 ## Rules Stream
 
 ### Managing Intellectual Property and Licences
