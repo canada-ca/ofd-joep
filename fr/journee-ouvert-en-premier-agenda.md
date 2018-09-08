@@ -10,7 +10,7 @@ filename: journee-ouvert-en-premier-agenda
 {% assign dataSource = site.data[dataVariable] %}
 [English](../en/open-first-day-agenda.html)
 
-> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
+> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## Objectif
 
@@ -26,13 +26,15 @@ La journée Ouvert en premier offrira un large éventail d'activités et de sess
 
 Afin d'aider à capturer l'étendue des sujets abordés tout au long de la journée, nous avons mis en place différents volets.
 
-Le premier volet, soit le général ou exécutif, sera principalement dirigé vers une vue de haut niveau de ce qu'implique un Gouvernement Ouvert; comment utiliser et contribuer aux logiciels libres; et comment fonctionne l'approvisionnement de ces technologies.
+Le premier volet, soit le général ou exécutif, sera principalement dirigé vers une vue de haut niveau de ce qu'implique un Gouvernement Ouvert et comment utiliser et contribuer aux logiciels libres.
 
-Puis, il y aura trois volets plus spécifiques avec des sessions favorisant l'engagement avec les participants.
+Il y aura également trois volets plus spécifiques avec des sessions favorisant l'engagement avec les participants.
 
 - Le volet Règles visera à clarifier et à guider les participants autour des dimensions légales de l'utilisation et de la contribution aux logiciels libres.
 - Le volet Outils aura pour objectif de présenter des technologies des méthodes de travail comme le système de contrôle de version décentralisé Git et comment mettre à profit des logiciels libres à tous les niveaux d'applications.
 - Le volet Personnes explorera le travail effectué par divers départements en terme de socio-contributions et de collaboration ouverte ainsi que la mise à profit des logiciels libres pour que ce type d'initiatives soient un succès.
+
+Finalement, le volet non-conférence offrira l'opportunité aux participants s'étant déplacés d'échanger sur des sujets d'intérêts avec l'aide de modératrices et modérateurs. Ces derniers commenceront la journée avec un exercice visant à évaluer les sujets d'intérêts des personnes sur place et ils procéderont à l'analyse des résultats pour construire l'agenda de la journée.
 
 Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une série d'activités de réseautage seront organisées durant la journée pour supporter une plus grande cohésion de la communauté de pratique du gouvernement ainsi que la rencontre de partenaire externes. Ces activités incluent un volet de "non-conférence", des sessions de rencontres rapides et des opportunités de rencontres sur l'heure du diner et après la journée.
 
@@ -50,11 +52,13 @@ Afin de permettre aux gens ne pouvant se déplacer jusqu'à l'endroit retenu de 
 
 Les informations pour se connecter seront mis à jour dans cette section lorsque les détails techniques seront confirmés et il ne sera pas nécessaire de s'inscrire pour se connecter.
 
-## Logistiques
+## Détails de l'événement
 
-### Date
+### Date et Heure
 
-28 septembre 2018
+- 28 septembre 2018
+- De 08:30 à 16:00
+  - L'enregistrement commencera à 08:00
 
 ### Endroit
 
@@ -70,21 +74,16 @@ Gratuit
 - Représentants et représentantes de compagnies privées
 - Public général
 
-### Configuration des salles
-
-- Fonderie: Large salle pouvant recevoir jusqu'à 250 personnes, 150 lorsque des tables sont installées
-- Salle de formation: Salle moyenne de formation pouvant recevoir jusqu'à 40 personnes assises, 60 avec des personnes debout
-- Salle de réunion: Salle moyenne de réunion pouvant recevoir jusqu'à 24 personnes assises, 30 avec des personnes debout
-- Salles A et B: Deux salles de rencontre pour 6 personnes
-- Aire ouverte pour kiosques
-
 ### Services offerts
 
 - Un café est disponible sur place pour acheter des collations et le diner.
 - Une salle de réunion sera disponible pour organiser des discussions sur réservation.
-- Un tableau d'échange de contacts et de services sera disponible pour préparer une activité de réseautage sur l'heure du dîner.
+- Un tableau d'échange de contacts et de services sera disponible.
+- Une activité de réseautage sera organisée sur l'heure du dîner.
 
 ## Horaire
+
+> Consulter [l'horaire détaillé](./journee-ouvert-en-premier-agenda-detaille.html) pour plus d'information sur les séances.
 
 <!-- Table built using: [Tables Generator](https://www.tablesgenerator.com/) -->
 
@@ -102,11 +101,11 @@ Gratuit
 <table class="tg">
   <tr>
     <th class="tg-uys7">Heure</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-exécutif-général">Exécutif<br>Général</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-règles">Règles</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-outils">Outils</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-personnes">Personnes</a><br>(D)</th>
-    <th class="tg-c3ow"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Non-conférence</a><br>(E)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-exécutif-général">Exécutif<br>Général</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-règles">Règles</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-outils">Outils</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-personnes">Personnes</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a><br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 00</td>
@@ -117,29 +116,29 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#accueil">Accueil</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda.html#présentation-principale">Présentation principale</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Préparation</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentation-principale">Présentation principale</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Préparation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 30</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda.html#panel-de-discussion">Panel de discussion</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 00</td>
-    <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Non-conférence</a></td>
+    <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 15</td>
@@ -147,17 +146,17 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 15</td>
@@ -165,8 +164,8 @@ Gratuit
   <tr>
     <td class="tg-c3ow">11 h 30</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#formes-dapprovisionnement-en-logiciels-et-technologies-libres">Formes d'approvisionnement en logiciels et technologies libres</a></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#travailler-avec-git">Travailler avec Git</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#licences-des-logiciels-libres">Licences des logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
   <tr>
@@ -190,7 +189,7 @@ Gratuit
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2">À venir</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#projets-ouverts-au-leid">Projets ouverts au LEID</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 15</td>
@@ -208,7 +207,7 @@ Gratuit
     <td class="tg-c3ow">14 h 00</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#piles-technologiques-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
@@ -237,269 +236,4 @@ Gratuit
   </tr>
 </table>
 
-## Accueil
-
-### Durée
-
-5-10 minutes
-
-### Invitée, invité
-
-Maitre de cérémonie
-
-### Description
-
-Instructions générales
-
-[Retour à l'Horaire](#horaire)
-
-## Mot d'ouverture
-
-### Durée
-
-10 minutes
-
-### Invitée
-
-#### Olivia Neal [@LivNeal](https://twitter.com/livneal)
-
-Directrice exécutive, Changement numérique
-
-Bureau du Dirigeant principal de l'information du Canada
-
-[Retour à l'Horaire](#horaire)
-
-## Présentation principale
-
-### Durée
-
-20-25 minutes
-
-### Invitée, invité
-
-À confirmer
-
-### Description
-
-Pourquoi utiliser et contribuer aux logiciels libres et aux normes ouvertes est critique à notre succès.
-
-[Retour à l'Horaire](#horaire)
-
-## Panel de discussion
-
-### Durée
-
-45 minutes
-
-### Modératrice, Modérateur
-
-#### Olivia Neal [@LivNeal](https://twitter.com/livneal)
-
-Directrice exécutive, Changement numérique
-
-Bureau du Dirigeant principal de l'information du Canada
-
-### Panélistes
-
-- Kirsten Burgard - Gouvernement des États-Unis (Provisoire)
-- Pierre-Antoine Ferron - Ville de Montréal (Provisoire)
-- Aaron Snow - Service numérique canadien (Provisoire)
-- Andrew Gibson - Secrétariat du Conseil du Trésor (Provisoire)
-
-### Sujets
-
-- Valeur ajoutée (pourquoi)
-  - Utiliser les logiciels libres et les normes ouvertes
-    - Meilleures pratiques de l'industrie
-    - Interopérabilité
-    - Marchés ouverts
-    - Disponibilité des vendeurs
-    - Coût total de possession
-  - Contribution à la communauté des logiciels libres
-    - Libérer le code source au Gouvernement du Canada
-    - Contribution directe aux projets tiers
-    - Culture ouverte et organisation
-    - Bénéfice pour la société
-
-[Retour à l'Horaire](#horaire)
-
-## Volet Exécutif Général
-
-### Formes d'approvisionnement en logiciels et technologies libres
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Proposé: Services publics et approvisionnement Canada
-
-#### Format
-
-Sessions de travail (?)
-
-#### Description
-
-Explorez les différents modèles d'affaires des entreprises du logiciels libres et les méthodes d'approvisionnement pouvant supporter votre organisation à être rendre plus agile.
-
-[Retour à l'Horaire](#horaire)
-
-### Libérer du code source du GC
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Proposé: Emploi et développement Social Canada
-
-#### Format
-
-Sessions de travail
-
-#### Description
-
-- Qu'est-ce que relâcher votre code ouvertement implique pour votre équipe?
-- Quelles questions devez-vous vous demander?
-- Comment accompagner votre équipe pour travailler ouvertement?
-
-[Retour à l'Horaire](#horaire)
-
-### Gouvernement Ouvert
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Équipe du Gouvernement ouvert, Secrétariat du Conseil du Trésor Canada
-
-#### Format
-
-Sessions de travail/Présentation (?)
-
-#### Description
-
-(À mettre à jour) Gouvernement ouvert:
-
-- Qu'est-ce qui fait partie d'un gouvernement Ouvert au Gouvernement du Canada?
-  - Qui sont les différents acteurs?
-  - Comment en faites-vous partie?
-  - Que devons-nous faire?
-- Comment le secteur privée et les citoyennes et citoyens peuvent bénéficier et mettre à profit un Gouvernement ouvert?
-
-[Retour à l'Horaire](#horaire)
-
-## Volet Règles
-
-### Gérer la propriété intellectuelle et les licences
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Proposé: Secrétariat du Conseil du Trésor Canada et Justice Canada
-
-#### Format
-
-Sessions de travail
-
-#### Description
-
-Travaillez sur:
-
-- Choisir la bonne licence de logiciel libre pour votre projet;
-- Comprendre les licences compatibles des projets externes avec vos projets;
-- Comprendre comment vous pouvez contribuer aux projets de logiciels libres de  tierces parties en tant qu'employée et employé du Gouvernement du Canada
-
-[Retour à l'Horaire](#horaire)
-
-## Volet Outils
-
-### Travailler avec Git
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Proposé: Service numérique canadien
-
-#### Format
-
-Sessions de travail
-
-#### Description
-
-À venir
-
-[Retour à l'Horaire](#horaire)
-
-### Piles technologiques complètes en logiciels libres
-
-#### Durée
-
-55 minutes
-
-#### Invitée, invité
-
-Statistiques Canada
-
-#### Format
-
-Sessions de travail
-
-#### Description
-
-À venir
-
-[Retour à l'Horaire](#horaire)
-
-## Volet Personnes
-
-### Contributions participatives (crowdsourcing) – Co-Lab
-
-#### Invitée, invité
-
-Proposé: Bibliothèque et Archives Canada
-
-#### Format
-
-Sessions de travail
-
-#### Description
-
-Explorez comment votre organisation peut bénéficier de la contribution participative (crowdsourcing) pour ajouter de la valeur à vos activités.
-
-[Retour à l'Horaire](#horaire)
-
-### Travailler ouvertement
-
-#### Invitée, invité
-
-Proposition: Statistiques Canada
-
-#### Format
-
-Sessions de travail/Présentation (À confirmer)
-
-#### Description
-
-Découvrez comment travailler ouvertement affecte votre propre travail, votre équipe et votre organisation.
-
-[Retour à l'Horaire](#horaire)
-
-## Volet Non-Conférence
-
-Ce volet provisoire vise à amener les participantes et les participants ensembles et à décider quels seront les sujets de discussion. Ce type de discussion vise à encourager l'échange et l'engagement avec l'aide d'une modératrice ou d'un modérateur expérimenté.
-
-Ressource extenre (en anglais): [Unconference in a
-box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
-
-[Retour à l'Horaire](#horaire)
+## [Retour au début](#objectif)
