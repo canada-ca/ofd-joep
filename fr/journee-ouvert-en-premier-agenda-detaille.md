@@ -46,11 +46,11 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
 <table class="tg">
   <tr>
     <th class="tg-uys7">Heure</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-exécutif-général">Exécutif<br>Général</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-règles">Règles</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-outils">Outils</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda.html#volet-personnes">Personnes</a><br>(D)</th>
-    <th class="tg-c3ow"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Non-conférence</a><br>(E)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-exécutif-général">Exécutif<br>Général</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-règles">Règles</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-outils">Outils</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-personnes">Personnes</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a><br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 00</td>
@@ -61,29 +61,29 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#accueil">Accueil</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda.html#présentation-principale">Présentation principale</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Préparation</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentation-principale">Présentation principale</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Préparation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 30</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda.html#panel-de-discussion">Panel de discussion</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 00</td>
-    <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda.html#volet-non-conférence">Non-conférence</a></td>
+    <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 15</td>
@@ -91,17 +91,17 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 15</td>
@@ -109,8 +109,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   <tr>
     <td class="tg-c3ow">11 h 30</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#formes-dapprovisionnement-en-logiciels-et-technologies-libres">Formes d'approvisionnement en logiciels et technologies libres</a></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda.html#travailler-avec-git">Travailler avec Git</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#licences-des-logiciels-libres">Licences des logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">14 h 00</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda.html#piles-technologiques-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>

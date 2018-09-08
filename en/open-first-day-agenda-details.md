@@ -46,11 +46,11 @@ This section will be updated once the technical details are confirmed and regist
 <table class="tg">
   <tr>
     <th class="tg-uys7">Time</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.html#executivegeneral-stream">Executive<br>General</a><br>(A)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.html#rules-stream">Rules</a><br>(B)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.html#tools-stream">Tools</a><br>(C)</th>
-    <th class="tg-uys7"><a href="./open-first-day-agenda.html#people-stream">People</a><br>(D)</th>
-    <th class="tg-c3ow"><a href="./open-first-day-agenda.html#unconference-stream">Unconference</a><br>(E)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda-details.html#executivegeneral-stream">Executive<br>General</a><br>(A)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda-details.html#rules-stream">Rules</a><br>(B)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda-details.html#tools-stream">Tools</a><br>(C)</th>
+    <th class="tg-uys7"><a href="./open-first-day-agenda-details.html#people-stream">People</a><br>(D)</th>
+    <th class="tg-c3ow"><a href="./open-first-day-agenda-details.html#unconference-stream">Unconference</a><br>(E)</th>
   </tr>
   <tr>
     <td class="tg-uys7">08:00</td>
@@ -61,15 +61,15 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda.html#welcome">Welcome</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda-details.html#welcome">Welcome</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./open-first-day-agenda.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda.html#keynote">Keynote</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#unconference-stream">Setup</a></td>
+    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./open-first-day-agenda-details.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda-details.html#keynote">Keynote</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#unconference-stream">Setup</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:15</td>
@@ -77,14 +77,14 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
-        <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda.html#panel">Panel</a></td>
+        <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda-details.html#panel">Panel</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:00</td>
-    <td class="tg-c3ow" rowspan="22"><a href="./open-first-day-agenda.html#unconference-stream">Unconference</a></td>
+    <td class="tg-c3ow" rowspan="22"><a href="./open-first-day-agenda-details.html#unconference-stream">Unconference</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:15</td>
@@ -92,17 +92,17 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#open-government">Open Government</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:15</td>
@@ -111,8 +111,8 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-c3ow">11:30</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#procuring-open-source-software-and-technologies">Procuring Open Source Software and Technologies</a></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda.html#working-with-git">Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-source-licences">Open Source Licences</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
   <tr>
@@ -138,7 +138,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2">Upcoming</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#open-projects-at-deil">Open Projects at DEIL</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:15</td>
@@ -156,7 +156,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:00</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
     <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
