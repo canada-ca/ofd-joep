@@ -380,37 +380,49 @@ This session will provide an overview of the different and most popular Open Sou
 
 ### Working with Git
 
-#### Duration
+#### Details
 
-55 minutes
+- Time: 11:30
+- Duration: 30 minutes
+- Room: Foundry (To be confirmed)
+- Format: Presentation (To be confirmed)
 
 #### Speaker
 
-Proposed: Canadian Digital Service
+##### Stuart Spence
 
-#### Format
+Scientific Programmer
 
-Workshop
+Environment and Climate Change Canada
 
 #### Description
 
-Upcoming
+This session will provide the participants an opportunity to learn about:
+
+- Projects and organizations using Git and why;
+- What actually is source code;
+- Unique challenges teams face when working on code;
+- What is a Git repository;
+- What Git is good and bad at;
+- Centralized vs decentralized version control systems;
+- The difference between Git and the various Git platforms.
 
 [Back to Schedule](#schedule)
 
-### Full Open Source Application Stack
+### Working with Open Source stacks to deliver full solutions
 
-#### Duration
+#### Details
 
-55 minutes
+- Time: 14:00
+- Duration: 55 minutes
+- Room: Foundry (To be confirmed)
+- Format: Presentation with Q&A
 
 #### Speaker
 
+##### William Hearn
+
 Statistics Canada
-
-#### Format
-
-Presentation/Workshop
 
 #### Description
 
@@ -422,18 +434,26 @@ Upcoming
 
 ### Crowd-sourcing contributions – Co-Lab
 
+#### Details
+
+- Time: 10:30
+- Duration: 55 minutes
+- Room: Foundry
+- Format: Presentation with Workshop
+
 #### Speaker
 
-Proposed: Library and Archives Canada
+##### Alexandra Haggert
 
-#### Format
+Project Manager, Public Services Branch
 
-Workshop
+Library and Archives Canada
 
 #### Description
 
-Explore how your business and IT need to align in order to open source
-software
+Library and Archives Canada (LAC) has spent the last few years determining how to harness the “wisdom of the crowd” to solve problems related to accessibility, discoverability and usability of its enormous collection of historic records. One of the key results (so far!) is Co-Lab. Integrated with LAC’s new Collection Search Beta tool, Co-Lab allows the public to tag, transcribe, translate and describe digitized images – whether they be photographs, diary entries, maps, government memos or more!
+
+So what’s next? Join us for an interactive workshop on a wide variety of topics – from citizen science/crowdsourcing in government, to the release of Co-Lab’s source code for use by other institutions, to how LAC should proceed in building its collaboration tools.
 
 [Back to Schedule](#schedule)
 
@@ -441,13 +461,18 @@ software
 
 #### Exploring the potential of open data using an “open project” approach
 
+#### Details
+
+- Time: 13:00
+- Duration: 55 minutes
+- Room: Foundry
+- Format: Presentation with Workshop
+
 #### Speaker
 
-Data Exploration and Integration Lab Team, Centre for Special Business Project, Statistics Canada
+Data Exploration and Integration Lab Team, Centre for Special Business Project
 
-#### Format
-
-Workshop
+Statistics Canada
 
 #### Description
 
@@ -461,8 +486,11 @@ The workshop will discuss the potential and benefits of working as an open proje
 
 ## Unconference Stream
 
-People gather and decide together the topics they would like to address.
-It is generally more around sharing and engaging directly with the help of a trained moderator/facilitator.
+The Open First Day will start with an engagement activity with all participants present for the day. The exercice will provide an opportunity for the attendents to highlight their areas of interest and provide the moderators of the unconference stream with the material to prioritize the discussion topics of the day.
+
+A dedicated boardroom will offer a chance to the Open First Day participants to exchange with their peers on subjects that matter to them in a environment moderators by our team.
+
+The results of the initial activity will also help shape the networking activity that will be held during the lunchtime.
 
 External Resource: [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)

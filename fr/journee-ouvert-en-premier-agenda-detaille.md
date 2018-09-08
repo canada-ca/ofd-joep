@@ -134,7 +134,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2">À venir</td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda.html#open-projects-at-deil">Open Projects at DEIL</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#projets-ouverts-au-leid">Projets ouverts au LEID</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 15</td>
@@ -372,37 +372,49 @@ Cette séance présentera un survol des différentes et des plus populaires lice
 
 ### Travailler avec Git
 
-#### Durée
+#### Détails
 
-55 minutes
+- Heure: 11:30
+- Durée: 30 minutes
+- Salle: Fonderie (À confirmer)
+- Format: Présentation (À confirmer)
 
-#### Invitée, invité
+#### Invité
 
-Proposé: Service numérique canadien
+##### Stuart Spence
 
-#### Format
+Programmeur scientifique
 
-Sessions de travail
+Environnement et Changement climatique Canada
 
 #### Description
 
-À venir
+Cette séance offrira aux participants l'occasion d'apprendre à propos de :
+
+- Projets et organisations utilisant Git et les raisons pour lesquelles elles le font;
+- Ce qu'est du code source;
+- Les défis uniques auxquels font faces les équipes travaillant avec du code;
+- Ce qu'est un dépôt Git;
+- Ce à quoi Git est bon et moins bon;
+- La différence entre entre un système de contrôle de version centralisé et décentralisé;
+- La différence entre Git et les différentes plateformes utilisant Git.
 
 [Retour à l'Horaire](#horaire)
 
-### Piles technologiques complètes en logiciels libres
+### Travailler avec des piles technologiques de logiciels libres pour offrir des solutions complètes
 
-#### Durée
+#### Détails
 
-55 minutes
+- Heure: 14:00
+- Durée: 55 minutes
+- Salle: Fonderie (À confirmer)
+- Format: Présentation avec questions et réponses
 
-#### Invitée, invité
+#### Invité
+
+##### William Hearn
 
 Statistiques Canada
-
-#### Format
-
-Sessions de travail
 
 #### Description
 
@@ -414,41 +426,65 @@ Sessions de travail
 
 ### Contributions participatives (crowdsourcing) – Co-Lab
 
-#### Invitée, invité
+#### Détails
 
-Proposé: Bibliothèque et Archives Canada
+- Heure: 14:00
+- Durée: 55 minutes
+- Salle: Fonderie (À confirmer)
+- Format: Présentation avec séance de travail
 
-#### Format
+#### Invitée
 
-Sessions de travail
+##### Alexandra Haggert
+
+Gestionnaire de projet, Direction générale des services au public
+
+Bibliothèque et Archives Canada
 
 #### Description
 
-Explorez comment votre organisation peut bénéficier de la contribution participative (crowdsourcing) pour ajouter de la valeur à vos activités.
+Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent !) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres !
+
+Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier interactif sur une grande variété de sujets - de la science citoyenne et du crowdsourcing au gouvernement à la publication du code source du Co-Lab à l'usage d'autres institutions, en passant par la façon dont BAC devrait procéder pour élaborer ses outils de collaboration.
 
 [Retour à l'Horaire](#horaire)
 
-### Travailler ouvertement
+### Projets ouverts au LEID
 
-#### Invitée, invité
+#### Explorer le potentiel des données ouvertes en utilisant une approche de projet "ouverte"
 
-Proposition: Statistiques Canada
+#### Détails
 
-#### Format
+- Heure: 13:00
+- Durée: 55 minutes
+- Salle: Fonderie
+- Format: Présentation avec séance de travail
 
-Sessions de travail/Présentation (À confirmer)
+#### Invitées, invités
+
+Équipe du Lab d'exploration et d'intégration des données, Centre pour les projets d'affaires spéciaux
+
+Statistiques Canada
 
 #### Description
 
-Découvrez comment travailler ouvertement affecte votre propre travail, votre équipe et votre organisation.
+Au cours des dernières années, le Laboratoire d'exploration et d'intégration des données (LEID) de Statistique Canada a effectué un nombre croissant de travaux à l'aide de divers outils libres, de données ouvertes et de code ouvert. Par exemple, depuis 2016, LEID a implémenté des outils et des solutions de projet sur son compte GitHub, fournissant et partageant du code sous une licence de logiciel libre. En janvier 2018, LEID a commencé à explorer la possibilité d'intégrer des données ouvertes dans des ensembles de données cohérents et normalisés. Cette exploration et cette expérience ont donné naissance à l'idée d'utiliser une approche de "projet ouvert".
+
+Cet atelier présentera des exemples pratiques de "projets ouverts", c'est-à-dire des projets qui, dans la mesure du possible, utilisent des logiciels ouverts, du code ouvert, des standards ouverts, des données ouvertes et des outils ouverts de gestion de projet. L'accent sera mis sur l'intégration des bâtiments et des documents commerciaux, en utilisant exclusivement des microdonnées ouvertes. Les résultats préliminaires obtenus à ce jour sont très encourageants et il est possible d'en faire davantage dans un environnement de collaboration.
+
+L'atelier discutera du potentiel et des avantages de travailler en tant que projet ouvert, des défis rencontrés et des solutions possibles. Par exemple, certaines des solutions d'intégration sont développées en Python et dans le système d'exploitation GNU/Linux pour permettre une plate-forme de développement plus fluide, ce qui a simplifié le cadre de traitement des données. La disponibilité et l'exactitude des données seront également discutées. Un cadre de projet ouvert permet à tous les participants de participer activement au développement actuel et futur des travaux en cours. La séance fournira des exemples pratiques simples sur la façon de contribuer à de telles initiatives.
 
 [Retour à l'Horaire](#horaire)
 
 ## Volet Non-Conférence
 
-Ce volet vise à amener les participantes et les participants ensembles et à décider quels seront les sujets de discussion. Ce type de discussion vise à encourager l'échange et l'engagement avec l'aide d'une modératrice ou d'un modérateur expérimenté.
+La journée Ouvert en premier débutera avec une activité d'engagement avec tous les participantes et les participants présents cette journée-là. L'exercice offrira l'opportunité à toutes les personnes présentes d'identifier leurs sujets d'intérêts et fournira à nos modérateurs le matériel nécessaire pour prioiriser les sujets de discussions qui seront abordés dans le volet non-conférence durant la journée.
 
-Ressource extenre (en anglais): [Unconference in a
+Une salle de réunion prévue à cet effet permettra aux participants de la journée Ouvert en premier de participer aux discussions qui leurs sont d'intérêt dans un environment modéré par notre équipe.
+
+Les résultats de l'activité de priorisation initiale permettra également d'influencer la forme que prendra l'activité de réseautage qui aura lieu sur l'heure du midi.
+
+Ressource externe (en anglais): [Unconference in a
 box](https://www.ukgovcamp.com/2018/07/20/unconference-in-a-box/)
 
 [Retour à l'Horaire](#horaire)
