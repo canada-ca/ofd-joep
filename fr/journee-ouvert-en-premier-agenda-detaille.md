@@ -10,7 +10,7 @@ filename: journee-ouvert-en-premier-agenda
 {% assign dataSource = site.data[dataVariable] %}
 [English](../en/open-first-day-agenda-details.html)
 
-> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
+> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## [Retour au sommaire](./journee-ouvert-en-premier-agenda.html)
 

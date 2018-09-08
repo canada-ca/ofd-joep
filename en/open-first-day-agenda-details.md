@@ -10,7 +10,7 @@ filename: open-first-day-agenda
 {% assign dataSource = site.data[dataVariable] %}
 [Français](../fr/journee-ouvert-en-premier-agenda-detaille.html)
 
-> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
+> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## [Back to summary](./open-first-day-agenda.html)
 

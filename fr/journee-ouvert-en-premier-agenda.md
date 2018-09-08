@@ -10,7 +10,7 @@ filename: journee-ouvert-en-premier-agenda
 {% assign dataSource = site.data[dataVariable] %}
 [English](../en/open-first-day-agenda.html)
 
-> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: guillaume.charest@tbs-sct.gc.ca.
+> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## Objectif
 
@@ -34,6 +34,8 @@ Il y aura également trois volets plus spécifiques avec des sessions favorisant
 - Le volet Outils aura pour objectif de présenter des technologies des méthodes de travail comme le système de contrôle de version décentralisé Git et comment mettre à profit des logiciels libres à tous les niveaux d'applications.
 - Le volet Personnes explorera le travail effectué par divers départements en terme de socio-contributions et de collaboration ouverte ainsi que la mise à profit des logiciels libres pour que ce type d'initiatives soient un succès.
 
+Finalement, le volet non-conférence offrira l'opportunité aux participants s'étant déplacés d'échanger sur des sujets d'intérêts avec l'aide de modératrices et modérateurs. Ces derniers commenceront la journée avec un exercice visant à évaluer les sujets d'intérêts des personnes sur place et ils procéderont à l'analyse des résultats pour construire l'agenda de la journée.
+
 Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une série d'activités de réseautage seront organisées durant la journée pour supporter une plus grande cohésion de la communauté de pratique du gouvernement ainsi que la rencontre de partenaire externes. Ces activités incluent un volet de "non-conférence", des sessions de rencontres rapides et des opportunités de rencontres sur l'heure du diner et après la journée.
 
 ## Inscription
@@ -50,7 +52,7 @@ Afin de permettre aux gens ne pouvant se déplacer jusqu'à l'endroit retenu de 
 
 Les informations pour se connecter seront mis à jour dans cette section lorsque les détails techniques seront confirmés et il ne sera pas nécessaire de s'inscrire pour se connecter.
 
-## Logistiques
+## Détails de l'événement
 
 ### Date et Heure
 
@@ -72,19 +74,12 @@ Gratuit
 - Représentants et représentantes de compagnies privées
 - Public général
 
-### Configuration des salles
-
-- Fonderie: Large salle pouvant recevoir jusqu'à 250 personnes, 150 lorsque des tables sont installées
-- Salle de formation: Salle moyenne de formation pouvant recevoir jusqu'à 40 personnes assises, 60 avec des personnes debout
-- Salle de réunion: Salle moyenne de réunion pouvant recevoir jusqu'à 24 personnes assises, 30 avec des personnes debout
-- Salles A et B: Deux salles de rencontre pour 6 personnes
-- Aire ouverte pour kiosques
-
 ### Services offerts
 
 - Un café est disponible sur place pour acheter des collations et le diner.
 - Une salle de réunion sera disponible pour organiser des discussions sur réservation.
-- Un tableau d'échange de contacts et de services sera disponible pour préparer une activité de réseautage sur l'heure du dîner.
+- Un tableau d'échange de contacts et de services sera disponible.
+- Une activité de réseautage sera organisée sur l'heure du dîner.
 
 ## Horaire
 

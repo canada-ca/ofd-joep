@@ -10,7 +10,7 @@ filename: open-first-day-agenda
 {% assign dataSource = site.data[dataVariable] %}
 [Français](../fr/journee-ouvert-en-premier-agenda.html)
 
-> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: guillaume.charest@tbs-sct.gc.ca.
+> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## Purpose
 
@@ -34,7 +34,9 @@ There will also be three more specific streams with sessions where engagement wi
 - The Tools stream will offer sessions around the decentralized version control system Git and how it is possible to leverage Open Source Software at every layer of an application.
 - The People stream will explore the work done by various departments in terms of crowdsourcing and open collaboration as well as how Open Source Software can be leveraged in such initiatives.
 
-For the people who are already familiar with these topics, a series of networking activities will be held during the day to help support a greater cohesion of the community of practice as well as the external service providers. Such activities include an Unconference stream, a networking activity during lunchtime and an after event social mixer.
+Finally, the unconference stream will offer a moderated space for all to exchange on topics of interest for the people present that day. Our team of moderators will start the day with an exercise that will provide a chance to gauge what topics are of importance to the participants on site and will go on to build the agenda of the day around these.
+
+For the people who are already familiar with these topics, a series of networking activities will be held during the day to help support a greater cohesion of the community of practice as well as the external service providers. Such activities include networking activity during lunchtime, on-demand matchmaking meetings and an after event social mixer.
 
 ## Registration
 
@@ -76,7 +78,7 @@ This section will be updated once the technical details are confirmed and regist
 
 - A coffee shop is available on site for snacks and lunch.
 - A meeting room will be available for short discussions on reservation.
-- A whiteboard will be setup to exchange contact and services details in order to prepare a networking activity during lunchtime.
+- A whiteboard will be setup to exchange contact informations.
 - A networking activity will be organized during lunch.
 
 ## Schedule
