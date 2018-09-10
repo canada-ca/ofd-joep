@@ -150,7 +150,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#crowdsourcing-contributions--co-lab">Crowdsourcing contributions – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
