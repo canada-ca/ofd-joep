@@ -108,8 +108,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 30</td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#licences-des-logiciels-libres">Licences des logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
@@ -132,8 +132,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   <tr>
     <td class="tg-uys7">13 h 00</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#licences-des-logiciels-libres">Licences des logiciels libres</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#projets-ouverts-au-leid">Projets ouverts au LEID</a></td>
   </tr>
   <tr>
@@ -142,8 +142,9 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   <tr>
     <td class="tg-c3ow">13 h 30</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
+
   </tr>
   <tr>
     <td class="tg-c3ow">13 h 45</td>
@@ -168,9 +169,9 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   <tr>
     <td class="tg-c3ow">15 h 00</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow" rowspan="2">À venir</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15 h 15</td>
