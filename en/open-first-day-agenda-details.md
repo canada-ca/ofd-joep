@@ -95,7 +95,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#crowd-sourcing-contributions--co-lab">Crowd-sourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#crowdsourcing-contributions--co-lab">Crowdsourcing contributions – Co-Lab</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
@@ -110,8 +110,8 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">11:30</td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-source-licences">Open Source Licences</a></td>
     <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
@@ -136,8 +136,8 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-uys7">13:00</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-source-licences">Open Source Licences</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2">Upcoming</td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#open-projects-at-deil">Open Projects at DEIL</a></td>
   </tr>
   <tr>
@@ -146,8 +146,8 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-c3ow">13:30</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2">Upcoming</td>
+    <td class="tg-c3ow empty" rowspan="2"></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:45</td>
@@ -172,9 +172,9 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
+    <td class="tg-c3ow" rowspan="2">Upcoming</td>
     <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2">Upcoming</td>
-    <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:15</td>
@@ -432,7 +432,7 @@ Upcoming
 
 ## People Stream
 
-### Crowd-sourcing contributions – Co-Lab
+### Crowdsourcing contributions – Co-Lab
 
 #### Details
 
