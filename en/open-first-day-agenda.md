@@ -116,48 +116,46 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda-details.html#welcome">Welcome</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda-details.html#welcome">Welcome</a><br>OneGov Team Engagement Activity</td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./open-first-day-agenda-details.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda-details.html#keynote">Keynote</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#unconference-stream">Setup</a></td>
+    <td class="tg-c3ow" colspan="5" rowspan="2"><a href="./open-first-day-agenda-details.html#keynote">Keynote</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:15</td>
-
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
-        <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda-details.html#panel">Panel</a></td>
+    <td class="tg-c3ow" colspan="5" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:45</td>
+        <td class="tg-c3ow" colspan="5" rowspan="3"><a href="./open-first-day-agenda-details.html#panel">Panel</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:00</td>
-    <td class="tg-c3ow" rowspan="22"><a href="./open-first-day-agenda-details.html#unconference-stream">Unconference</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
+    <td class="tg-c3ow" rowspan="2">Office of the Chief Information Officer</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#crowdsourcing-contributions--co-lab">Crowdsourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="21"><a href="./open-first-day-agenda-details.html#unconference-stream">Unconference</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:15</td>
@@ -165,7 +163,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">11:30</td>
-    <td class="tg-c3ow" rowspan="2">Upcoming</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
@@ -211,7 +209,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:00</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#full-open-source-application-stacks-for-data-visualizations-and-cloud-native">Full Open Source Application Stacks</a></td>
     <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>

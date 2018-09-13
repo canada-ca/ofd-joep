@@ -154,7 +154,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:00</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#full-open-source-application-stack">Full Open Source Application Stack</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#full-open-source-application-stacks-for-data-visualizations-and-cloud-native">Full Open Source Application Stacks</a></td>
     <td class="tg-c3ow" rowspan="2">Upcoming</td>
   </tr>
   <tr>
@@ -196,6 +196,7 @@ This section will be updated once the technical details are confirmed and regist
 
 #### Master of Ceremony
 
+- Ashley Casovan
 - Sabrina Nash
 
 #### Unconference Facilitators
@@ -207,25 +208,6 @@ This section will be updated once the technical details are confirmed and regist
 ### Description
 
 House cleaning & Engagement Activity
-
-[Back to Schedule](#schedule)
-
-## Opening Remarks
-
-### Details
-
-- Time: 9:00
-- Duration: 10 minutes
-- Room: Foundry
-- Format: Presentation
-
-### Speaker
-
-#### Olivia Neal ([@LivNeal](https://twitter.com/livneal))
-
-Executive Director, Digital Change
-
-Office of the Chief Information Officer of Canada
 
 [Back to Schedule](#schedule)
 
@@ -416,7 +398,7 @@ This session will provide the participants an opportunity to learn about:
 - Room: Foundry (To be confirmed)
 - Format: Presentation with Q&A
 
-#### Speaker
+#### Speakers
 
 ##### Andrew Sinkinson, Laurent Goderre, William Hearn
 

@@ -92,7 +92,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow" rowspan="2">Bureau du Dirigeant principal de l'information</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#production-participative-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
     <td class="tg-c3ow" rowspan="21"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">14 h 00</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-de-logiciels-libres-pour-visualisation-et-infonuagique-native">Piles technologiques complètes en logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
@@ -194,6 +194,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
 
 #### Maitre de cérémonie
 
+- Ashley Casovan
 - Sabrina Nash
 
 #### Facilitateurs de la non-conférence
@@ -205,25 +206,6 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
 ### Description
 
 Instructions générales et activité d'engagement
-
-[Retour à l'Horaire](#horaire)
-
-## Mot d'ouverture
-
-### Détails
-
-- Heure: 09:00
-- Durée: 10 minutes
-- Salle: Fonderie
-- Format: Présentation
-
-### Invitée
-
-#### Olivia Neal [@LivNeal](https://twitter.com/livneal)
-
-Directrice exécutive, Changement numérique
-
-Bureau du Dirigeant principal de l'information du Canada
 
 [Retour à l'Horaire](#horaire)
 
@@ -401,7 +383,7 @@ Cette séance offrira aux participants l'occasion d'apprendre à propos de :
 
 [Retour à l'Horaire](#horaire)
 
-### Travailler avec des piles technologiques de logiciels libres pour offrir des solutions complètes
+### Piles technologiques complètes de logiciels libres pour visualisation et infonuagique native
 
 #### Détails
 
@@ -410,7 +392,7 @@ Cette séance offrira aux participants l'occasion d'apprendre à propos de :
 - Salle: Fonderie (À confirmer)
 - Format: Présentation avec questions et réponses
 
-#### Invité
+#### Invités
 
 ##### Andrew Sinkinson, Laurent Goderre, William Hearn
 
@@ -427,7 +409,7 @@ Statistiques Canada
 
 ## Volet Personnes
 
-### Contributions participatives (crowdsourcing) – Co-Lab
+### Production participative (crowdsourcing) – Co-Lab
 
 #### Détails
 
@@ -448,7 +430,7 @@ Bibliothèque et Archives Canada
 
 Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent !) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres !
 
-Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier interactif sur une grande variété de sujets - de la science citoyenne et du crowdsourcing au gouvernement à la publication du code source du Co-Lab à l'usage d'autres institutions, en passant par la façon dont BAC devrait procéder pour élaborer ses outils de collaboration.
+Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier interactif sur une grande variété de sujets - de la science citoyenne et de la production participative (crowdsourcing) au gouvernement à la publication du code source du Co-Lab à l'usage d'autres institutions, en passant par la façon dont BAC devrait procéder pour élaborer ses outils de collaboration.
 
 [Retour à l'Horaire](#horaire)
 
