@@ -4,7 +4,7 @@ title: Open First Day Detailed Agenda
 lang: en
 altLang: fr
 altLangPage: journee ouvert en premier agenda detaille
-filename: open-first-day-agenda
+filename: open-first-day-agenda-details
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
@@ -61,48 +61,46 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-uys7">08:30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda-details.html#welcome">Welcome</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./open-first-day-agenda-details.html#welcome">Welcome</a><br>OneGov Team Engagement Activity</td>
   </tr>
   <tr>
     <td class="tg-uys7">08:45</td>
   </tr>
   <tr>
     <td class="tg-uys7">09:00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./open-first-day-agenda-details.html#opening-remarks">Opening Remarks</a><br><a href="./open-first-day-agenda-details.html#keynote">Keynote</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#unconference-stream">Setup</a></td>
+    <td class="tg-c3ow" colspan="5" rowspan="2"><a href="./open-first-day-agenda-details.html#keynote">Keynote</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:15</td>
-
   </tr>
   <tr>
     <td class="tg-c3ow">09:30</td>
-        <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./open-first-day-agenda-details.html#panel">Panel</a></td>
+    <td class="tg-c3ow" colspan="5" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:45</td>
+        <td class="tg-c3ow" colspan="5" rowspan="3"><a href="./open-first-day-agenda-details.html#panel">Panel</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:00</td>
-    <td class="tg-c3ow" rowspan="22"><a href="./open-first-day-agenda-details.html#unconference-stream">Unconference</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
+    <td class="tg-c3ow" rowspan="2">Office of the Chief Information Officer</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./open-first-day-agenda-details.html#crowdsourcing-contributions--co-lab">Crowdsourcing contributions – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="21"><a href="./open-first-day-agenda-details.html#unconference-stream">Unconference</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:15</td>
@@ -110,7 +108,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">11:30</td>
-    <td class="tg-c3ow" rowspan="2">Upcoming</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
@@ -409,24 +407,27 @@ This session will provide the participants an opportunity to learn about:
 
 [Back to Schedule](#schedule)
 
-### Working with Open Source stacks to deliver full solutions
+### Full Open Source Application Stacks for Data Visualizations and Cloud-Native
 
 #### Details
 
 - Time: 14:00
-- Duration: 55 minutes
+- Duration: 45 minutes
 - Room: Foundry (To be confirmed)
 - Format: Presentation with Q&A
 
 #### Speaker
 
-##### William Hearn
+##### Andrew Sinkinson, Laurent Goderre, William Hearn
 
 Statistics Canada
 
 #### Description
 
-Upcoming
+At Statistics Canada we contribute and leverage many Open Source Software (OSS) projects.  We encourage and support team members to collaborate & share code in the public domain. OSS is at the core of many of our projects and has provided many benefits related to cost, flexibility, security, and accountability. This presentation will focus in on the following 2 initiatives where OSS has been exclusively leveraged.
+
+1. Creating dynamic Interactive Data Visualizations to display data on the web.
+2. Moving to Cloud and adopting a Cloud-native approach to building and running applications that take advantage of the cloud computing delivery model.
 
 [Back to Schedule](#schedule)
 
