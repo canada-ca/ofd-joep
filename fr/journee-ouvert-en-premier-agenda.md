@@ -116,54 +116,53 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a><br>Activité d'engagement avec l'équipe GouvEnsemble Canada</td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentation-principale">Présentation principale</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Préparation</a></td>
+    <td class="tg-c3ow" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentation-principale">Présentation principale</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">9 h 30</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
+  <td class="tg-c3ow">09 h 30</td>
+  <td class="tg-c3ow" colspan="5" rowspan="1">Pause</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 45</td>
+    <td class="tg-c3ow" colspan="5" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 00</td>
-    <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="1">Pause</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="2">Bureau du Dirigeant principal de l'information</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#production-participative-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="21"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 30</td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
@@ -208,7 +207,7 @@ Gratuit
     <td class="tg-c3ow">14 h 00</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-en-logiciels-libres">Piles technologiques complètes en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-de-logiciels-libres-pour-visualisation-et-infonuagique-native">Piles technologiques complètes en logiciels libres</a></td>
     <td class="tg-c3ow" rowspan="2">À venir</td>
   </tr>
   <tr>
