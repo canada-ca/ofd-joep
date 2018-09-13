@@ -4,7 +4,7 @@ title:  Journée Ouvert en premier Agenda Détaillé
 lang: fr
 altLang: en
 altLangPage: open first day details
-filename: journee-ouvert-en-premier-agenda
+filename: journee-ouvert-en-premier-agenda-detaille
 ---
 {% assign dataVariable = site.playbookData[page.lang] %}
 {% assign dataSource = site.data[dataVariable] %}
@@ -61,54 +61,53 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a></td>
+    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a><br>Activité d'engagement avec l'équipe GouvEnsemble Canada</td>
   </tr>
   <tr>
     <td class="tg-uys7">8 h 45</td>
   </tr>
   <tr>
     <td class="tg-uys7">9 h 00</td>
-    <td class="tg-c3ow" colspan="4" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#mot-douverture">Mot d'ouverture</a><br><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentation-principale">Présentation principale</a></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Préparation</a></td>
+    <td class="tg-c3ow" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentation-principale">Présentation principale</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 15</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">9 h 30</td>
-    <td class="tg-c3ow" colspan="4" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
+  <td class="tg-c3ow">09 h 30</td>
+  <td class="tg-c3ow" colspan="5" rowspan="1">Pause</td>
   </tr>
   <tr>
     <td class="tg-c3ow">9 h 45</td>
+    <td class="tg-c3ow" colspan="5" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 00</td>
-    <td class="tg-c3ow" rowspan="22"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 15</td>
-    <td class="tg-c3ow" colspan="4" rowspan="1">Pause</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="2">Bureau du Dirigeant principal de l'information</td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow empty" rowspan="4"></td>
     <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#contributions-participatives-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="21"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10 h 45</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 15</td>
   </tr>
   <tr>
     <td class="tg-c3ow">11 h 30</td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
     <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="2"></td>
@@ -413,13 +412,16 @@ Cette séance offrira aux participants l'occasion d'apprendre à propos de :
 
 #### Invité
 
-##### William Hearn
+##### Andrew Sinkinson, Laurent Goderre, William Hearn
 
 Statistiques Canada
 
 #### Description
 
-À venir
+À Statistique Canada, nous contribuons à de nombreux projets de logiciels libres et en tirons également avantage.  Nous encourageons et soutenons les membres de l'équipe à collaborer et à partager le code dans le domaine public. Le logiciel libre est au cœur de bon nombre de nos projets et a procuré de nombreux avantages liés aux coûts, à la souplesse, à la sécurité et à la responsabilisation. Cette présentation se concentrera sur les deux initiatives suivantes dans lesquelles le logiciel libre a été utilisé exclusivement.
+
+1. Création de visualisations de données interactives dynamiques pour afficher les données sur le Web.
+2. Passer à l'infonuagique et adopter une approche native à l'infonuagique pour créer et exécuter des applications qui tirent parti du modèle de diffusion de l'informatique en nuage.
 
 [Retour à l'Horaire](#horaire)
 
