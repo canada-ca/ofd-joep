@@ -202,7 +202,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3">Open Source Software in a Traditional Organisation</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -214,10 +214,10 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Upcoming</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Developing the digital future securely</a></td>
     <td class="tg-c3ow" rowspan="3">Open Source Software and Standards for an Accessible Web</td>
-
     <td class="tg-c3ow empty" rowspan="3"></td>
+
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
@@ -227,6 +227,20 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">15:30</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Harnessing Open Source for Audacious Projects in your Community</a></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:40</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:50</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">16:00</td>
     <td class="tg-uys7" colspan="5">Closing Remarks</td>
   </tr>
 </table>
