@@ -253,10 +253,9 @@ This section will be updated once the technical details are confirmed and regist
 
 ### Speakers
 
-#### Master of Ceremony
+#### Marc Brouillard
 
-- Ashley Casovan
-- Sabrina Nash
+Chief Technology Officer of Canada
 
 #### Unconference Facilitators
 
@@ -310,8 +309,8 @@ This keynote will cover the reasons why Drupal4Gov was founded, what were and st
 
 ### Details
 
-- Time: 9:30
-- Duration: 45 minutes
+- Time: 9:40
+- Duration: 40 minutes
 - Room: Foundry
 - Format: Panel
 
@@ -325,8 +324,7 @@ Office of the Chief Information Officer of Canada
 
 ### Panelists
 
-- Aaron Snow - Canadian Digital Service
-- Andrew Gibson - Treasury Board Secretariat, Financial Management Services
+- Sean Boots - Canadian Digital Service
 - Kirsten Burgard - US Government
 - Mélanie Robert - Treasury Board Secretariat, Open Government
 - Pierre-Antoine Ferron - Ville de Montréal
@@ -338,14 +336,19 @@ Office of the Chief Information Officer of Canada
     - Industry best practices
     - Interoperability
     - Open markets
+    - User centered design
+    - Accessibility
     - Vendors availability
-    - Total Cost of Ownership
+    - Compliance
   - Contribute to Open Source Community?
     - Releasing GC Source Code
     - Direct contribution to 3rd party projects
     - Open culture and organisation
     - Benefit to society
 - What are the challenges that await us?
+  - Established practices
+  - Training
+  - Awareness
 
 [Back to Schedule](#schedule)
 
