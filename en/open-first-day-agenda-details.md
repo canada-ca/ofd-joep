@@ -272,7 +272,6 @@ House cleaning & Engagement Activity
 
 ## Keynotes
 
-
 ### Details
 
 - Time: 9:00
