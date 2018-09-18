@@ -87,10 +87,11 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">09:40</td>
-    <td class="tg-c3ow" colspan="5" rowspan="4"><br><a href="./open-first-day-agenda-details.html#panel">Panel</a><br><br></td>
+    <td class="tg-c3ow" colspan="5" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:50</td>
+    <td class="tg-c3ow" colspan="5" rowspan="4"><br><a href="./open-first-day-agenda-details.html#panel">Panel</a><br><br></td>
   </tr>
   <tr>
     <td class="tg-uys7">10:00</td>
@@ -100,7 +101,6 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-uys7">10:20</td>
-    <td class="tg-c3ow" colspan="5" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
@@ -176,8 +176,8 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-c3ow">13:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Source Code Policy Jam</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:40</td>
@@ -213,9 +213,9 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Developing the digital future securely</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Upcoming</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="3">The Engineering Economics of Open Source</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
