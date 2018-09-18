@@ -143,7 +143,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">12:00</td>
-      <td class="tg-uys7" colspan="4" rowspan="6">Networking Lunch</td>
+    <td class="tg-uys7" colspan="4" rowspan="6">Networking Lunch</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12:10</td>
