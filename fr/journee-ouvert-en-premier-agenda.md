@@ -108,130 +108,191 @@ Gratuit
     <th class="tg-c3ow"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a><br>(E)</th>
   </tr>
   <tr>
-    <td class="tg-uys7">8 h 00</td>
-    <td class="tg-uys7" colspan="5" rowspan="2">Enregistrement des participantes et participants</td>
+    <td class="tg-uys7">08:00</td>
+    <td class="tg-uys7" colspan="5" rowspan="3">Enregistrement des participantes et participants</td>
   </tr>
   <tr>
-    <td class="tg-uys7">8 h 15</td>
+    <td class="tg-uys7">08:10</td>
   </tr>
   <tr>
-    <td class="tg-uys7">8 h 30</td>
-    <td class="tg-uys7" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a><br>Activité d'engagement avec l'équipe GouvEnsemble Canada</td>
+    <td class="tg-uys7">08:20</td>
   </tr>
   <tr>
-    <td class="tg-uys7">8 h 45</td>
+    <td class="tg-uys7">08:30</td>
+    <td class="tg-uys7" colspan="5" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accueil">Accueil</a><br>Activité d'engagement avec l'équipe Gouv Ensemble Canada</td>
   </tr>
   <tr>
-    <td class="tg-uys7">9 h 00</td>
-    <td class="tg-c3ow" colspan="5" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentation-principale">Présentation principale</a></td>
+    <td class="tg-uys7">08:40</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">9 h 15</td>
+    <td class="tg-uys7">08:50</td>
   </tr>
   <tr>
-  <td class="tg-c3ow">09 h 30</td>
-  <td class="tg-c3ow" colspan="5" rowspan="1">Pause</td>
+    <td class="tg-uys7">09:00</td>
+    <td class="tg-c3ow" colspan="5" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#présentations-principales">Présentations principales</a><br>Kirsten Burgard<br>Roy Fielding</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">9 h 45</td>
-    <td class="tg-c3ow" colspan="5" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
+    <td class="tg-uys7">09:10</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10 h 00</td>
+    <td class="tg-uys7">09:20</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10 h 15</td>
+    <td class="tg-uys7">09:30</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10 h 30</td>
-    <td class="tg-c3ow" rowspan="2">Bureau du Dirigeant principal de l'information</td>
-    <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#production-participative-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
-    <td class="tg-c3ow" rowspan="21"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
+    <td class="tg-c3ow">09:40</td>
+    <td class="tg-c3ow" colspan="5" rowspan="1">Pause</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">10 h 45</td>
+    <td class="tg-c3ow">09:50</td>
+    <td class="tg-c3ow" colspan="5" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#panel-de-discussion">Panel de discussion</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11 h 00</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-uys7">10:00</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11 h 15</td>
+    <td class="tg-uys7">10:10</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11 h 30</td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-uys7">10:20</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">11 h 45</td>
+    <td class="tg-c3ow">10:30</td>
+    <td class="tg-c3ow" rowspan="3">Bureau du Dirigeant principal de l'information</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#production-participative-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
+    <td class="tg-c3ow" rowspan="33"><a href="./journee-ouvert-en-premier-agenda-detaille.html#volet-non-conférence">Non-conférence</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">12 h 00</td>
-    <td class="tg-uys7" colspan="4" rowspan="4">Lunch  et Réseautage</td>
+    <td class="tg-uys7">10:40</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">12 h 15</td>
+    <td class="tg-c3ow">10:50</td>
   </tr>
   <tr>
-    <td class="tg-uys7">12 h 30</td>
+    <td class="tg-c3ow">11:00</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
   <tr>
-    <td class="tg-uys7">12 h 45</td>
+    <td class="tg-c3ow">11:10</td>
   </tr>
   <tr>
-    <td class="tg-uys7">13 h 00</td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2"><a href="./journee-ouvert-en-premier-agenda-detaille.html#licences-des-logiciels-libres">Licences des logiciels libres</a></td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#projets-ouverts-au-leid">Projets ouverts au LEID</a></td>
+    <td class="tg-c3ow">11:20</td>
+  </tr>  
+  <tr>
+    <td class="tg-c3ow">11:30</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">13 h 15</td>
+    <td class="tg-c3ow">11:40</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">13 h 30</td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
-
+    <td class="tg-c3ow">11:50</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">13 h 45</td>
+    <td class="tg-c3ow">12:00</td>
+    <td class="tg-uys7" colspan="4" rowspan="6">Lunch  et Réseautage</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14 h 00</td>
-    <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow empty" rowspan="4"></td>
-    <td class="tg-c3ow" rowspan="4"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-de-logiciels-libres-pour-visualisation-et-infonuagique-native">Piles technologiques complètes en logiciels libres</a></td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow">12:10</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14 h 15</td>
+    <td class="tg-uys7">12:20</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14 h 30</td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
+    <td class="tg-c3ow">12:30</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">14 h 45</td>
+    <td class="tg-uys7">12:40</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">15 h 00</td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
-    <td class="tg-c3ow" rowspan="2">À venir</td>
-    <td class="tg-c3ow empty" rowspan="2"></td>
+    <td class="tg-uys7">12:50</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">15 h 15</td>
+    <td class="tg-uys7">13:00</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#">Logiciels libres à l'échelle: Bureau de programme des logiciels libres</a></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#projets-ouverts-au-leid">Projets ouverts au LEID</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">15 h 30</td>
+    <td class="tg-c3ow">13:10</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:20</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:30</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3">Séance de travail sur les politiques du code source</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:40</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">13:50</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:00</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-de-logiciels-libres-pour-visualisation-et-infonuagique-native">Piles technologiques complètes en logiciels libres</a></td>
+    <td class="tg-c3ow" rowspan="3">Un voyage vers le libre:<br>Le côté humain de l'innovation accélérée</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:10</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:20</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:30</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3">Le logiciel libre dans une organisation traditionnelle</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:40</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">14:50</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:00</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3">Travailler avec Git</td>
+    <td class="tg-c3ow" rowspan="3">L'économie de l'ingénierie du logiciel libre</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:10</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:20</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:30</td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3">Logiciels libres et normes ouvertes pour un Web accessible</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:40</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">15:50</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">16:00</td>
     <td class="tg-uys7" colspan="5">Remarques de fermeture</td>
   </tr>
 </table>
