@@ -270,18 +270,32 @@ House cleaning & Engagement Activity
 
 [Back to Schedule](#schedule)
 
-## Keynote
+## Keynotes
+
 
 ### Details
 
-- Time: 9:10
+- Time: 9:00
 - Duration: 20 minutes
 - Room: Foundry
 - Format: Presentation
 
-### Speaker
+### Speaker: Dr. Roy T. Fielding
 
-#### Kirsten Burgard
+Roy T. Fielding is a Senior Principal Scientist at Adobe Systems Inc. Dr. Fielding is best known for his work in developing and defining the modern World Wide Web infrastructure. He is the primary architect of the current Hypertext Transfer Protocol (HTTP/1.1), co-author of the Internet standards for HTTP, Uniform Resource Identifiers (URI), and URI Templates, and co-founder of the Apache Software Foundation. Dr. Fielding received his Ph.D. degree in Information and Computer Science from the University of California, Irvine.
+
+### Description
+
+This keynote will present Dr. Fielding's perspective on the Open First direction that the Government of Canada is taking as well as the value proposition for using Open Standards.
+
+### Details
+
+- Time: 9:20
+- Duration: 20 minutes
+- Room: Foundry
+- Format: Presentation
+
+### Speaker: Kirsten Burgard
 
 Founder of Drupal4Gov, an open source community of government employees interested in making government more open to open source.
 
@@ -289,7 +303,7 @@ Web Developer at United States Department of State
 
 ### Description
 
-This presentation will cover the reasons why Drupal4Gov was founded, what were and still are the challenges in making public administrations more open to open source software and why we should request that all IT solutions use open standards.
+This keynote will cover the reasons why Drupal4Gov was founded, what were and still are the challenges in making public administrations more open to open source software and why we should request that all IT solutions use open standards.
 
 [Back to Schedule](#schedule)
 
