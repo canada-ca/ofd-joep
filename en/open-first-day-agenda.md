@@ -142,10 +142,11 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">09:40</td>
-    <td class="tg-c3ow" colspan="5" rowspan="4"><br><a href="./open-first-day-agenda-details.html#panel">Panel</a><br><br></td>
+    <td class="tg-c3ow" colspan="5" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">09:50</td>
+    <td class="tg-c3ow" colspan="5" rowspan="4"><br><a href="./open-first-day-agenda-details.html#panel">Panel</a><br><br></td>
   </tr>
   <tr>
     <td class="tg-uys7">10:00</td>
@@ -155,7 +156,6 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-uys7">10:20</td>
-    <td class="tg-c3ow" colspan="5" rowspan="1">Break</td>
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
@@ -198,7 +198,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">12:00</td>
-      <td class="tg-uys7" colspan="4" rowspan="6">Networking Lunch</td>
+    <td class="tg-uys7" colspan="4" rowspan="6">Networking Lunch</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12:10</td>

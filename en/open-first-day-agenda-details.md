@@ -143,7 +143,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">12:00</td>
-      <td class="tg-uys7" colspan="4" rowspan="6">Networking Lunch</td>
+    <td class="tg-uys7" colspan="4" rowspan="6">Networking Lunch</td>
   </tr>
   <tr>
     <td class="tg-c3ow">12:10</td>
@@ -253,10 +253,9 @@ This section will be updated once the technical details are confirmed and regist
 
 ### Speakers
 
-#### Master of Ceremony
+#### Marc Brouillard
 
-- Ashley Casovan
-- Sabrina Nash
+Chief Technology Officer of Canada
 
 #### Unconference Facilitators
 
@@ -270,18 +269,31 @@ House cleaning & Engagement Activity
 
 [Back to Schedule](#schedule)
 
-## Keynote
+## Keynotes
 
 ### Details
 
-- Time: 9:10
+- Time: 9:00
 - Duration: 20 minutes
 - Room: Foundry
 - Format: Presentation
 
-### Speaker
+### Speaker: Dr. Roy T. Fielding
 
-#### Kirsten Burgard
+Roy T. Fielding is a Senior Principal Scientist at Adobe Systems Inc. Dr. Fielding is best known for his work in developing and defining the modern World Wide Web infrastructure. He is the primary architect of the current Hypertext Transfer Protocol (HTTP/1.1), co-author of the Internet standards for HTTP, Uniform Resource Identifiers (URI), and URI Templates, and co-founder of the Apache Software Foundation. Dr. Fielding received his Ph.D. degree in Information and Computer Science from the University of California, Irvine.
+
+### Description
+
+This keynote will present Dr. Fielding's perspective on the Open First direction that the Government of Canada is taking as well as the value proposition for using Open Standards.
+
+### Details
+
+- Time: 9:20
+- Duration: 20 minutes
+- Room: Foundry
+- Format: Presentation
+
+### Speaker: Kirsten Burgard
 
 Founder of Drupal4Gov, an open source community of government employees interested in making government more open to open source.
 
@@ -289,7 +301,7 @@ Web Developer at United States Department of State
 
 ### Description
 
-This presentation will cover the reasons why Drupal4Gov was founded, what were and still are the challenges in making public administrations more open to open source software and why we should request that all IT solutions use open standards.
+This keynote will cover the reasons why Drupal4Gov was founded, what were and still are the challenges in making public administrations more open to open source software and why we should request that all IT solutions use open standards.
 
 [Back to Schedule](#schedule)
 
@@ -297,8 +309,8 @@ This presentation will cover the reasons why Drupal4Gov was founded, what were a
 
 ### Details
 
-- Time: 9:30
-- Duration: 45 minutes
+- Time: 9:40
+- Duration: 40 minutes
 - Room: Foundry
 - Format: Panel
 
@@ -312,8 +324,7 @@ Office of the Chief Information Officer of Canada
 
 ### Panelists
 
-- Aaron Snow - Canadian Digital Service
-- Andrew Gibson - Treasury Board Secretariat, Financial Management Services
+- Sean Boots - Canadian Digital Service
 - Kirsten Burgard - US Government
 - Mélanie Robert - Treasury Board Secretariat, Open Government
 - Pierre-Antoine Ferron - Ville de Montréal
@@ -325,14 +336,19 @@ Office of the Chief Information Officer of Canada
     - Industry best practices
     - Interoperability
     - Open markets
+    - User centered design
+    - Accessibility
     - Vendors availability
-    - Total Cost of Ownership
+    - Compliance
   - Contribute to Open Source Community?
     - Releasing GC Source Code
     - Direct contribution to 3rd party projects
     - Open culture and organisation
     - Benefit to society
 - What are the challenges that await us?
+  - Established practices
+  - Training
+  - Awareness
 
 [Back to Schedule](#schedule)
 

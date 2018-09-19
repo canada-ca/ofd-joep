@@ -248,15 +248,14 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
 
 - Heure: 08:30
 - Durée: 30 minutes
-- Salle: Fonderie
+- Salle: Forge
 - Format: Présentation et séance de travail
 
 ### Invitée, invité
 
-#### Maitre de cérémonie
+#### Marc Brouillard
 
-- Ashley Casovan
-- Sabrina Nash
+Dirigeant principal des technologies du Canada
 
 #### Facilitateurs de la non-conférence
 
@@ -276,7 +275,7 @@ Instructions générales et activité d'engagement
 
 - Heure: 09:10
 - Durée: 20 minutes
-- Salle: Fonderie
+- Salle: Forge
 - Format: Présentation
 
 ### Invitée, invité
@@ -299,7 +298,7 @@ Cette présentation couvrira les raisons qui ont poussé à la création de Drup
 
 - Heure: 09:30
 - Durée: 45 minutes
-- Salle: Fonderie
+- Salle: Forge
 - Format: Panel de discussion
 
 ### Modératrice
@@ -419,7 +418,7 @@ Cette séance présentera un survol des différentes et des plus populaires lice
 
 - Heure: 11:30
 - Durée: 30 minutes
-- Salle: Fonderie (À confirmer)
+- Salle: Forge (À confirmer)
 - Format: Présentation (À confirmer)
 
 #### Invité
@@ -450,7 +449,7 @@ Cette séance offrira aux participants l'occasion d'apprendre à propos de :
 
 - Heure: 14:00
 - Durée: 55 minutes
-- Salle: Fonderie (À confirmer)
+- Salle: Forge (À confirmer)
 - Format: Présentation avec questions et réponses
 
 #### Invités
@@ -476,7 +475,7 @@ Statistiques Canada
 
 - Heure: 14:00
 - Durée: 55 minutes
-- Salle: Fonderie (À confirmer)
+- Salle: Forge (À confirmer)
 - Format: Présentation avec séance de travail
 
 #### Invitée
@@ -503,7 +502,7 @@ Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier inter
 
 - Heure: 13:00
 - Durée: 55 minutes
-- Salle: Fonderie
+- Salle: Forge
 - Format: Présentation avec séance de travail
 
 #### Invitées, invités
