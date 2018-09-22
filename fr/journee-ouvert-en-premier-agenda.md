@@ -297,36 +297,35 @@ Gratuit
   </tr>
 </table>
 
+### Trousse de conférence
 
-### Trousse de conférence 
-* La trousse de conférence est conçue pour vous fournir le matériel dont vous avez besoin pour organiser une conférence d’une journée avec vos collègues à l’occasion de la Journée Ouvert en premier, qui a lieu le 28 septembre 2018. 
-* Votre conférence peut inclure :
-* Visionnement en groupe des parties de la conférence diffusées par l’entremise du Web.
-* Exercices de groupe que vous pouvez effectuer avec vos participants.
-* Pour organiser votre propre conférence :
-1.Communiquez avec les collectivités des outils à source ouverte, de la TI, des opérations, des programmes et des politiques par courriel, ou par l’intermédiaire de Twitter ou de GCcollab, pour leur laisser savoir que vous organisez votre propre événement. 
-2. Planifiez : décidez si vous souhaitez visionner la conférence tenue à Ottawa ou organiser vos propres activités, ou encore une combinaison des deux.  
-* Si vous décidez de regarder la conférence tenue à Ottawa, voici quelques conseils utiles pour organiser une soirée de visionnement.
-    2.1 Communiquez avec vos collègues pour déterminer qui aimerait visionner l’événement. 
-    2.2 Réservez une salle de conférence. 
-    2.3. Arrivez quelques minutes avant la conférence pour configurer votre ordinateur pour la diffusion en direct.
-    2.4 Cliquez sur le lien : Profitez de l’événement et parlez-en aux autres.
-* Si vous décidez de mener vos propres activités, voici quelques sujets dont vous pourriez discuter:
-  * Quelles sont les règles et les directives de votre ministère concernant ce qui suit :
-    * Recours aux logiciels ouverts
-    * Contribution aux logiciels libres
-    * Diffusion au public du code source de votre ministère sous une licence libre
-  * Votre organisation a-t-elle adopté des normes ouvertes par défaut?
-  * Qui peut autoriser la diffusion du code source du GC en tant que source ouverte au sein de votre organisation?
-  * Votre organisation compte-t-elle un groupe de travail sur les sources ouvertes?
-  * Quelles ressources votre organisation dispose-t-elle pour acquérir des logiciels libres?
-    * Quel est le processus d’acquisition d’un logiciel gratuit?
-    * Façon dont vous évaluez les logiciels libres :
-      * Sécurité (EAS, EMR, etc.)
-      * Accès
-* Si vous décidez de combiner les deux méthodes, vous pouvez diffuser en direct une partie de la conférence tenue à Ottawa, puis planifier vos propres activités.
-
-3. Faites preuve de créativité. Vous pouvez notamment utiliser du papier, des marqueurs et de grands tableaux effaçables à sec pour animer vos activités. 
-4. Profitez de l’événement et parlez-en aux autres. 
+- La trousse de conférence est conçue pour vous fournir le matériel dont vous avez besoin pour organiser une conférence d’une journée avec vos collègues à l’occasion de la Journée Ouvert en premier, qui a lieu le 28 septembre 2018.
+- Votre conférence peut inclure :
+  - Visionnement en groupe des parties de la conférence diffusées par l’entremise du Web.
+  - Exercices de groupe que vous pouvez effectuer avec vos participants.
+- Pour organiser votre propre conférence :
+  - Communiquez avec les collectivités des outils à source ouverte, de la TI, des opérations, des programmes et des politiques par courriel, ou par l’intermédiaire de Twitter ou de GCcollab, pour leur laisser savoir que vous organisez votre propre événement.
+  - Planifiez : décidez si vous souhaitez visionner la conférence tenue à Ottawa ou organiser vos propres activités, ou encore une combinaison des deux.  
+  - Si vous décidez de regarder la conférence tenue à Ottawa, voici quelques conseils utiles pour organiser une soirée de visionnement.
+    - Communiquez avec vos collègues pour déterminer qui aimerait visionner l’événement.
+    - Réservez une salle de conférence.
+    - Arrivez quelques minutes avant la conférence pour configurer votre ordinateur pour la diffusion en direct.
+    - Cliquez sur le lien : Profitez de l’événement et parlez-en aux autres.
+  - Si vous décidez de mener vos propres activités, voici quelques sujets dont vous pourriez discuter:
+    - Quelles sont les règles et les directives de votre ministère concernant ce qui suit :
+      - Recours aux logiciels ouverts
+      - Contribution aux logiciels libres
+      - Diffusion au public du code source de votre ministère sous une licence libre
+    - Votre organisation a-t-elle adopté des normes ouvertes par défaut?
+    - Qui peut autoriser la diffusion du code source du GC en tant que source ouverte au sein de votre organisation?
+    - Votre organisation compte-t-elle un groupe de travail sur les sources ouvertes?
+    - Quelles ressources votre organisation dispose-t-elle pour acquérir des logiciels libres?
+      - Quel est le processus d’acquisition d’un logiciel gratuit?
+      - Façon dont vous évaluez les logiciels libres :
+        - Sécurité (EAS, EMR, etc.)
+        - Accès
+  - Si vous décidez de combiner les deux méthodes, vous pouvez diffuser en direct une partie de la conférence tenue à Ottawa, puis planifier vos propres activités.
+  - Faites preuve de créativité. Vous pouvez notamment utiliser du papier, des marqueurs et de grands tableaux effaçables à sec pour animer vos activités.
+  - Profitez de l’événement et parlez-en aux autres.
 
 ## [Retour au début](#objectif)

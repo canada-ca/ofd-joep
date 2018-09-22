@@ -298,33 +298,34 @@ This section will be updated once the technical details are confirmed and regist
 </table>
 
 ### Conference-In-A-Box
-* The Conference-in-a-box is designed to provide you with the materials you need to organize a 1 day conference to run parallel to the Open First Day on September 28, 2018  with your colleagues 
-* Your conference can include
-  * A group viewing of the webcasted portions of the conference 
-  * Group exercises that you can conduct with your participants
-* To run your own conference: 
-1. Reach out to the Open Source, IT, business, program and policy communities by twitter, email or GCCollab to let them know that you are hosting your own event 
-2. Plan: decide to watch the conference in Ottawa, run your own activities or you can do a mix of both.  
-    * If you decide to watch the conference in Ottawa, here are some helpful tips to organize a viewing party:
-      2.1 Reach out to colleagues to see who would be interested in viewing the event 
-      2.2 Reserve a boardroom 
-      2.3 Arrive a few minutes before the conference to set up your computer for the live stream 
-      2.4 Clink on the link: Enjoy and share 
-* If you decide to run your own activities, here are some topics you could discuss: 
-  * What are the rules and guidance in your department based on:
-    * Using Open Source Software?	
-    * Contributing to Open Source Software?
-    * Releasing your department source code with an Open Source licence to the public?
-  * Are there any default open standards adopted by your organization?
-  * Who can authorize the release of GC source code as open source in your organization?
-  * Is there an open source working group in your organization?
-  * What resources do you have to procure/acquire open source software in your organization?
-    * What is the process to acquire software that doesn’t have a cost?
-    * How do you assess Open Source Software:
-      * Security (SA&A, TRA, etc.)
-      * Accessibility
-* If you decide to do a mix of both you could stream one portion of the conference in Ottawa and then plan some activities of your own. 
-3. Get creative! You can use paper, markers, large dry erase boards etc. to help facilitate your activities of your own!
-4. Enjoy and share!
+
+- The Conference-in-a-box is designed to provide you with the materials you need to organize a 1 day conference to run parallel to the Open First Day on September 28, 2018  with your colleagues
+- Your conference can include
+  - A group viewing of the webcast portions of the conference
+  - Group exercises that you can conduct with your participants
+- To run your own conference:
+  - Reach out to the Open Source, IT, business, program and policy communities by twitter, email or GCCollab to let them know that you are hosting your own event
+  - Plan: decide to watch the conference in Ottawa, run your own activities or you can do a mix of both.  
+  - If you decide to watch the conference in Ottawa, here are some helpful tips to organize a viewing party:
+    - Reach out to colleagues to see who would be interested in viewing the event
+    - Reserve a boardroom
+    - Arrive a few minutes before the conference to set up your computer for the live stream
+    - Clink on the link: Enjoy and share
+  - If you decide to run your own activities, here are some topics you could discuss:
+    - What are the rules and guidance in your department based on:
+      - Using Open Source Software?
+      - Contributing to Open Source Software?
+      - Releasing your department source code with an Open Source licence to the public?
+    - Are there any default open standards adopted by your organization?
+    - Who can authorize the release of GC source code as open source in your organization?
+    - Is there an open source working group in your organization?
+    - What resources do you have to procure/acquire open source software in your organization?
+      - What is the process to acquire software that doesn’t have a cost?
+      - How do you assess Open Source Software:
+        - Security (SA&A, TRA, etc.)
+        - Accessibility
+  - If you decide to do a mix of both you could stream one portion of the conference in Ottawa and then plan some activities of your own.
+  - Get creative! You can use paper, markers, large dry erase boards etc. to help facilitate your activities of your own!
+  - Enjoy and share!
 
 ## [Back to Top](#purpose)
