@@ -269,18 +269,31 @@ Instructions générales et activité d'engagement
 
 [Retour à l'Horaire](#horaire)
 
-## Présentation principale
+## Présentations principales
 
 ### Détails
 
-- Heure: 09:10
+- Heure: 09:00
 - Durée: 20 minutes
 - Salle: Forge
 - Format: Présentation
 
-### Invitée, invité
+### Invité: Kirsten Burgard
 
-#### Kirsten Burgard
+Roy T. Fielding est chercheur principal principal chez Adobe Systems Inc. M. Fielding est surtout connu pour son travail de développement et de définition de l'infrastructure moderne du World Wide Web. Il est l'architecte principal de l'actuel protocole de transfert hypertexte (HTTP/1.1), co-auteur des normes Internet pour HTTP, URI (Uniform Resource Identifiers) et Modèles URI, et co-fondateur de l'Apache Software Foundation. M. Fielding est titulaire d'un doctorat en sciences de l'information et en informatique de l'Université de Californie, Irvine.
+
+### Description
+
+Ce présentation donnera le point de vue de M. Fielding sur l'orientation d'Open First que prend le gouvernement du Canada, ainsi que la proposition de valeur pour l'utilisation des normes ouvertes.
+
+### Détails
+
+- Heure: 09:20
+- Durée: 20 minutes
+- Salle: Forge
+- Format: Présentation
+
+#### Invitée: Kirsten Burgard
 
 Fondatrice de Drupal4Gov, une communauté d'employées et d'employés du gouvernement intéressés à rendre les administrations publiques plus ouvertes aux logiciels libres.
 
@@ -296,8 +309,8 @@ Cette présentation couvrira les raisons qui ont poussé à la création de Drup
 
 ### Détails
 
-- Heure: 09:30
-- Durée: 45 minutes
+- Heure: 09:50
+- Durée: 40 minutes
 - Salle: Forge
 - Format: Panel de discussion
 
@@ -311,10 +324,9 @@ Bureau du Dirigeant principal de l'information du Canada
 
 ### Panélistes
 
-- Aaron Snow - Service numérique canadien
-- Andrew Gibson - Secrétariat du Conseil du Trésor
+- Sean Boots - Service numérique canadien
 - Kirsten Burgard - Gouvernement des États-Unis
-- Mélanie Robert - Secrétariat du Conseil du Trésor
+- Mélanie Robert - Secrétariat du Conseil du Trésor, Gouvernement Ouvert
 - Pierre-Antoine Ferron - Ville de Montréal
 
 ### Sujets
@@ -324,14 +336,19 @@ Bureau du Dirigeant principal de l'information du Canada
     - Meilleures pratiques de l'industrie
     - Interopérabilité
     - Marchés ouverts
+    - Design centré sur les utilisateurs
+    - Accessibilité
     - Disponibilité des vendeurs
-    - Coût total de possession
+    - Conformité
   - Contribuer à la communauté des logiciels libres?
     - Libérer le code source au Gouvernement du Canada
     - Contribution directe aux projets tiers
     - Culture ouverte et organisation
     - Bénéfice pour la société
 - Quels sont les défis qui nous attendent?
+  - Pratiques établies
+  - Formation
+  - Conscientisation
 
 [Retour à l'Horaire](#horaire)
 

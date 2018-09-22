@@ -309,7 +309,7 @@ This keynote will cover the reasons why Drupal4Gov was founded, what were and st
 
 ### Details
 
-- Time: 9:40
+- Time: 9:50
 - Duration: 40 minutes
 - Room: Foundry
 - Format: Panel
