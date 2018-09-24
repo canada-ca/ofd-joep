@@ -271,6 +271,10 @@ House cleaning & Engagement Activity
 
 ## Keynotes
 
+### Speaker: Dr. Roy T. Fielding
+
+Roy T. Fielding is a Senior Principal Scientist at Adobe Systems Inc. Dr. Fielding is best known for his work in developing and defining the modern World Wide Web infrastructure. He is the primary architect of the current Hypertext Transfer Protocol (HTTP/1.1), co-author of the Internet standards for HTTP, Uniform Resource Identifiers (URI), and URI Templates, and co-founder of the Apache Software Foundation. Dr. Fielding received his Ph.D. degree in Information and Computer Science from the University of California, Irvine.
+
 ### Details
 
 - Time: 9:00
@@ -278,13 +282,15 @@ House cleaning & Engagement Activity
 - Room: Foundry
 - Format: Presentation
 
-### Speaker: Dr. Roy T. Fielding
-
-Roy T. Fielding is a Senior Principal Scientist at Adobe Systems Inc. Dr. Fielding is best known for his work in developing and defining the modern World Wide Web infrastructure. He is the primary architect of the current Hypertext Transfer Protocol (HTTP/1.1), co-author of the Internet standards for HTTP, Uniform Resource Identifiers (URI), and URI Templates, and co-founder of the Apache Software Foundation. Dr. Fielding received his Ph.D. degree in Information and Computer Science from the University of California, Irvine.
-
 ### Description
 
 This keynote will present Dr. Fielding's perspective on the Open First direction that the Government of Canada is taking as well as the value proposition for using Open Standards.
+
+### Speaker: Kirsten Burgard
+
+Founder of Drupal4Gov, an open source community of government employees interested in making government more open to open source.
+
+Web Developer at United States Department of State
 
 ### Details
 
@@ -292,12 +298,6 @@ This keynote will present Dr. Fielding's perspective on the Open First direction
 - Duration: 20 minutes
 - Room: Foundry
 - Format: Presentation
-
-### Speaker: Kirsten Burgard
-
-Founder of Drupal4Gov, an open source community of government employees interested in making government more open to open source.
-
-Web Developer at United States Department of State
 
 ### Description
 
@@ -360,14 +360,14 @@ Office of the Chief Information Officer of Canada
 
 - Time: 10:30
 - Duration: 30 minutes
-- Room: Training Room (To be confirmed)
+- Room: Training Room
 - Format: Presentation
 
 #### Speaker
 
-##### Karin Fuller
+##### Alexandra Marchand
 
-Senior Project Officer, Office of the Chief Information Officer
+Outreach and Engagement Advisor, Open Government, Office of the Chief Information Officer
 
 Treasury Board Secretariat Canada
 
@@ -380,6 +380,29 @@ Treasury Board Secretariat Canada
 - How are you a part of it?
 - What do we need to do?
 - How can citizens and private sector organisations benefit and leverage an Open Government?
+
+[Back to Schedule](#schedule)
+
+### Office of the Chief Information Officer
+
+#### Details
+
+- Time: 11:00
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Guillaume Charest
+
+Advisor, Open Source Software, Office of the Chief Information Officer
+
+Treasury Board Secretariat Canada
+
+#### Description
+
+This presentation will aim to provide an update on the rules, from laws to policies, that we affect our work as well as our ability to work with Open Standards and Open Source Software within their context.
 
 [Back to Schedule](#schedule)
 
@@ -406,41 +429,80 @@ Calvin Rodo from ESDC will be sharing his experiences in attempting to apply an 
 
 ## Rules Stream
 
-### Open Source Licences
+### Open Source at Scale
+
+#### Open Source Program Office
 
 #### Details
 
-- Time: 11:30
+- Time: 13:00
 - Duration: 30 minutes
-- Room: Training Room (To be confirmed)
+- Room: Training Room
 - Format: Presentation
 
 #### Speaker
 
-##### To be confirmed
-
-Treasury Board Secretariat Canada
-
-#### Format
-
-Presentation
+##### Jeff McAffer
 
 #### Description
 
-This session will provide an overview of the different and most popular Open Source Licences and what their different clauses imply for a project.
+Open source is fundamental to the modern software process and culture. Building software in an open world requires a different mindset, one that accepts depending on thousands of components you did not write, having teams of developers open sourcing their own code, or contributing to other projects. At the same time, the compliance, security, and supply chain demands around software are increasing. Organizations looking to manage the scale and scope of these engagements need coordinated efforts. This talk outlines the challenges in doing open source at scale in a broad, diversified organization, and looks at policy and tooling approaches that both unleash the opportunities and manage the risks, as well as techniques for building an open and collaborative culture.
+
+[Back to Schedule](#schedule)
+
+### Source Code Policy Jam
+
+#### Details
+
+- Time: 13:30
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Moderators
+
+##### Ashley Casovan, Guillaume Charest
+
+#### Description
+
+Upcoming
 
 [Back to Schedule](#schedule)
 
 ## Tools Stream
 
-### Working with Git
+### Full Open Source Application Stacks for Data Visualizations and Cloud-Native
 
 #### Details
 
-- Time: 11:30
-- Duration: 30 minutes
+- Time: 14:00
+- Duration: 45 minutes
 - Room: Foundry (To be confirmed)
-- Format: Presentation (To be confirmed)
+- Format: Presentation with Q&A
+
+#### Speakers
+
+##### Andrew Sinkinson, Laurent Goderre, William Hearn
+
+Statistics Canada
+
+#### Description
+
+At Statistics Canada we contribute and leverage many Open Source Software (OSS) projects.  We encourage and support team members to collaborate & share code in the public domain. OSS is at the core of many of our projects and has provided many benefits related to cost, flexibility, security, and accountability. This presentation will focus in on the following 2 initiatives where OSS has been exclusively leveraged.
+
+1. Creating dynamic Interactive Data Visualizations to display data on the web.
+2. Moving to Cloud and adopting a Cloud-native approach to building and running applications that take advantage of the cloud computing delivery model.
+
+[Back to Schedule](#schedule)
+
+### Working with a Decentralized Version Control System
+
+#### Details
+
+- Time: 15:00
+- Duration: 30 minutes
+- Room: Foundry
+- Format: Presentation
 
 #### Speaker
 
@@ -464,27 +526,26 @@ This session will provide the participants an opportunity to learn about:
 
 [Back to Schedule](#schedule)
 
-### Full Open Source Application Stacks for Data Visualizations and Cloud-Native
+### How Open Source Software Help Governments Meet Compliance
 
 #### Details
 
-- Time: 14:00
-- Duration: 45 minutes
-- Room: Foundry (To be confirmed)
-- Format: Presentation with Q&A
+- Time: 15:30
+- Duration: 30 minutes
+- Room: Training room
+- Format: Presentation
 
-#### Speakers
+#### Speaker
 
-##### Andrew Sinkinson, Laurent Goderre, William Hearn
+##### Robin Galipeau
 
-Statistics Canada
+Robin has been the Managing Partner at OpenPlus since 2004, where he has fostered the adoption of many Open Source platforms and has been a dedicated advocate for better Government Open Source adoption, Open Standards and Accessibility. Robin also co-founded the Open Source Alliance of Canada to promote a better exposure to the industry in the public sector.
+
+He manages a highly experienced team with a passion for Government Digital Services, where integration and modern adoption is in demand. OpenPlus has successfully deployed multiple large Drupal WxT and Solr initiatives at all three levels of Government. He has led province-wide adoption projects for major Web Renewal initiatives with online eServices portal solutions, as well as national Intranets for some of the federal government's largest ministries. His project roster also includes the United Nations, several Crown corporations, and the University of Ottawa's main campus wide solution.
 
 #### Description
 
-At Statistics Canada we contribute and leverage many Open Source Software (OSS) projects.  We encourage and support team members to collaborate & share code in the public domain. OSS is at the core of many of our projects and has provided many benefits related to cost, flexibility, security, and accountability. This presentation will focus in on the following 2 initiatives where OSS has been exclusively leveraged.
-
-1. Creating dynamic Interactive Data Visualizations to display data on the web.
-2. Moving to Cloud and adopting a Cloud-native approach to building and running applications that take advantage of the cloud computing delivery model.
+Upcoming
 
 [Back to Schedule](#schedule)
 

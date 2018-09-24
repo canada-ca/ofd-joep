@@ -132,8 +132,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">11:30</td>
     <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accessibilité">Permettre l'épanouissement des gens avec l'accessibilité par défaut</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:40</td>
@@ -271,35 +271,35 @@ Instructions générales et activité d'engagement
 
 ## Présentations principales
 
-### Détails
+### Invité: Dr. Roy T. Fielding
+
+Roy T. Fielding est chercheur sénior principal chez Adobe Systems Inc. M. Fielding est surtout connu pour son travail de développement et de définition de l'infrastructure moderne du World Wide Web. Il est l'architecte principal de l'actuel protocole de transfert hypertexte (HTTP/1.1), co-auteur des normes Internet pour HTTP, URI (Uniform Resource Identifiers) et Modèles URI, et co-fondateur de l'Apache Software Foundation. M. Fielding est titulaire d'un doctorat en sciences de l'information et en informatique de l'Université de Californie, Irvine.
+
+#### Détails
 
 - Heure: 09:00
 - Durée: 20 minutes
 - Salle: Forge
 - Format: Présentation
 
-### Invité: Kirsten Burgard
+#### Description
 
-Roy T. Fielding est chercheur principal principal chez Adobe Systems Inc. M. Fielding est surtout connu pour son travail de développement et de définition de l'infrastructure moderne du World Wide Web. Il est l'architecte principal de l'actuel protocole de transfert hypertexte (HTTP/1.1), co-auteur des normes Internet pour HTTP, URI (Uniform Resource Identifiers) et Modèles URI, et co-fondateur de l'Apache Software Foundation. M. Fielding est titulaire d'un doctorat en sciences de l'information et en informatique de l'Université de Californie, Irvine.
+Ce présentation donnera le point de vue du Dr. Fielding sur l'orientation "Ouvert en premier" que prend le gouvernement du Canada, ainsi que la proposition de valeur pour l'utilisation des normes ouvertes.
 
-### Description
+### Invitée: Kirsten Burgard
 
-Ce présentation donnera le point de vue de M. Fielding sur l'orientation d'Open First que prend le gouvernement du Canada, ainsi que la proposition de valeur pour l'utilisation des normes ouvertes.
+Fondatrice de Drupal4Gov, une communauté d'employées et d'employés du gouvernement intéressés à rendre les administrations publiques plus ouvertes aux logiciels libres.
 
-### Détails
+Développeuse Web au Département d'État des États-Unis
+
+#### Détails
 
 - Heure: 09:20
 - Durée: 20 minutes
 - Salle: Forge
 - Format: Présentation
 
-#### Invitée: Kirsten Burgard
-
-Fondatrice de Drupal4Gov, une communauté d'employées et d'employés du gouvernement intéressés à rendre les administrations publiques plus ouvertes aux logiciels libres.
-
-Développeuse Web au Département d'État des États-Unis
-
-### Description
+#### Description
 
 Cette présentation couvrira les raisons qui ont poussé à la création de Drupal4Gov, quels étaient et quels sont toujours les défis pour rendre les administrations publiques plus ouvertes à utiliser des logiciels libres ainsi que pourquoi nous devrions exiger l'utilisation de standards ouverts pour toutes les solutions TI.
 
@@ -365,9 +365,9 @@ Bureau du Dirigeant principal de l'information du Canada
 
 #### Invitée
 
-##### Karin Fuller
+##### Alexandra Marchand
 
-Agente principale de projet, Direction du dirigeant principal de l'information
+Agente de sensibilisation et mobilisation, Gouvernement Ouvert, Direction du dirigeant principal de l'information
 
 Secrétariat du Conseil du Trésor Canada
 
@@ -383,11 +383,34 @@ Secrétariat du Conseil du Trésor Canada
 
 [Retour à l'Horaire](#horaire)
 
-### Libérer du code source du GC
+### Bureau du Dirigeant principal de l'information
 
 #### Détails
 
 - Heure: 11:00
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Guillaume Charest
+
+Conseiller, Logiciels libres, Direction du dirigeant principal de l'information
+
+Secrétariat du Conseil du Trésor Canada
+
+#### Description
+
+Cette séance visera a éclairer
+
+[Retour à l'Horaire](#horaire)
+
+### Libérer du code source du GC
+
+#### Détails
+
+- Heure: 11:30
 - Durée: 30 minutes
 - Salle: Salle de formation (À confirmer)
 - Format: Présentation
@@ -406,37 +429,80 @@ Calvin Rodo du EDSC partagera son expérience dans l'application d'une licence d
 
 ## Volet Règles
 
-### Licences des logiciels libres
+### Logiciels libres à l'échelle
+
+#### Bureau de programme des logiciels libres
 
 #### Détails
 
-- Heure: 11:30
+- Heure: 13:00
 - Durée: 30 minutes
-- Salle: Salle de formation (À confirmer)
+- Salle: Salle de formation
 - Format: Présentation
 
-#### Invitée, invité
+#### Invité
 
-##### À confirmer
-
-Secrétariat du Conseil du Trésor Canada
+##### Jeff McAffer
 
 #### Description
 
-Cette séance présentera un survol des différentes et des plus populaires licences de logiciels libres et ce que leurs différentes clauses impliquent pour un projet.
+Le logiciel libre est fondamental pour le processus et la culture du logiciel moderne. Construire un logiciel dans un monde ouvert exige un état d'esprit différent, qui accepte de dépendre de milliers de composants que vous n'avez pas écrits, d'avoir des équipes de développeurs qui ouvrent leur propre code, ou de contribuer à d'autres projets. Dans le même temps, les exigences de conformité, de sécurité et de chaîne d'approvisionnement en matière de logiciels augmentent. Les organisations qui cherchent à gérer l'ampleur et la portée de ces engagements ont besoin d'efforts coordonnés. Cet exposé décrit les défis que posent la mise en œuvre du logiciel libre à grande échelle dans une organisation vaste et diversifiée, et examine les approches en matière de politiques et d'outils qui permettent à la fois de tirer parti des possibilités et de gérer les risques, ainsi que les techniques pour bâtir une culture ouverte et collaborative.
+
+[Retour à l'Horaire](#horaire)
+
+### Séance de travail sur les politiques du code source
+
+#### Détails
+
+- Heure: 13:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Modérateurs
+
+##### Ashley Casovan, Guillaume Charest
+
+#### Description
+
+À venir
 
 [Retour à l'Horaire](#horaire)
 
 ## Volet Outils
 
-### Travailler avec Git
+### Piles technologiques complètes de logiciels libres pour visualisation et infonuagique native
 
 #### Détails
 
-- Heure: 11:30
-- Durée: 30 minutes
+- Heure: 14:00
+- Durée: 55 minutes
 - Salle: Forge (À confirmer)
-- Format: Présentation (À confirmer)
+- Format: Présentation avec questions et réponses
+
+#### Invités
+
+##### Andrew Sinkinson, Laurent Goderre, William Hearn
+
+Statistiques Canada
+
+#### Description
+
+À Statistique Canada, nous contribuons à de nombreux projets de logiciels libres et en tirons également avantage.  Nous encourageons et soutenons les membres de l'équipe à collaborer et à partager le code dans le domaine public. Le logiciel libre est au cœur de bon nombre de nos projets et a procuré de nombreux avantages liés aux coûts, à la souplesse, à la sécurité et à la responsabilisation. Cette présentation se concentrera sur les deux initiatives suivantes dans lesquelles le logiciel libre a été utilisé exclusivement.
+
+1. Création de visualisations de données interactives dynamiques pour afficher les données sur le Web.
+2. Passer à l'infonuagique et adopter une approche native à l'infonuagique pour créer et exécuter des applications qui tirent parti du modèle de diffusion de l'informatique en nuage.
+
+[Retour à l'Horaire](#horaire)
+
+### Travailler avec un système de contrôle de version décentralisé
+
+#### Détails
+
+- Heure: 15:00
+- Durée: 30 minutes
+- Salle: Forge
+- Format: Présentation
 
 #### Invité
 
@@ -460,27 +526,26 @@ Cette séance offrira aux participants l'occasion d'apprendre à propos de :
 
 [Retour à l'Horaire](#horaire)
 
-### Piles technologiques complètes de logiciels libres pour visualisation et infonuagique native
+### Comment les logiciels libres aident les gouvernements à être conformes
 
 #### Détails
 
-- Heure: 14:00
-- Durée: 55 minutes
-- Salle: Forge (À confirmer)
-- Format: Présentation avec questions et réponses
+- Heure: 15:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
 
-#### Invités
+#### Invité
 
-##### Andrew Sinkinson, Laurent Goderre, William Hearn
+##### Robin Galipeau
 
-Statistiques Canada
+Robin est l'associé directeur d'OpenPlus depuis 2004, où il a encouragé l'adoption de nombreuses plates-formes de logiciels libres et a été un ardent défenseur d'une meilleure adoption du logiciel libre par le gouvernement, des standards ouverts et de l'accessibilité. Robin a également cofondé l'Open Source Alliance of Canada pour promouvoir une meilleure visibilité de l'industrie dans le secteur public.
+
+Il dirige une équipe très expérimentée et passionnée par les services numériques du gouvernement, où l'intégration et l'adoption moderne sont très demandées. OpenPlus a déployé avec succès plusieurs grandes initiatives Drupal WxT et Solr aux trois niveaux de gouvernement. Il a dirigé des projets d'adoption à l'échelle de la province dans le cadre d'importantes initiatives de renouvellement du Web à l'aide de solutions de portail de cyberservices en ligne, ainsi que des intranets nationaux pour certains des plus grands ministères du gouvernement fédéral. Sa liste de projets comprend également les Nations Unies, plusieurs sociétés d'État et la principale solution à l'échelle du campus de l'Université d'Ottawa.
 
 #### Description
 
-À Statistique Canada, nous contribuons à de nombreux projets de logiciels libres et en tirons également avantage.  Nous encourageons et soutenons les membres de l'équipe à collaborer et à partager le code dans le domaine public. Le logiciel libre est au cœur de bon nombre de nos projets et a procuré de nombreux avantages liés aux coûts, à la souplesse, à la sécurité et à la responsabilisation. Cette présentation se concentrera sur les deux initiatives suivantes dans lesquelles le logiciel libre a été utilisé exclusivement.
-
-1. Création de visualisations de données interactives dynamiques pour afficher les données sur le Web.
-2. Passer à l'infonuagique et adopter une approche native à l'infonuagique pour créer et exécuter des applications qui tirent parti du modèle de diffusion de l'informatique en nuage.
+À venir
 
 [Retour à l'Horaire](#horaire)
 
