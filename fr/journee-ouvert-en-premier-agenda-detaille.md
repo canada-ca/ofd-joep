@@ -202,7 +202,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#le-logiciel-libre-dans-une-organisation-traditionnelle">Le logiciel libre dans une organisation traditionnelle</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#la-valeur-du-logiciel-libre-en-affaires">La valeur du logiciel libre en affaires</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -227,7 +227,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#comment-les-logiciels-libres-aident-les-gouvernements-à-être-conformes-à-leurs-obligations">Logiciels libres pour la conformité des gouvernements</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#comment-les-logiciels-libres-aident-les-gouvernements-à-être-conformes-à-leurs-obligations">Comment les logiciels libres aident les gouvernements à être conformes à leurs obligations</a></td>
     <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#exploiter-le-logiciel-libre-pour-des-projets-audacieux-dans-votre-communauté">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
   </tr>
   <tr>
@@ -444,6 +444,10 @@ Calvin Rodo du EDSC partagera son expérience dans l'application d'une licence d
 
 ##### Jeff McAffer
 
+Jeff McAffer a plus de 25 ans d'expérience à la tête d'équipes de développement de logiciels de gestion matricielle à haute performance. Il s'intéresse principalement aux "plates-formes" qui permettent de créer et de déployer des systèmes extensibles. En particulier, en tant que directeur de l'Open Source Programs Office de Microsoft, Jeff dirige les pratiques d'ingénierie de Microsoft et son engagement auprès des communautés des logiciels libres. Il a été l'un des fondateurs et architectes des efforts d'outils et d'environment d'exécution d'Eclipse et a été l'un des principaux bâtisseurs de la communauté et de l'écosystème d'Eclipse depuis sa création, en plus d'être l'auteur de plusieurs livres et un conférencier important dans la communauté Eclipse et OSGi.
+
+Au cours de sa carrière, Jeff a travaillé dans des domaines tels que les environnements d'exécution modulaires, les environnements de développement intégrés, la conception linguistique, les systèmes distribués et massivement parallèles, la simulation, les systèmes experts et la conception de machine virtuelle. Travaillant au sein de grandes entreprises et de petites entreprises en démarrage, il a occupé les postes de directeur technique, fondateur/entrepreneur, directeur et gestionnaire, ainsi que visionnaire, architecte, chef de projet et d'équipe, concepteur et réalisateur. Il a une grande expérience des projets de logiciels libres(Eclipse), des spécifications ouvertes (OSGi, JCP, IETF, ANSI), des produits de force industrielle ainsi que des projets de recherche spéculative.
+
 #### Description
 
 Le logiciel libre est fondamental pour le processus et la culture du logiciel moderne. Construire un logiciel dans un monde ouvert exige un état d'esprit différent, qui accepte de dépendre de milliers de composants que vous n'avez pas écrits, d'avoir des équipes de développeurs qui ouvrent leur propre code, ou de contribuer à d'autres projets. Dans le même temps, les exigences de conformité, de sécurité et de chaîne d'approvisionnement en matière de logiciels augmentent. Les organisations qui cherchent à gérer l'ampleur et la portée de ces engagements ont besoin d'efforts coordonnés. Cet exposé décrit les défis que posent la mise en œuvre du logiciel libre à grande échelle dans une organisation vaste et diversifiée, et examine les approches en matière de politiques et d'outils qui permettent à la fois de tirer parti des possibilités et de gérer les risques, ainsi que les techniques pour bâtir une culture ouverte et collaborative.
@@ -541,7 +545,9 @@ Il dirige une équipe très expérimentée et passionnée par les services numé
 
 #### Description
 
-À venir
+Cette séance présentera des adoptions clés autour des histoires à succès de gouvernements et de logiciels libres, y compris comment 3 niveaux de gouvernement ont adopté le code de base de Drupal/Solr WxT basé sur du code ouvert partagé pour les avantages du secteur public, et en tirant parti du code mondial provenant des communautés de masse critiques.
+
+La présentation explorera le rôle des technologies Open Source, des données ouvertes, des standards ouverts et des API ouvertes dans ces réussites.
 
 [Retour à l'Horaire](#horaire)
 
@@ -641,11 +647,11 @@ Plus récemment, il s'est surtout attaché à aider ses clients à préparer, à
 
 #### Description
 
-À venir
+La promesse d'un gouvernement ouvert et les demandes des citoyens pour de nouvelles façons de communiquer numériquement avec le gouvernement exigent une rapidité et une agilité sans précédent, et l'un des principaux obstacles à l'accélération de l'innovation sont les gens.  La culture, l'acquisition de talents et la structure organisationnelle en harmonie avec les processus et les architectures de soutien sont nécessaires pour créer des équipes hautement performantes. Joignez-vous à Michael Cardy, stratège en chef Red Hat, alors qu'il fait référence à des recherches originales pour définir les attributs des équipes à haut rendement et les stratégies de transformation de la capacité organisationnelle par l'acquisition de talents et le perfectionnement des compétences.
 
 [Retour à l'Horaire](#horaire)
 
-### Le logiciel libre dans une organisation traditionnelle
+### La valeur du logiciel libre en affaires
 
 #### Détails
 
@@ -662,7 +668,7 @@ Jeffrey est bien connu dans les cercles du logiciel libre, en particulier ceux l
 
 #### Description
 
-À venir
+Le logiciel libre est répandu, et souvent dominant, dans tous les secteurs d'activité dans le monde - les plus grandes banques, les marchés boursiers, les services publics, les programmes spatiaux et les industries technologiques, parmi d'innombrables autres, comptent sur le logiciel libre quotidiennement. Cette présentation explore la proposition de valeur commerciale de l'open source, et aborde également la valeur sociale qui l'accompagne, en explorant pourquoi faire le bien social finit par être si bon pour les résultats financiers également. L'auteur utilisera des exemples tirés de son expérience avec Intel, une société du Fortune 500 et l'un des plus grands contributeurs open source dans le monde, dont la culture a changé pour intégrer l'open source d'abord comme stratégie.
 
 [Retour à l'Horaire](#horaire)
 
@@ -679,7 +685,9 @@ Jeffrey est bien connu dans les cercles du logiciel libre, en particulier ceux l
 
 ##### Stephen Walli
 
-Bio
+Stephen est un cadre technique, un fondateur et consultant, un rédacteur et auteur, un développeur de systèmes, un geek en construction de logiciels et un diplomate en normalisation. Il travaille dans l'industrie informatique depuis 1980 en tant que client et fournisseur.
+
+Il a été technologue émérite chez Hewlett Packard Enterprise, directeur technique à l'Outercurve Foundation, a fondé une entreprise en démarrage et a été rédacteur et consultant. Il s'intéresse aux logiciels libres depuis près de 30 ans et blogue sur les logiciels libres, les normes et le commerce des logiciels.
 
 #### Description
 
@@ -696,15 +704,17 @@ Les logiciels libres sont développés en collaboration et font l'objet de licen
 - Salle: Forge
 - Format: Présentation
 
-#### Invité
+#### Invitée
 
 ##### Erin "RobotGrrl" Kennedy
 
-Bio
+Fondatrice de Robot Missions, Aider notre planète avec des robots!
 
 #### Description
 
-À venir
+Une expérience audacieuse d'utilisation de robots à code source ouvert et peu coûteux pour nettoyer la pollution des plages a été entreprise cet été. Dans cet exposé, nous partagerons comment une entreprise sociale locale (Robot Missions) a engagé la communauté et a obtenu l'appui de la Ville d'Ottawa et d'autres intervenants pour y parvenir. L'auditoire entendra parler des leçons apprises au cours des expériences sur le terrain et de l'interaction avec la communauté, des idées sur l'exploitation de logiciels libres pour réaliser la vision de laisser quiconque reproduire le robot en 3D, où que ce soit.
+
+Préparez-vous à être inspiré - Cet exposé s'adresse à ceux qui veulent en savoir plus sur un exemple réel, tangible et local de la façon dont une initiative de base peut exploiter les logiciels libres et contribuer en retour au logiciel libre. Tout cela en travaillant sur un gros problème et en engageant la communauté. Avertissement, après cet exposé, vous pourriez vous aussi être inspiré à construire la prochaine fusée à code source ouvert, robot, hologramme multidimensionnel, ou l'équivalent pour votre organisation ou département !
 
 [Retour à l'Horaire](#horaire)
 
