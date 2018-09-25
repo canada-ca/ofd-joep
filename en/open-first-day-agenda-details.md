@@ -719,9 +719,7 @@ Open source is prevalent, and often dominant, in every business sector in the wo
 
 ##### Stephen Walli
 
-Stephen is a technical executive, a founder and consultant, a writer and author, a systems developer, a software construction geek, and a standards diplomat. He has worked in the IT industry since 1980 as both customer and vendor.
-
-He was a Distinguished Technologist at Hewlett Packard Enterprise, technical director at the Outercurve Foundation, founded a start-up, and has been a writer and consultant. He has been around open source software for almost 30 years and blogs about open source software, standards, and the business of software.
+Stephen is a principal program manager at Microsoft in the Azure Office of the CTO. He has worked with Docker, been a Distinguished Technologist at Hewlett-Packard, technical director at the Outercurve Foundation, founded a start-up, and been a writer and consultant. He has been around open source software for almost 30 years. He blogs about open source software, standards, and the business of software at http://stephesblog.blogs.com, opensource.com, and occasionally on Medium. He tweets as @stephenrwalli. 
 
 #### Description
 
