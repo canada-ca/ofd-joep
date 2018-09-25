@@ -10,7 +10,7 @@ filename: open-first-day-agenda-details
 {% assign dataSource = site.data[dataVariable] %}
 [Français](../fr/journee-ouvert-en-premier-agenda-detaille.html)
 
-> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://Github.com/canada-ca/ofd-joep/issues) or email at: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
+> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## [Back to summary](./open-first-day-agenda.html)
 
@@ -190,7 +190,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#full-open-source-application-stacks-for-data-visualizations-and-cloud-native">Full Open Source Application Stacks</a></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html">A Journey to Open:<br>The People Side of Accelerated Innovation</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#a-journey-to-open">A Journey to Open:<br>The People Side of Accelerated Innovation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:10</td>
@@ -202,7 +202,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Open Source Software in a Traditional Organisation</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-software-in-a-traditional-organisation">Open Source Software in a Traditional Organisation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -214,7 +214,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-Git">Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-a-decentralized-version-control-system">Working with a Decentralized Version Control System</a></td>
     <td class="tg-c3ow" rowspan="3">The Engineering Economics of Open Source</td>
   </tr>
   <tr>
@@ -318,13 +318,13 @@ This keynote will cover the reasons why Drupal4Gov was founded, what were and st
 
 #### Olivia Neal ([@LivNeal](https://twitter.com/livneal))
 
-Executive Director, DiGital Change
+Executive Director, Digital Change
 
 Office of the Chief Information Officer of Canada
 
 ### Panelists
 
-- Sean Boots - Canadian DiGital Service
+- Sean Boots - Canadian Digital Service
 - Kirsten Burgard - US Government
 - Mélanie Robert - Treasury Board Secretariat, Open Government
 - Pierre-Antoine Ferron - Ville de Montréal
@@ -400,7 +400,7 @@ Treasury Board Secretariat Canada
 
 #### Description
 
-This presentation will aim to provide an update on the rules that frame our work as well as our ability to leverage Open Standards and Open Source Software within their context.
+This presentation will aim to provide an update on the rules that frame our work as well as our ability to leverage Open Standards and Open Source Software.
 
 [Back to Schedule](#schedule)
 
@@ -535,7 +535,7 @@ The topics covered will include source code, version control concepts, decentral
 
 Robin has been the Managing Partner at OpenPlus since 2004, where he has fostered the adoption of many Open Source platforms and has been a dedicated advocate for better Government Open Source adoption, Open Standards and Accessibility. Robin also co-founded the Open Source Alliance of Canada to promote a better exposure to the industry in the public sector.
 
-He manages a highly experienced team with a passion for Government DiGital Services, where integration and modern adoption is in demand. OpenPlus has successfully deployed multiple large Drupal WxT and Solr initiatives at all three levels of Government. He has led province-wide adoption projects for major Web Renewal initiatives with online eServices portal solutions, as well as national Intranets for some of the federal government's largest ministries. His project roster also includes the United Nations, several Crown corporations, and the University of Ottawa's main campus wide solution.
+He manages a highly experienced team with a passion for Government Digital Services, where integration and modern adoption is in demand. OpenPlus has successfully deployed multiple large Drupal WxT and Solr initiatives at all three levels of Government. He has led province-wide adoption projects for major Web Renewal initiatives with online eServices portal solutions, as well as national Intranets for some of the federal government's largest ministries. His project roster also includes the United Nations, several Crown corporations, and the University of Ottawa's main campus wide solution.
 
 #### Description
 
@@ -564,7 +564,7 @@ Library and Archives Canada
 
 #### Description
 
-Library and Archives Canada (LAC) has spent the last few years determining how to harness the “wisdom of the crowd” to solve problems related to accessibility, discoverability and usability of its enormous collection of historic records. One of the key results (so far!) is Co-Lab. Integrated with LAC’s new Collection Search Beta tool, Co-Lab allows the public to tag, transcribe, translate and describe diGitized images – whether they be photographs, diary entries, maps, government memos or more!
+Library and Archives Canada (LAC) has spent the last few years determining how to harness the “wisdom of the crowd” to solve problems related to accessibility, discoverability and usability of its enormous collection of historic records. One of the key results (so far!) is Co-Lab. Integrated with LAC’s new Collection Search Beta tool, Co-Lab allows the public to tag, transcribe, translate and describe digitized images – whether they be photographs, diary entries, maps, government memos or more!
 
 So what’s next? Join us for an interactive workshop on a wide variety of topics – from citizen science/crowdsourcing in government, to the release of Co-Lab’s source code for use by other institutions, to how LAC should proceed in building its collaboration tools.
 
@@ -579,7 +579,7 @@ So what’s next? Join us for an interactive workshop on a wide variety of topic
 - Room: Foundry
 - Format: Presentation
 
-#### Speaker
+#### Speakers
 
 ##### Juli-Ann Roswell, Jeffrey Stark
 
@@ -615,6 +615,94 @@ Over the last few years, the Data Exploration and Integration Lab (DEIL) at Stat
 This workshop will engage the audience with practical examples of “open projects”, that is, projects that, to the extent possible, make use of open software, open code, Open Standards, open data, and open project management tools. The focus will be on the integration of buildings and business records, using exclusively open microdata. The preliminary results obtained to date are very encouraging and more can be achieved in a collaborative environment.
 
 The workshop will discuss the potential and benefits of working as an open project, the challenges that are encountered and the possible solutions. For instance, some of the integration solutions are developed in Python and the GNU/Linux operating system to allow for a more fluid development platform, which was found to simplify the data processing framework. Availability and accuracy of the data will be also discussed. An open project framework permits all participants to actively engage in the current and future development of the ongoing work. The session will provide simple hands-on examples on how to contribute to such initiatives.
+
+[Back to Schedule](#schedule)
+
+### A Journey to Open
+
+#### The People Side of Accelerated Innovation
+
+#### Details
+
+- Time: 14:00
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Mike Cardy
+
+Michael Cardy (MSc.) is the Chief Technology Strategist for Red Hat Canada.  Mr. Cardy provides his clients strategic vision and thought leadership necessary to successfully navigate and realize their expected outcomes from investments in supported, open source based software technology.  With his experience collaborating with many government entities and Fortune 500 companies across all major vertical industries as a global CTO for a large systems integrator and cloud services provider, Michael has acquired extensive expertise in designing and building hybrid cloud and digital marketing strategies.  
+
+Most recently, his primary focus has been on assisting his clients in preparing, developing and aligning technology and organizational resources supporting digital government.  By doing so, his clients are able to accomplish their transformational goals of enhancing and enriching their relationship with their citizens and rapidly delivering new digital services and offerings.   Michael emphasizes harnessing the power of open source software innovation as these technologies support standardization, holistic automation, new DevOps approaches and processes, and hybrid, cloud deployment models, all of which achieve the key business principles of accelerated value delivery and greater business agility, essential success factors for governments to strategically positioning themselves in the global economy.
+
+#### Description
+
+Upcoming
+
+[Back to Schedule](#schedule)
+
+### Open Source Software in a Traditional Organisation
+
+#### Details
+
+- Time: 14:30
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Jeffrey Osier-Mixon
+
+Jeffrey is well known in open source circles, particularly those related to Linux and embedded systems. He is notorious for supporting embedded initiatives such as the Yocto Project, OpenEmbedded, Zephyr Project, and E-ALE. Jeffrey works at Intel's Open Source Technology Center and speaks regularly at open source events worldwide.
+
+#### Description
+
+Upcoming
+
+[Back to Schedule](#schedule)
+
+### The Engineering Economics of Open Source
+
+#### Details
+
+- Time: 15:00
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Stephen Walli
+
+Bio
+
+#### Description
+
+Open Source Software is collaboratively developed and liberally licensed. Open source collaboration is ultimately about engineering economics. Every development manager understands build vs buy. With interesting buckets of collaborative technology, one gets build vs. buy vs. borrow + share. Sharing is key, not out of altruism, but because forks are expensive and contributing means maintaining the smallest fork possible while hardening the software in use. Building strong communities is essential and there are well understood on ramps to success. This talk looks at those on ramps, why they work, and offers cautionary tales about open source business models and the lack thereof.
+
+[Back to Schedule](#schedule)
+
+### Harnessing Open Source for Audacious Projects in your Community
+
+#### Details
+
+- Time: 15:30
+- Duration: 30 minutes
+- Room: Foundry
+- Format: Presentation
+
+#### Speaker
+
+##### Erin "RobotGrrl" Kennedy
+
+Bio
+
+#### Description
+
+Upcoming
 
 [Back to Schedule](#schedule)
 

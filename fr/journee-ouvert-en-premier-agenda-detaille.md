@@ -10,7 +10,7 @@ filename: journee-ouvert-en-premier-agenda-detaille
 {% assign dataSource = site.data[dataVariable] %}
 [English](../en/open-first-day-agenda-details.html)
 
-> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://Github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
+> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## [Retour au sommaire](./journee-ouvert-en-premier-agenda.html)
 
@@ -104,7 +104,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="3">Bureau du Dirigeant principal de l'information</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#production-participative-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
@@ -118,7 +118,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#bureau-du-dirigeant-principal-de-linformation">Bureau du Dirigeant principal de l'information</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
@@ -133,7 +133,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#permettre-l'épanouissement-des-gens-avec-l'accessibilité-dès-la-conception">Permettre l'épanouissement des gens avec l'accessibilité</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#permettre-lépanouissement-des-gens-avec-laccessibilité-dès-la-conception">Permettre l'épanouissement des gens avec l'accessibilité</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:40</td>
@@ -176,7 +176,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   <tr>
     <td class="tg-c3ow">13:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Séance de travail sur les politiques du code source</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#séance-de-travail-sur-les-politiques-du-code-source">Séance de travail sur les politiques du code source</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-de-logiciels-libres-pour-visualisation-et-infonuagique-native">Piles technologiques complètes en logiciels libres</a></td>
-    <td class="tg-c3ow" rowspan="3">Un voyage vers le libre:<br>Le côté humain de l'innovation accélérée</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#un-voyage-vers-le-libre">Un voyage vers le libre:<br>Le côté humain de l'innovation accélérée</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:10</td>
@@ -202,7 +202,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Le logiciel libre dans une organisation traditionnelle</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#le-logiciel-libre-dans-une-organisation-traditionnelle">Le logiciel libre dans une organisation traditionnelle</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -214,8 +214,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Travailler avec Git</td>
-    <td class="tg-c3ow" rowspan="3">L'économie de l'ingénierie du logiciel libre</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-un-système-de-contrôle-de-version-décentralisé">Travailler avec un système de contrôle de version décentralisé</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#léconomie-de-lingénierie-du-logiciel-libre">L'économie de l'ingénierie du logiciel libre</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
@@ -227,8 +227,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Logiciels libres et normes ouvertes pour un Web accessible</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#comment-les-logiciels-libres-aident-les-gouvernements-à-être-conformes-à-leurs-obligations">Logiciels libres pour la conformité des gouvernements</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#exploiter-le-logiciel-libre-pour-des-projets-audacieux-dans-votre-communauté">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:40</td>
@@ -402,7 +402,7 @@ Secrétariat du Conseil du Trésor Canada
 
 #### Description
 
-Cette séance visera a éclairer
+Cette présentation aura pour but de fournir une mise à jour sur les règles qui encadrent notre travail ainsi que sur notre capacité à tirer parti des Standards Ouverts et des Logiciels Libres.
 
 [Retour à l'Horaire](#horaire)
 
@@ -522,7 +522,7 @@ Les sujets couverts incluront le code source, les concepts de contrôle de versi
 
 [Retour à l'Horaire](#horaire)
 
-### Comment les logiciels libres aident les gouvernements à être conformes
+### Comment les logiciels libres aident les gouvernements à être conformes à leurs obligations
 
 #### Détails
 
@@ -566,7 +566,7 @@ Bibliothèque et Archives Canada
 
 #### Description
 
-Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent !) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres !
+Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent!) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres!
 
 Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier interactif sur une grande variété de sujets - de la science citoyenne et de la production participative (crowdsourcing) au gouvernement à la publication du code source du Co-Lab à l'usage d'autres institutions, en passant par la façon dont BAC devrait procéder pour élaborer ses outils de collaboration.
 
@@ -576,24 +576,20 @@ Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier inter
 
 #### Détails
 
-- Heure: 14:00
-- Durée: 55 minutes
-- Salle: Forge (À confirmer)
-- Format: Présentation avec séance de travail
+- Heure: 11:30
+- Durée: 30 minutes
+- Salle: Forge
+- Format: Présentation
 
-#### Invitée
+#### Invitée et invité
 
-##### Alexandra Haggert
+##### Juli-Ann Roswell, Jeffrey Stark
 
-Gestionnaire de projet, Direction générale des services au public
-
-Bibliothèque et Archives Canada
+Services Partagés Canada
 
 #### Description
 
-Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent !) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres !
-
-Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier interactif sur une grande variété de sujets - de la science citoyenne et de la production participative (crowdsourcing) au gouvernement à la publication du code source du Co-Lab à l'usage d'autres institutions, en passant par la façon dont BAC devrait procéder pour élaborer ses outils de collaboration.
+À venir
 
 [Retour à l'Horaire](#horaire)
 
@@ -621,6 +617,94 @@ Au cours des dernières années, le Laboratoire d'exploration et d'intégration 
 Cet atelier présentera des exemples pratiques de "projets ouverts", c'est-à-dire des projets qui, dans la mesure du possible, utilisent des logiciels ouverts, du code ouvert, des standards ouverts, des données ouvertes et des outils ouverts de gestion de projet. L'accent sera mis sur l'intégration des bâtiments et des documents commerciaux, en utilisant exclusivement des microdonnées ouvertes. Les résultats préliminaires obtenus à ce jour sont très encourageants et il est possible d'en faire davantage dans un environnement de collaboration.
 
 L'atelier discutera du potentiel et des avantages de travailler en tant que projet ouvert, des défis rencontrés et des solutions possibles. Par exemple, certaines des solutions d'intégration sont développées en Python et dans le système d'exploitation GNU/Linux pour permettre une plate-forme de développement plus fluide, ce qui a simplifié le cadre de traitement des données. La disponibilité et l'exactitude des données seront également discutées. Un cadre de projet ouvert permet à tous les participants de participer activement au développement actuel et futur des travaux en cours. La séance fournira des exemples pratiques simples sur la façon de contribuer à de telles initiatives.
+
+[Retour à l'Horaire](#horaire)
+
+### Un voyage vers le libre
+
+#### Le côté humain de l'innovation accélérée
+
+#### Détails
+
+- Heure: 14:00
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Mike Cardy
+
+Michael Cardy (M.Sc.) est le stratège en chef de la technologie pour Red Hat Canada.  M. Cardy offre à ses clients la vision stratégique et le leadership éclairé dont ils ont besoin pour réussir à naviguer et à atteindre les résultats escomptés de leurs investissements dans des technologies logicielles libres et soutenues.  Fort de son expérience de collaboration avec de nombreuses entités gouvernementales et des entreprises du Fortune 500 dans tous les secteurs verticaux importants en tant que directeur technique mondial pour un important intégrateur de systèmes et fournisseur de services cloud, Michael a acquis une vaste expertise dans la conception et l'élaboration de stratégies hybrides de cloud computing et de marketing numérique.  
+
+Plus récemment, il s'est surtout attaché à aider ses clients à préparer, à mettre au point et à harmoniser la technologie et les ressources organisationnelles à l'appui du gouvernement numérique.  Ce faisant, ses clients sont en mesure d'atteindre leurs objectifs transformationnels d'améliorer et d'enrichir leur relation avec leurs citoyens et de fournir rapidement de nouveaux services et offres numériques.   Michael met l'accent sur l'exploitation de la puissance de l'innovation des logiciels libres, car ces technologies favorisent la normalisation, l'automatisation holistique, les nouvelles approches et les nouveaux processus DevOps, ainsi que les modèles hybrides de déploiement en nuage, qui permettent tous d'atteindre les principes commerciaux clés que sont l'accélération de la création de valeur et une plus grande souplesse commerciale, facteurs essentiels au succès des gouvernements dans le positionnement stratégique dans l'économie mondiale.
+
+#### Description
+
+À venir
+
+[Retour à l'Horaire](#horaire)
+
+### Le logiciel libre dans une organisation traditionnelle
+
+#### Détails
+
+- Heure: 14:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Jeffrey Osier-Mixon
+
+Jeffrey est bien connu dans les cercles du logiciel libre, en particulier ceux liés à Linux et aux systèmes embarqués. Il est connu pour son soutien d'initiatives intégrées telles que le projet Yocto, OpenEmbedded, Zephyr Project et E-ALE. Jeffrey travaille au Centre de technologie du logiciel libre d'Intel et intervient régulièrement lors d'événements reliés aux logiciels libres dans le monde entier.
+
+#### Description
+
+À venir
+
+[Retour à l'Horaire](#horaire)
+
+### L'économie de l'ingénierie du logiciel libre
+
+#### Détails
+
+- Heure: 14:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Stephen Walli
+
+Bio
+
+#### Description
+
+Les logiciels libres sont développés en collaboration et font l'objet de licences gratuites. La collaboration dans le logiciel libre est en fin de compte une question d'économie de l'ingénierie. Chaque responsable du développement comprend le principe "construire vs acheter". Avec des seaux intéressants de technologie collaborative, on peut construire vs. acheter vs. emprunter et partager. Le partage est essentiel, non pas par altruisme, mais parce que les fourches sont chères et contribuer signifie maintenir la plus petite fourchette possible tout en durcissant le logiciel utilisé. Il est essentiel de bâtir des collectivités fortes et des rampes d'accès vers la réussite sont bien connues. Cet exposé se penche sur ces rampes d'accès, les raisons pour lesquelles elles fonctionnent et propose des mises en garde à propos des modèles d'affaires des logiciels libres et de l'absence de ces modèles.
+
+[Retour à l'Horaire](#horaire)
+
+### Exploiter le logiciel libre pour des projets audacieux dans votre communauté
+
+#### Détails
+
+- Heure: 15:30
+- Durée: 30 minutes
+- Salle: Forge
+- Format: Présentation
+
+#### Invité
+
+##### Erin "RobotGrrl" Kennedy
+
+Bio
+
+#### Description
+
+À venir
 
 [Retour à l'Horaire](#horaire)
 
