@@ -104,7 +104,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="3">Bureau du Dirigeant principal de l'information</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#production-participative-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
@@ -118,7 +118,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#bureau-du-dirigeant-principal-de-linformation">Bureau du Dirigeant principal de l'information</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
@@ -132,8 +132,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">11:30</td>
     <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#permettre-lépanouissement-des-gens-avec-laccessibilité-dès-la-conception">Permettre l'épanouissement des gens avec l'accessibilité</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:40</td>
@@ -176,7 +176,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   <tr>
     <td class="tg-c3ow">13:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Séance de travail sur les politiques du code source</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#séance-de-travail-sur-les-politiques-du-code-source">Séance de travail sur les politiques du code source</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
   <tr>
@@ -190,7 +190,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-de-logiciels-libres-pour-visualisation-et-infonuagique-native">Piles technologiques complètes en logiciels libres</a></td>
-    <td class="tg-c3ow" rowspan="3">Un voyage vers le libre:<br>Le côté humain de l'innovation accélérée</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#un-voyage-vers-le-libre">Un voyage vers le libre:<br>Le côté humain de l'innovation accélérée</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:10</td>
@@ -202,7 +202,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Le logiciel libre dans une organisation traditionnelle</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#le-logiciel-libre-dans-une-organisation-traditionnelle">Le logiciel libre dans une organisation traditionnelle</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -214,8 +214,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Travailler avec Git</td>
-    <td class="tg-c3ow" rowspan="3">L'économie de l'ingénierie du logiciel libre</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-un-système-de-contrôle-de-version-décentralisé">Travailler avec un système de contrôle de version décentralisé</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#léconomie-de-lingénierie-du-logiciel-libre">L'économie de l'ingénierie du logiciel libre</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
@@ -227,8 +227,8 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Logiciels libres et normes ouvertes pour un Web accessible</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#comment-les-logiciels-libres-aident-les-gouvernements-à-être-conformes-à-leurs-obligations">Logiciels libres pour la conformité des gouvernements</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#exploiter-le-logiciel-libre-pour-des-projets-audacieux-dans-votre-communauté">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:40</td>
@@ -269,24 +269,37 @@ Instructions générales et activité d'engagement
 
 [Retour à l'Horaire](#horaire)
 
-## Présentation principale
+## Présentations principales
 
-### Détails
+### Invité: Dr. Roy T. Fielding
 
-- Heure: 09:10
+Roy T. Fielding est chercheur sénior principal chez Adobe Systems Inc. M. Fielding est surtout connu pour son travail de développement et de définition de l'infrastructure moderne du World Wide Web. Il est l'architecte principal de l'actuel protocole de transfert hypertexte (HTTP/1.1), co-auteur des normes Internet pour HTTP, URI (Uniform Resource Identifiers) et Modèles URI, et co-fondateur de l'Apache Software Foundation. M. Fielding est titulaire d'un doctorat en sciences de l'information et en informatique de l'Université de Californie, Irvine.
+
+#### Détails
+
+- Heure: 09:00
 - Durée: 20 minutes
 - Salle: Forge
 - Format: Présentation
 
-### Invitée, invité
+#### Description
 
-#### Kirsten Burgard
+Ce présentation donnera le point de vue du Dr. Fielding sur l'orientation "Ouvert en premier" que prend le gouvernement du Canada, ainsi que la proposition de valeur pour l'utilisation des normes ouvertes.
+
+### Invitée: Kirsten Burgard
 
 Fondatrice de Drupal4Gov, une communauté d'employées et d'employés du gouvernement intéressés à rendre les administrations publiques plus ouvertes aux logiciels libres.
 
 Développeuse Web au Département d'État des États-Unis
 
-### Description
+#### Détails
+
+- Heure: 09:20
+- Durée: 20 minutes
+- Salle: Forge
+- Format: Présentation
+
+#### Description
 
 Cette présentation couvrira les raisons qui ont poussé à la création de Drupal4Gov, quels étaient et quels sont toujours les défis pour rendre les administrations publiques plus ouvertes à utiliser des logiciels libres ainsi que pourquoi nous devrions exiger l'utilisation de standards ouverts pour toutes les solutions TI.
 
@@ -296,8 +309,8 @@ Cette présentation couvrira les raisons qui ont poussé à la création de Drup
 
 ### Détails
 
-- Heure: 09:30
-- Durée: 45 minutes
+- Heure: 09:50
+- Durée: 40 minutes
 - Salle: Forge
 - Format: Panel de discussion
 
@@ -311,10 +324,9 @@ Bureau du Dirigeant principal de l'information du Canada
 
 ### Panélistes
 
-- Aaron Snow - Service numérique canadien
-- Andrew Gibson - Secrétariat du Conseil du Trésor
+- Sean Boots - Service numérique canadien
 - Kirsten Burgard - Gouvernement des États-Unis
-- Mélanie Robert - Secrétariat du Conseil du Trésor
+- Mélanie Robert - Secrétariat du Conseil du Trésor, Gouvernement Ouvert
 - Pierre-Antoine Ferron - Ville de Montréal
 
 ### Sujets
@@ -324,14 +336,19 @@ Bureau du Dirigeant principal de l'information du Canada
     - Meilleures pratiques de l'industrie
     - Interopérabilité
     - Marchés ouverts
+    - Design centré sur les utilisateurs
+    - Accessibilité
     - Disponibilité des vendeurs
-    - Coût total de possession
+    - Conformité
   - Contribuer à la communauté des logiciels libres?
     - Libérer le code source au Gouvernement du Canada
     - Contribution directe aux projets tiers
     - Culture ouverte et organisation
     - Bénéfice pour la société
 - Quels sont les défis qui nous attendent?
+  - Pratiques établies
+  - Formation
+  - Conscientisation
 
 [Retour à l'Horaire](#horaire)
 
@@ -348,9 +365,9 @@ Bureau du Dirigeant principal de l'information du Canada
 
 #### Invitée
 
-##### Karin Fuller
+##### Alexandra Marchand
 
-Agente principale de projet, Direction du dirigeant principal de l'information
+Agente de sensibilisation et mobilisation, Gouvernement Ouvert, Direction du dirigeant principal de l'information
 
 Secrétariat du Conseil du Trésor Canada
 
@@ -366,11 +383,34 @@ Secrétariat du Conseil du Trésor Canada
 
 [Retour à l'Horaire](#horaire)
 
-### Libérer du code source du GC
+### Bureau du Dirigeant principal de l'information
 
 #### Détails
 
 - Heure: 11:00
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Guillaume Charest
+
+Conseiller, Logiciels libres, Direction du dirigeant principal de l'information
+
+Secrétariat du Conseil du Trésor Canada
+
+#### Description
+
+Cette présentation aura pour but de fournir une mise à jour sur les règles qui encadrent notre travail ainsi que sur notre capacité à tirer parti des Standards Ouverts et des Logiciels Libres.
+
+[Retour à l'Horaire](#horaire)
+
+### Libérer du code source du GC
+
+#### Détails
+
+- Heure: 11:30
 - Durée: 30 minutes
 - Salle: Salle de formation (À confirmer)
 - Format: Présentation
@@ -389,59 +429,47 @@ Calvin Rodo du EDSC partagera son expérience dans l'application d'une licence d
 
 ## Volet Règles
 
-### Licences des logiciels libres
+### Logiciels libres à l'échelle
+
+#### Bureau de programme des logiciels libres
 
 #### Détails
 
-- Heure: 11:30
+- Heure: 13:00
 - Durée: 30 minutes
-- Salle: Salle de formation (À confirmer)
+- Salle: Salle de formation
 - Format: Présentation
 
-#### Invitée, invité
+#### Invité
 
-##### À confirmer
-
-Secrétariat du Conseil du Trésor Canada
+##### Jeff McAffer
 
 #### Description
 
-Cette séance présentera un survol des différentes et des plus populaires licences de logiciels libres et ce que leurs différentes clauses impliquent pour un projet.
+Le logiciel libre est fondamental pour le processus et la culture du logiciel moderne. Construire un logiciel dans un monde ouvert exige un état d'esprit différent, qui accepte de dépendre de milliers de composants que vous n'avez pas écrits, d'avoir des équipes de développeurs qui ouvrent leur propre code, ou de contribuer à d'autres projets. Dans le même temps, les exigences de conformité, de sécurité et de chaîne d'approvisionnement en matière de logiciels augmentent. Les organisations qui cherchent à gérer l'ampleur et la portée de ces engagements ont besoin d'efforts coordonnés. Cet exposé décrit les défis que posent la mise en œuvre du logiciel libre à grande échelle dans une organisation vaste et diversifiée, et examine les approches en matière de politiques et d'outils qui permettent à la fois de tirer parti des possibilités et de gérer les risques, ainsi que les techniques pour bâtir une culture ouverte et collaborative.
+
+[Retour à l'Horaire](#horaire)
+
+### Séance de travail sur les politiques du code source
+
+#### Détails
+
+- Heure: 13:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Modérateurs
+
+##### Ashley Casovan, Guillaume Charest
+
+#### Description
+
+À venir
 
 [Retour à l'Horaire](#horaire)
 
 ## Volet Outils
-
-### Travailler avec Git
-
-#### Détails
-
-- Heure: 11:30
-- Durée: 30 minutes
-- Salle: Forge (À confirmer)
-- Format: Présentation (À confirmer)
-
-#### Invité
-
-##### Stuart Spence
-
-Programmeur scientifique
-
-Environnement et Changement climatique Canada
-
-#### Description
-
-Cette séance offrira aux participants l'occasion d'apprendre à propos de :
-
-- Projets et organisations utilisant Git et les raisons pour lesquelles elles le font;
-- Ce qu'est du code source;
-- Les défis uniques auxquels font faces les équipes travaillant avec du code;
-- Ce qu'est un dépôt Git;
-- Ce à quoi Git est bon et moins bon;
-- La différence entre entre un système de contrôle de version centralisé et décentralisé;
-- La différence entre Git et les différentes plateformes utilisant Git.
-
-[Retour à l'Horaire](#horaire)
 
 ### Piles technologiques complètes de logiciels libres pour visualisation et infonuagique native
 
@@ -467,6 +495,56 @@ Statistiques Canada
 
 [Retour à l'Horaire](#horaire)
 
+### Travailler avec un système de contrôle de version décentralisé
+
+#### Détails
+
+- Heure: 15:00
+- Durée: 30 minutes
+- Salle: Forge
+- Format: Présentation
+
+#### Invité
+
+##### Stuart Spence
+
+Programmeur scientifique
+
+Environnement et Changement climatique Canada
+
+Stuart est programmeur scientifique à Environnement Canada et ancien professeur de technologie au secondaire. Il a étudié l'informatique à McGill et la technologie de l'éducation à Concordia. Ses vidéos YouTube ont près d'un million de vues, où il enseigne la programmation de jeux en 3D à des personnes ayant peu d'expérience en programmation. Stuart s'intéresse aux logiciels éducatifs, aux simulations scientifiques, aux logiciels libres et à la culture technologique.
+
+#### Description
+
+Git est l'outil de collaboration le plus populaire au monde pour les programmeurs. Qui l'utilise, pourquoi et comment l'utilisent-ils ? Cet exposé débute comme une introduction non technique à Git, mais il est ouvert à toute question technique dans la discussion finale. Le conférencier est un ancien enseignant du secondaire, donc aucune connaissance préalable de Git ou de code n'est requise pour le suivre. Le conférencier est aussi un programmeur scientifique à Environnement Canada et utilise Git depuis des années, donc les questions techniques sont aussi les bienvenues.
+
+Les sujets couverts incluront le code source, les concepts de contrôle de version, la décentralisation, les fichiers binaires, les bases de Git, et la distinction entre Git, GitHub, et GitLab.
+
+[Retour à l'Horaire](#horaire)
+
+### Comment les logiciels libres aident les gouvernements à être conformes à leurs obligations
+
+#### Détails
+
+- Heure: 15:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Robin Galipeau
+
+Robin est l'associé directeur d'OpenPlus depuis 2004, où il a encouragé l'adoption de nombreuses plates-formes de logiciels libres et a été un ardent défenseur d'une meilleure adoption du logiciel libre par le gouvernement, des standards ouverts et de l'accessibilité. Robin a également cofondé l'Open Source Alliance of Canada pour promouvoir une meilleure visibilité de l'industrie dans le secteur public.
+
+Il dirige une équipe très expérimentée et passionnée par les services numériques du gouvernement, où l'intégration et l'adoption moderne sont très demandées. OpenPlus a déployé avec succès plusieurs grandes initiatives Drupal WxT et Solr aux trois niveaux de gouvernement. Il a dirigé des projets d'adoption à l'échelle de la province dans le cadre d'importantes initiatives de renouvellement du Web à l'aide de solutions de portail de cyberservices en ligne, ainsi que des intranets nationaux pour certains des plus grands ministères du gouvernement fédéral. Sa liste de projets comprend également les Nations Unies, plusieurs sociétés d'État et la principale solution à l'échelle du campus de l'Université d'Ottawa.
+
+#### Description
+
+À venir
+
+[Retour à l'Horaire](#horaire)
+
 ## Volet Personnes
 
 ### Production participative (crowdsourcing) – Co-Lab
@@ -488,9 +566,30 @@ Bibliothèque et Archives Canada
 
 #### Description
 
-Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent !) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres !
+Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent!) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres!
 
 Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier interactif sur une grande variété de sujets - de la science citoyenne et de la production participative (crowdsourcing) au gouvernement à la publication du code source du Co-Lab à l'usage d'autres institutions, en passant par la façon dont BAC devrait procéder pour élaborer ses outils de collaboration.
+
+[Retour à l'Horaire](#horaire)
+
+### Permettre l'épanouissement des gens avec l'accessibilité dès la conception
+
+#### Détails
+
+- Heure: 11:30
+- Durée: 30 minutes
+- Salle: Forge
+- Format: Présentation
+
+#### Invitée et invité
+
+##### Juli-Ann Roswell, Jeffrey Stark
+
+Services Partagés Canada
+
+#### Description
+
+À venir
 
 [Retour à l'Horaire](#horaire)
 
@@ -518,6 +617,94 @@ Au cours des dernières années, le Laboratoire d'exploration et d'intégration 
 Cet atelier présentera des exemples pratiques de "projets ouverts", c'est-à-dire des projets qui, dans la mesure du possible, utilisent des logiciels ouverts, du code ouvert, des standards ouverts, des données ouvertes et des outils ouverts de gestion de projet. L'accent sera mis sur l'intégration des bâtiments et des documents commerciaux, en utilisant exclusivement des microdonnées ouvertes. Les résultats préliminaires obtenus à ce jour sont très encourageants et il est possible d'en faire davantage dans un environnement de collaboration.
 
 L'atelier discutera du potentiel et des avantages de travailler en tant que projet ouvert, des défis rencontrés et des solutions possibles. Par exemple, certaines des solutions d'intégration sont développées en Python et dans le système d'exploitation GNU/Linux pour permettre une plate-forme de développement plus fluide, ce qui a simplifié le cadre de traitement des données. La disponibilité et l'exactitude des données seront également discutées. Un cadre de projet ouvert permet à tous les participants de participer activement au développement actuel et futur des travaux en cours. La séance fournira des exemples pratiques simples sur la façon de contribuer à de telles initiatives.
+
+[Retour à l'Horaire](#horaire)
+
+### Un voyage vers le libre
+
+#### Le côté humain de l'innovation accélérée
+
+#### Détails
+
+- Heure: 14:00
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Mike Cardy
+
+Michael Cardy (M.Sc.) est le stratège en chef de la technologie pour Red Hat Canada.  M. Cardy offre à ses clients la vision stratégique et le leadership éclairé dont ils ont besoin pour réussir à naviguer et à atteindre les résultats escomptés de leurs investissements dans des technologies logicielles libres et soutenues.  Fort de son expérience de collaboration avec de nombreuses entités gouvernementales et des entreprises du Fortune 500 dans tous les secteurs verticaux importants en tant que directeur technique mondial pour un important intégrateur de systèmes et fournisseur de services cloud, Michael a acquis une vaste expertise dans la conception et l'élaboration de stratégies hybrides de cloud computing et de marketing numérique.  
+
+Plus récemment, il s'est surtout attaché à aider ses clients à préparer, à mettre au point et à harmoniser la technologie et les ressources organisationnelles à l'appui du gouvernement numérique.  Ce faisant, ses clients sont en mesure d'atteindre leurs objectifs transformationnels d'améliorer et d'enrichir leur relation avec leurs citoyens et de fournir rapidement de nouveaux services et offres numériques.   Michael met l'accent sur l'exploitation de la puissance de l'innovation des logiciels libres, car ces technologies favorisent la normalisation, l'automatisation holistique, les nouvelles approches et les nouveaux processus DevOps, ainsi que les modèles hybrides de déploiement en nuage, qui permettent tous d'atteindre les principes commerciaux clés que sont l'accélération de la création de valeur et une plus grande souplesse commerciale, facteurs essentiels au succès des gouvernements dans le positionnement stratégique dans l'économie mondiale.
+
+#### Description
+
+À venir
+
+[Retour à l'Horaire](#horaire)
+
+### Le logiciel libre dans une organisation traditionnelle
+
+#### Détails
+
+- Heure: 14:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Jeffrey Osier-Mixon
+
+Jeffrey est bien connu dans les cercles du logiciel libre, en particulier ceux liés à Linux et aux systèmes embarqués. Il est connu pour son soutien d'initiatives intégrées telles que le projet Yocto, OpenEmbedded, Zephyr Project et E-ALE. Jeffrey travaille au Centre de technologie du logiciel libre d'Intel et intervient régulièrement lors d'événements reliés aux logiciels libres dans le monde entier.
+
+#### Description
+
+À venir
+
+[Retour à l'Horaire](#horaire)
+
+### L'économie de l'ingénierie du logiciel libre
+
+#### Détails
+
+- Heure: 14:30
+- Durée: 30 minutes
+- Salle: Salle de formation
+- Format: Présentation
+
+#### Invité
+
+##### Stephen Walli
+
+Bio
+
+#### Description
+
+Les logiciels libres sont développés en collaboration et font l'objet de licences gratuites. La collaboration dans le logiciel libre est en fin de compte une question d'économie de l'ingénierie. Chaque responsable du développement comprend le principe "construire vs acheter". Avec des seaux intéressants de technologie collaborative, on peut construire vs. acheter vs. emprunter et partager. Le partage est essentiel, non pas par altruisme, mais parce que les fourches sont chères et contribuer signifie maintenir la plus petite fourchette possible tout en durcissant le logiciel utilisé. Il est essentiel de bâtir des collectivités fortes et des rampes d'accès vers la réussite sont bien connues. Cet exposé se penche sur ces rampes d'accès, les raisons pour lesquelles elles fonctionnent et propose des mises en garde à propos des modèles d'affaires des logiciels libres et de l'absence de ces modèles.
+
+[Retour à l'Horaire](#horaire)
+
+### Exploiter le logiciel libre pour des projets audacieux dans votre communauté
+
+#### Détails
+
+- Heure: 15:30
+- Durée: 30 minutes
+- Salle: Forge
+- Format: Présentation
+
+#### Invité
+
+##### Erin "RobotGrrl" Kennedy
+
+Bio
+
+#### Description
+
+À venir
 
 [Retour à l'Horaire](#horaire)
 

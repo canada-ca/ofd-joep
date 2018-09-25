@@ -159,7 +159,7 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="3">Bureau du Dirigeant principal de l'information</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#production-participative-crowdsourcing--co-lab">Contributions participative (crowdsourcing) – Co-Lab</a></td>
@@ -173,7 +173,7 @@ Gratuit
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#gouvernement-ouvert">Gouvernement Ouvert</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#bureau-du-dirigeant-principal-de-linformation">Bureau du Dirigeant principal de l'information</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
@@ -187,8 +187,8 @@ Gratuit
     <td class="tg-c3ow">11:30</td>
     <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-git">Travailler avec Git</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#permettre-lépanouissement-des-gens-avec-laccessibilité-dès-la-conception">Permettre l'épanouissement des gens avec l'accessibilité</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:40</td>
@@ -231,7 +231,7 @@ Gratuit
   <tr>
     <td class="tg-c3ow">13:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Séance de travail sur les politiques du code source</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#séance-de-travail-sur-les-politiques-du-code-source">Séance de travail sur les politiques du code source</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
   <tr>
@@ -245,7 +245,7 @@ Gratuit
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./journee-ouvert-en-premier-agenda-detaille.html#piles-technologiques-complètes-de-logiciels-libres-pour-visualisation-et-infonuagique-native">Piles technologiques complètes en logiciels libres</a></td>
-    <td class="tg-c3ow" rowspan="3">Un voyage vers le libre:<br>Le côté humain de l'innovation accélérée</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#un-voyage-vers-le-libre">Un voyage vers le libre:<br>Le côté humain de l'innovation accélérée</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:10</td>
@@ -257,7 +257,7 @@ Gratuit
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Le logiciel libre dans une organisation traditionnelle</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#le-logiciel-libre-dans-une-organisation-traditionnelle">Le logiciel libre dans une organisation traditionnelle</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -269,8 +269,8 @@ Gratuit
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Travailler avec Git</td>
-    <td class="tg-c3ow" rowspan="3">L'économie de l'ingénierie du logiciel libre</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#travailler-avec-un-système-de-contrôle-de-version-décentralisé">Travailler avec un système de contrôle de version décentralisé</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#léconomie-de-lingénierie-du-logiciel-libre">L'économie de l'ingénierie du logiciel libre</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
@@ -282,8 +282,8 @@ Gratuit
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Logiciels libres et normes ouvertes pour un Web accessible</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#comment-les-logiciels-libres-aident-les-gouvernements-à-être-conformes-à-leurs-obligations">Logiciels libres pour la conformité des gouvernements</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#exploiter-le-logiciel-libre-pour-des-projets-audacieux-dans-votre-communauté">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:40</td>

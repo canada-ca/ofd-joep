@@ -104,7 +104,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="3">Office of the Chief Information Officer</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#crowdsourcing-contributions--co-lab">Crowdsourcing contributions – Co-Lab</a></td>
@@ -118,7 +118,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
+    <td class="tg-c3ow" rowspan="3">Office of the Chief Information Officer</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
@@ -133,7 +133,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Enabling People with Accessibility by Design</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#enabling-people-with-accessibility-by-design">Enabling People with Accessibility by Design</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:40</td>
@@ -163,7 +163,7 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-uys7">13:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Open Source at Scale:<br>Open Source Program Office</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-at-scale">Open Source at Scale:<br>Open Source Program Office</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#open-projects-at-deil">Open Projects at DEIL</a></td>
   </tr>
@@ -190,7 +190,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#full-open-source-application-stacks-for-data-visualizations-and-cloud-native">Full Open Source Application Stacks</a></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html">A Journey to Open:<br>The People Side of Accelerated Innovation</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#a-journey-to-open">A Journey to Open:<br>The People Side of Accelerated Innovation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:10</td>
@@ -202,7 +202,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Open Source Software in a Traditional Organisation</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-software-in-a-traditional-organisation">Open Source Software in a Traditional Organisation</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -214,7 +214,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-a-decentralized-version-control-system">Working with a Decentralized Version Control System</a></td>
     <td class="tg-c3ow" rowspan="3">The Engineering Economics of Open Source</td>
   </tr>
   <tr>
@@ -227,7 +227,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Open Source Software and Standards for an Accessible Web</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">Open Source Software and Governments Compliance</a></td>
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Harnessing Open Source for Audacious Projects in your Community</a></td>
   </tr>
   <tr>
@@ -271,6 +271,10 @@ House cleaning & Engagement Activity
 
 ## Keynotes
 
+### Speaker: Dr. Roy T. Fielding
+
+Roy T. Fielding is a Senior Principal Scientist at Adobe Systems Inc. Dr. Fielding is best known for his work in developing and defining the modern World Wide Web infrastructure. He is the primary architect of the current Hypertext Transfer Protocol (HTTP/1.1), co-author of the Internet standards for HTTP, Uniform Resource Identifiers (URI), and URI Templates, and co-founder of the Apache Software Foundation. Dr. Fielding received his Ph.D. degree in Information and Computer Science from the University of California, Irvine.
+
 ### Details
 
 - Time: 9:00
@@ -278,13 +282,15 @@ House cleaning & Engagement Activity
 - Room: Foundry
 - Format: Presentation
 
-### Speaker: Dr. Roy T. Fielding
-
-Roy T. Fielding is a Senior Principal Scientist at Adobe Systems Inc. Dr. Fielding is best known for his work in developing and defining the modern World Wide Web infrastructure. He is the primary architect of the current Hypertext Transfer Protocol (HTTP/1.1), co-author of the Internet standards for HTTP, Uniform Resource Identifiers (URI), and URI Templates, and co-founder of the Apache Software Foundation. Dr. Fielding received his Ph.D. degree in Information and Computer Science from the University of California, Irvine.
-
 ### Description
 
 This keynote will present Dr. Fielding's perspective on the Open First direction that the Government of Canada is taking as well as the value proposition for using Open Standards.
+
+### Speaker: Kirsten Burgard
+
+Founder of Drupal4Gov, an open source community of government employees interested in making government more open to open source.
+
+Web Developer at United States Department of State
 
 ### Details
 
@@ -292,12 +298,6 @@ This keynote will present Dr. Fielding's perspective on the Open First direction
 - Duration: 20 minutes
 - Room: Foundry
 - Format: Presentation
-
-### Speaker: Kirsten Burgard
-
-Founder of Drupal4Gov, an open source community of government employees interested in making government more open to open source.
-
-Web Developer at United States Department of State
 
 ### Description
 
@@ -309,7 +309,7 @@ This keynote will cover the reasons why Drupal4Gov was founded, what were and st
 
 ### Details
 
-- Time: 9:40
+- Time: 9:50
 - Duration: 40 minutes
 - Room: Foundry
 - Format: Panel
@@ -360,26 +360,47 @@ Office of the Chief Information Officer of Canada
 
 - Time: 10:30
 - Duration: 30 minutes
-- Room: Training Room (To be confirmed)
+- Room: Training Room
 - Format: Presentation
 
 #### Speaker
 
-##### Karin Fuller
+##### Alexandra Marchand
 
-Senior Project Officer, Office of the Chief Information Officer
+Outreach and Engagement Advisor, Open Government, Office of the Chief Information Officer
 
 Treasury Board Secretariat Canada
 
 #### Description
 
-(To be confirmed) Open Government Partnership:
-
-- What’s the scope of Open in the Government of Canada
+- What is the scope of Open in the Government of Canada?
 - Who are the different actors?
 - How are you a part of it?
 - What do we need to do?
 - How can citizens and private sector organisations benefit and leverage an Open Government?
+
+[Back to Schedule](#schedule)
+
+### Office of the Chief Information Officer
+
+#### Details
+
+- Time: 11:00
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Guillaume Charest
+
+Advisor, Open Source Software, Office of the Chief Information Officer
+
+Treasury Board Secretariat Canada
+
+#### Description
+
+This presentation will aim to provide an update on the rules that frame our work as well as our ability to leverage Open Standards and Open Source Software.
 
 [Back to Schedule](#schedule)
 
@@ -406,63 +427,47 @@ Calvin Rodo from ESDC will be sharing his experiences in attempting to apply an 
 
 ## Rules Stream
 
-### Open Source Licences
+### Open Source at Scale
+
+#### Open Source Program Office
 
 #### Details
 
-- Time: 11:30
+- Time: 13:00
 - Duration: 30 minutes
-- Room: Training Room (To be confirmed)
+- Room: Training Room
 - Format: Presentation
 
 #### Speaker
 
-##### To be confirmed
-
-Treasury Board Secretariat Canada
-
-#### Format
-
-Presentation
+##### Jeff McAffer
 
 #### Description
 
-This session will provide an overview of the different and most popular Open Source Licences and what their different clauses imply for a project.
+Open source is fundamental to the modern software process and culture. Building software in an open world requires a different mindset, one that accepts depending on thousands of components you did not write, having teams of developers open sourcing their own code, or contributing to other projects. At the same time, the compliance, security, and supply chain demands around software are increasing. Organizations looking to manage the scale and scope of these engagements need coordinated efforts. This talk outlines the challenges in doing open source at scale in a broad, diversified organization, and looks at policy and tooling approaches that both unleash the opportunities and manage the risks, as well as techniques for building an open and collaborative culture.
+
+[Back to Schedule](#schedule)
+
+### Source Code Policy Jam
+
+#### Details
+
+- Time: 13:30
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Moderators
+
+##### Ashley Casovan, Guillaume Charest
+
+#### Description
+
+Upcoming
 
 [Back to Schedule](#schedule)
 
 ## Tools Stream
-
-### Working with Git
-
-#### Details
-
-- Time: 11:30
-- Duration: 30 minutes
-- Room: Foundry (To be confirmed)
-- Format: Presentation (To be confirmed)
-
-#### Speaker
-
-##### Stuart Spence
-
-Scientific Programmer
-
-Environment and Climate Change Canada
-
-#### Description
-
-This session will provide the participants an opportunity to learn about:
-
-- Projects and organizations using Git and why;
-- What actually is source code;
-- Unique challenges teams face when working on code;
-- What is a Git repository;
-- What Git is good and bad at;
-- Centralized vs decentralized version control systems;
-- The difference between Git and the various Git platforms.
-
-[Back to Schedule](#schedule)
 
 ### Full Open Source Application Stacks for Data Visualizations and Cloud-Native
 
@@ -485,6 +490,56 @@ At Statistics Canada we contribute and leverage many Open Source Software (OSS) 
 
 1. Creating dynamic Interactive Data Visualizations to display data on the web.
 2. Moving to Cloud and adopting a Cloud-native approach to building and running applications that take advantage of the cloud computing delivery model.
+
+[Back to Schedule](#schedule)
+
+### Working with a Decentralized Version Control System
+
+#### Details
+
+- Time: 15:00
+- Duration: 30 minutes
+- Room: Foundry
+- Format: Presentation
+
+#### Speaker
+
+##### Stuart Spence
+
+Scientific Programmer
+
+Environment and Climate Change Canada
+
+Stuart is a scientific programmer at Environment Canada and previously a high school technology teacher. He studied computer science at McGill and education technology at Concordia. His YouTube videos have nearly a million views, where he teaches 3D games programming to people with little programming experience. Stuart is interested in education software, scientific simulations, free software, and technological literacy.
+
+#### Description
+
+Git is the world's most popular collaboration tool for programmers. Who uses it, why do they use it, and how do they use it? This talk begins as a non-technical introduction to Git but welcomes any technical questions in the concluding discussion. The speaker is a former high school teacher so no prior knowledge of Git or code is required to follow along. The speaker is also a scientific programmer at Environment Canada and has been using Git for years, so technical questions are also welcome.
+
+The topics covered will include source code, version control concepts, decentralization, binary files, Git basics, and the distinction between Git, GitHub, and GitLab.
+
+[Back to Schedule](#schedule)
+
+### How Open Source Software Helps Governments Meet Compliance
+
+#### Details
+
+- Time: 15:30
+- Duration: 30 minutes
+- Room: Training room
+- Format: Presentation
+
+#### Speaker
+
+##### Robin Galipeau
+
+Robin has been the Managing Partner at OpenPlus since 2004, where he has fostered the adoption of many Open Source platforms and has been a dedicated advocate for better Government Open Source adoption, Open Standards and Accessibility. Robin also co-founded the Open Source Alliance of Canada to promote a better exposure to the industry in the public sector.
+
+He manages a highly experienced team with a passion for Government Digital Services, where integration and modern adoption is in demand. OpenPlus has successfully deployed multiple large Drupal WxT and Solr initiatives at all three levels of Government. He has led province-wide adoption projects for major Web Renewal initiatives with online eServices portal solutions, as well as national Intranets for some of the federal government's largest ministries. His project roster also includes the United Nations, several Crown corporations, and the University of Ottawa's main campus wide solution.
+
+#### Description
+
+Upcoming
 
 [Back to Schedule](#schedule)
 
@@ -515,6 +570,27 @@ So what’s next? Join us for an interactive workshop on a wide variety of topic
 
 [Back to Schedule](#schedule)
 
+### Enabling People with Accessibility by Design
+
+#### Details
+
+- Time: 11:30
+- Duration: 30 minutes
+- Room: Foundry
+- Format: Presentation
+
+#### Speakers
+
+##### Juli-Ann Roswell, Jeffrey Stark
+
+Shared Services Canada
+
+#### Description
+
+Upcoming
+
+[Back to Schedule](#schedule)
+
 ### Open Projects at DEIL
 
 #### Exploring the potential of open data using an “open project” approach
@@ -539,6 +615,94 @@ Over the last few years, the Data Exploration and Integration Lab (DEIL) at Stat
 This workshop will engage the audience with practical examples of “open projects”, that is, projects that, to the extent possible, make use of open software, open code, Open Standards, open data, and open project management tools. The focus will be on the integration of buildings and business records, using exclusively open microdata. The preliminary results obtained to date are very encouraging and more can be achieved in a collaborative environment.
 
 The workshop will discuss the potential and benefits of working as an open project, the challenges that are encountered and the possible solutions. For instance, some of the integration solutions are developed in Python and the GNU/Linux operating system to allow for a more fluid development platform, which was found to simplify the data processing framework. Availability and accuracy of the data will be also discussed. An open project framework permits all participants to actively engage in the current and future development of the ongoing work. The session will provide simple hands-on examples on how to contribute to such initiatives.
+
+[Back to Schedule](#schedule)
+
+### A Journey to Open
+
+#### The People Side of Accelerated Innovation
+
+#### Details
+
+- Time: 14:00
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Mike Cardy
+
+Michael Cardy (MSc.) is the Chief Technology Strategist for Red Hat Canada.  Mr. Cardy provides his clients strategic vision and thought leadership necessary to successfully navigate and realize their expected outcomes from investments in supported, open source based software technology.  With his experience collaborating with many government entities and Fortune 500 companies across all major vertical industries as a global CTO for a large systems integrator and cloud services provider, Michael has acquired extensive expertise in designing and building hybrid cloud and digital marketing strategies.  
+
+Most recently, his primary focus has been on assisting his clients in preparing, developing and aligning technology and organizational resources supporting digital government.  By doing so, his clients are able to accomplish their transformational goals of enhancing and enriching their relationship with their citizens and rapidly delivering new digital services and offerings.   Michael emphasizes harnessing the power of open source software innovation as these technologies support standardization, holistic automation, new DevOps approaches and processes, and hybrid, cloud deployment models, all of which achieve the key business principles of accelerated value delivery and greater business agility, essential success factors for governments to strategically positioning themselves in the global economy.
+
+#### Description
+
+Upcoming
+
+[Back to Schedule](#schedule)
+
+### Open Source Software in a Traditional Organisation
+
+#### Details
+
+- Time: 14:30
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Jeffrey Osier-Mixon
+
+Jeffrey is well known in open source circles, particularly those related to Linux and embedded systems. He is notorious for supporting embedded initiatives such as the Yocto Project, OpenEmbedded, Zephyr Project, and E-ALE. Jeffrey works at Intel's Open Source Technology Center and speaks regularly at open source events worldwide.
+
+#### Description
+
+Upcoming
+
+[Back to Schedule](#schedule)
+
+### The Engineering Economics of Open Source
+
+#### Details
+
+- Time: 15:00
+- Duration: 30 minutes
+- Room: Training Room
+- Format: Presentation
+
+#### Speaker
+
+##### Stephen Walli
+
+Bio
+
+#### Description
+
+Open Source Software is collaboratively developed and liberally licensed. Open source collaboration is ultimately about engineering economics. Every development manager understands build vs buy. With interesting buckets of collaborative technology, one gets build vs. buy vs. borrow + share. Sharing is key, not out of altruism, but because forks are expensive and contributing means maintaining the smallest fork possible while hardening the software in use. Building strong communities is essential and there are well understood on ramps to success. This talk looks at those on ramps, why they work, and offers cautionary tales about open source business models and the lack thereof.
+
+[Back to Schedule](#schedule)
+
+### Harnessing Open Source for Audacious Projects in your Community
+
+#### Details
+
+- Time: 15:30
+- Duration: 30 minutes
+- Room: Foundry
+- Format: Presentation
+
+#### Speaker
+
+##### Erin "RobotGrrl" Kennedy
+
+Bio
+
+#### Description
+
+Upcoming
 
 [Back to Schedule](#schedule)
 
