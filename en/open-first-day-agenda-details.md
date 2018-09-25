@@ -118,7 +118,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="3">Office of the Chief Information Officer</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#office-of-the-chief-information-officer">Office of the Chief Information Officer</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
@@ -202,7 +202,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-software-in-a-traditional-organisation">Open Source Software in a Traditional Organisation</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-value-of-open-source-in-business">The Value of Open Source in Business</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -215,7 +215,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-a-decentralized-version-control-system">Working with a Decentralized Version Control System</a></td>
-    <td class="tg-c3ow" rowspan="3">The Engineering Economics of Open Source</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-engineering-economics-of-open-source">The Engineering Economics of Open Source</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
@@ -227,7 +227,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">Open Source Software and Governments Compliance</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">How Open Source Software Helps Governments Meet Compliance</a></td>
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Harnessing Open Source for Audacious Projects in your Community</a></td>
   </tr>
   <tr>
@@ -442,6 +442,10 @@ Calvin Rodo from ESDC will be sharing his experiences in attempting to apply an 
 
 ##### Jeff McAffer
 
+Jeff McAffer has over 25 years experience leading impactful high-performance matrix managed software development teams. His main interest is in "platforms" that enable people to create and deploy extensible systems. In particular, as the Director of Microsoft's Open Source Programs Office, Jeff is driving Microsoft's engineering practices and engagement with open source communities. He was one of the founders and architects of the open source Eclipse Tooling and Runtime efforts and was a key community and ecosystem builder from Eclipse’s inception as well as authoring several books and being a prominent speaker in the Eclipse and OSGi community.
+
+Over his career Jeff has worked in domains including modular runtimes, integrated development environments, language design, distributed and massively parallel systems, simulation, expert systems and virtual machine design. Working in large corporations and small startups he has filled the roles of CTO, founder/entrepreneur, director and manager as well as visionary, architect, project/team leader, designer and implementer. He has deep experience in open source projects (Eclipse), open specifications (OSGi, JCP, IETF, ANSI), industrial-strength products as well as speculative research projects.
+
 #### Description
 
 Open source is fundamental to the modern software process and culture. Building software in an open world requires a different mindset, one that accepts depending on thousands of components you did not write, having teams of developers open sourcing their own code, or contributing to other projects. At the same time, the compliance, security, and supply chain demands around software are increasing. Organizations looking to manage the scale and scope of these engagements need coordinated efforts. This talk outlines the challenges in doing open source at scale in a broad, diversified organization, and looks at policy and tooling approaches that both unleash the opportunities and manage the risks, as well as techniques for building an open and collaborative culture.
@@ -539,7 +543,9 @@ He manages a highly experienced team with a passion for Government Digital Servi
 
 #### Description
 
-Upcoming
+This presentation will showcase key adoptions around success stories of Government and Open Source, including how 3 levels of government have adopted Drupal/Solr WxT based shared Open Code base for public sector benefits, and leveraging global code from critical mass communities.
+
+The presentation will explore the role of Open Source Technologies, Open Data, Open Standards and Open API in those success stories.
 
 [Back to Schedule](#schedule)
 
@@ -639,11 +645,11 @@ Most recently, his primary focus has been on assisting his clients in preparing,
 
 #### Description
 
-Upcoming
+The promise of Open Government and the demands of citizens for new ways to digitally connect with government are requiring unprecedented speed and agility and one of the primary barriers to accelerating innovation is people.  Culture, talent acquisition, and organizational structure congruent with supporting processes and architectures are required to create high performance teams. Join Michael Cardy, Chief Strategist Red Hat, as he references original research for the basis of defining the attributes of high performance teams and strategies for transforming organizational capability through talent acquisition and skills enhancements.
 
 [Back to Schedule](#schedule)
 
-### Open Source Software in a Traditional Organisation
+### The Value of Open Source in Business
 
 #### Details
 
@@ -660,7 +666,7 @@ Jeffrey is well known in open source circles, particularly those related to Linu
 
 #### Description
 
-Upcoming
+Open source is prevalent, and often dominant, in every business sector in the world – the largest banks, stock markets, utilities, space programs, and technology industries, among countless others, rely on open source daily. This presentation explores the business value proposition of open source, and also touches on the accompanying social value, exploring why doing good socially ends up being so good for the bottom line as well. The author will use examples from his experience with Intel, a Fortune 500 company and one of the largest open source contributors in the world, whose culture has changed to incorporate open source first as a strategy.
 
 [Back to Schedule](#schedule)
 
@@ -677,7 +683,9 @@ Upcoming
 
 ##### Stephen Walli
 
-Bio
+Stephen is a technical executive, a founder and consultant, a writer and author, a systems developer, a software construction geek, and a standards diplomat. He has worked in the IT industry since 1980 as both customer and vendor.
+
+He was a Distinguished Technologist at Hewlett Packard Enterprise, technical director at the Outercurve Foundation, founded a start-up, and has been a writer and consultant. He has been around open source software for almost 30 years and blogs about open source software, standards, and the business of software.
 
 #### Description
 
@@ -698,11 +706,13 @@ Open Source Software is collaboratively developed and liberally licensed. Open s
 
 ##### Erin "RobotGrrl" Kennedy
 
-Bio
+Founder of Robot Missions, Helping our planet with robots!
 
 #### Description
 
-Upcoming
+An audacious experiment in using open source, low-cost robots to clean pollution from beaches has been underway this summer. In this talk, we will share how a local social enterprise (Robot Missions) has engaged the community and rallied support from the City of Ottawa and more to make this happen. The audience will hear about lessons learned during on-the-ground experimentation and interaction with the community, to ideas on harnessing open source to fulfill the vision of letting anyone, anywhere replicate the robot using 3D printing.
+
+Prepare to be inspired — This talk is for those who want to learn about a real, tangible, local example of how a grassroots initiative can harness open source and contribute back open source. All the while, working on a large problem and engaging the community. Fair warning, after this talk, you too may be inspired to build the next open source rocketship, robot, multi-dimensional hologram, or the equivalent for your organization or department!
 
 [Back to Schedule](#schedule)
 

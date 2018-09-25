@@ -173,7 +173,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="3">Office of the Chief Information Officer</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#office-of-the-chief-information-officer">Office of the Chief Information Officer</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
@@ -257,7 +257,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-software-in-a-traditional-organisation">Open Source Software in a Traditional Organisation</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-value-of-open-source-in-business">The Value of Open Source in Business</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -270,7 +270,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-a-decentralized-version-control-system">Working with a Decentralized Version Control System</a></td>
-    <td class="tg-c3ow" rowspan="3">The Engineering Economics of Open Source</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-engineering-economics-of-open-source">The Engineering Economics of Open Source</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
@@ -282,7 +282,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">Open Source Software and Governments Compliance</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">How Open Source Software Helps Governments Meet Compliance</a></td>
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Harnessing Open Source for Audacious Projects in your Community</a></td>
   </tr>
   <tr>

@@ -257,7 +257,7 @@ Gratuit
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#le-logiciel-libre-dans-une-organisation-traditionnelle">Le logiciel libre dans une organisation traditionnelle</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#la-valeur-du-logiciel-libre-en-affaires">La valeur du logiciel libre en affaires</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -282,7 +282,7 @@ Gratuit
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#comment-les-logiciels-libres-aident-les-gouvernements-à-être-conformes-à-leurs-obligations">Logiciels libres pour la conformité des gouvernements</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#comment-les-logiciels-libres-aident-les-gouvernements-à-être-conformes-à-leurs-obligations">Comment les logiciels libres aident les gouvernements à être conformes à leurs obligations</a></td>
     <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#exploiter-le-logiciel-libre-pour-des-projets-audacieux-dans-votre-communauté">Exploiter le logiciel libre pour des projets audacieux dans votre communauté</a></td>
   </tr>
   <tr>
