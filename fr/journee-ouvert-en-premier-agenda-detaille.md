@@ -10,7 +10,7 @@ filename: journee-ouvert-en-premier-agenda-detaille
 {% assign dataSource = site.data[dataVariable] %}
 [English](../en/open-first-day-agenda-details.html)
 
-> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
+> Veuillez noter que le présent agenda est provisoire et un document de travail en évolution. Des changements et des mises à jours seront faites au fur et à mesure où nous recevrons des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://Github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## [Retour au sommaire](./journee-ouvert-en-premier-agenda.html)
 
@@ -133,7 +133,7 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
     <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#libérer-du-code-source-du-gc">Libérer du code source du GC</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#accessibilité">Permettre l'épanouissement des gens avec l'accessibilité par défaut</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./journee-ouvert-en-premier-agenda-detaille.html#permettre-l'épanouissement-des-gens-avec-l'accessibilité-dès-la-conception">Permettre l'épanouissement des gens avec l'accessibilité</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:40</td>
@@ -512,17 +512,13 @@ Programmeur scientifique
 
 Environnement et Changement climatique Canada
 
+Stuart est programmeur scientifique à Environnement Canada et ancien professeur de technologie au secondaire. Il a étudié l'informatique à McGill et la technologie de l'éducation à Concordia. Ses vidéos YouTube ont près d'un million de vues, où il enseigne la programmation de jeux en 3D à des personnes ayant peu d'expérience en programmation. Stuart s'intéresse aux logiciels éducatifs, aux simulations scientifiques, aux logiciels libres et à la culture technologique.
+
 #### Description
 
-Cette séance offrira aux participants l'occasion d'apprendre à propos de :
+Git est l'outil de collaboration le plus populaire au monde pour les programmeurs. Qui l'utilise, pourquoi et comment l'utilisent-ils ? Cet exposé débute comme une introduction non technique à Git, mais il est ouvert à toute question technique dans la discussion finale. Le conférencier est un ancien enseignant du secondaire, donc aucune connaissance préalable de Git ou de code n'est requise pour le suivre. Le conférencier est aussi un programmeur scientifique à Environnement Canada et utilise Git depuis des années, donc les questions techniques sont aussi les bienvenues.
 
-- Projets et organisations utilisant Git et les raisons pour lesquelles elles le font;
-- Ce qu'est du code source;
-- Les défis uniques auxquels font faces les équipes travaillant avec du code;
-- Ce qu'est un dépôt Git;
-- Ce à quoi Git est bon et moins bon;
-- La différence entre entre un système de contrôle de version centralisé et décentralisé;
-- La différence entre Git et les différentes plateformes utilisant Git.
+Les sujets couverts incluront le code source, les concepts de contrôle de version, la décentralisation, les fichiers binaires, les bases de Git, et la distinction entre Git, GitHub, et GitLab.
 
 [Retour à l'Horaire](#horaire)
 
@@ -552,6 +548,31 @@ Il dirige une équipe très expérimentée et passionnée par les services numé
 ## Volet Personnes
 
 ### Production participative (crowdsourcing) – Co-Lab
+
+#### Détails
+
+- Heure: 14:00
+- Durée: 55 minutes
+- Salle: Forge (À confirmer)
+- Format: Présentation avec séance de travail
+
+#### Invitée
+
+##### Alexandra Haggert
+
+Gestionnaire de projet, Direction générale des services au public
+
+Bibliothèque et Archives Canada
+
+#### Description
+
+Bibliothèque et Archives Canada (BAC) a passé les dernières années à déterminer comment exploiter la " sagesse de la foule " pour résoudre les problèmes liés à l'accessibilité, à la découverte et à la convivialité de son énorme collection de documents historiques. L'un des résultats clés (jusqu'à présent !) est le Co-Lab. Intégré au nouvel outil bêta de recherche de collections de BAC, Co-Lab permet au public d'étiqueter, de transcrire, de traduire et de décrire des images numérisées - qu'il s'agisse de photographies, d'entrées de journaux personnels, de cartes, de notes gouvernementales ou autres !
+
+Alors, qu'est-ce qu'on fait ensuite ? Joignez-vous à nous pour un atelier interactif sur une grande variété de sujets - de la science citoyenne et de la production participative (crowdsourcing) au gouvernement à la publication du code source du Co-Lab à l'usage d'autres institutions, en passant par la façon dont BAC devrait procéder pour élaborer ses outils de collaboration.
+
+[Retour à l'Horaire](#horaire)
+
+### Permettre l'épanouissement des gens avec l'accessibilité dès la conception
 
 #### Détails
 

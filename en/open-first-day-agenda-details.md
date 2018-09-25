@@ -10,7 +10,7 @@ filename: open-first-day-agenda-details
 {% assign dataSource = site.data[dataVariable] %}
 [Français](../fr/journee-ouvert-en-premier-agenda-detaille.html)
 
-> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://github.com/canada-ca/ofd-joep/issues) or email at: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
+> Please note that this agenda is a work in progress. Changes and updates will be made as we receive confirmation of speakers and topics. If you notice mistakes, we will be happy to make adjustments based on your feedback. Please contact us via the [project repository](https://Github.com/canada-ca/ofd-joep/issues) or email at: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## [Back to summary](./open-first-day-agenda.html)
 
@@ -104,7 +104,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">10:30</td>
-    <td class="tg-c3ow" rowspan="3">Office of the Chief Information Officer</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#crowdsourcing-contributions--co-lab">Crowdsourcing contributions – Co-Lab</a></td>
@@ -118,7 +118,7 @@ This section will be updated once the technical details are confirmed and regist
   </tr>
   <tr>
     <td class="tg-c3ow">11:00</td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-government">Open Government</a></td>
+    <td class="tg-c3ow" rowspan="3">Office of the Chief Information Officer</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
@@ -133,7 +133,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#releasing-gc-source-code-open">Releasing GC Source Code Open</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Enabling People with Accessibility by Design</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#enabling-people-with-accessibility-by-design">Enabling People with Accessibility by Design</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">11:40</td>
@@ -163,7 +163,7 @@ This section will be updated once the technical details are confirmed and regist
   <tr>
     <td class="tg-uys7">13:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Open Source at Scale:<br>Open Source Program Office</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-at-scale">Open Source at Scale:<br>Open Source Program Office</a></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#open-projects-at-deil">Open Projects at DEIL</a></td>
   </tr>
@@ -214,7 +214,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-git">Working with Git</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-Git">Working with Git</a></td>
     <td class="tg-c3ow" rowspan="3">The Engineering Economics of Open Source</td>
   </tr>
   <tr>
@@ -227,7 +227,7 @@ This section will be updated once the technical details are confirmed and regist
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3">Open Source Software and Standards for an Accessible Web</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">Open Source Software and Governments Compliance</a></td>
     <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Harnessing Open Source for Audacious Projects in your Community</a></td>
   </tr>
   <tr>
@@ -318,13 +318,13 @@ This keynote will cover the reasons why Drupal4Gov was founded, what were and st
 
 #### Olivia Neal ([@LivNeal](https://twitter.com/livneal))
 
-Executive Director, Digital Change
+Executive Director, DiGital Change
 
 Office of the Chief Information Officer of Canada
 
 ### Panelists
 
-- Sean Boots - Canadian Digital Service
+- Sean Boots - Canadian DiGital Service
 - Kirsten Burgard - US Government
 - Mélanie Robert - Treasury Board Secretariat, Open Government
 - Pierre-Antoine Ferron - Ville de Montréal
@@ -373,9 +373,7 @@ Treasury Board Secretariat Canada
 
 #### Description
 
-(To be confirmed) Open Government Partnership:
-
-- What’s the scope of Open in the Government of Canada
+- What is the scope of Open in the Government of Canada?
 - Who are the different actors?
 - How are you a part of it?
 - What do we need to do?
@@ -402,7 +400,7 @@ Treasury Board Secretariat Canada
 
 #### Description
 
-This presentation will aim to provide an update on the rules, from laws to policies, that we affect our work as well as our ability to work with Open Standards and Open Source Software within their context.
+This presentation will aim to provide an update on the rules that frame our work as well as our ability to leverage Open Standards and Open Source Software within their context.
 
 [Back to Schedule](#schedule)
 
@@ -512,21 +510,17 @@ Scientific Programmer
 
 Environment and Climate Change Canada
 
+Stuart is a scientific programmer at Environment Canada and previously a high school technology teacher. He studied computer science at McGill and education technology at Concordia. His YouTube videos have nearly a million views, where he teaches 3D games programming to people with little programming experience. Stuart is interested in education software, scientific simulations, free software, and technological literacy.
+
 #### Description
 
-This session will provide the participants an opportunity to learn about:
+Git is the world's most popular collaboration tool for programmers. Who uses it, why do they use it, and how do they use it? This talk begins as a non-technical introduction to Git but welcomes any technical questions in the concluding discussion. The speaker is a former high school teacher so no prior knowledge of Git or code is required to follow along. The speaker is also a scientific programmer at Environment Canada and has been using Git for years, so technical questions are also welcome.
 
-- Projects and organizations using Git and why;
-- What actually is source code;
-- Unique challenges teams face when working on code;
-- What is a Git repository;
-- What Git is good and bad at;
-- Centralized vs decentralized version control systems;
-- The difference between Git and the various Git platforms.
+The topics covered will include source code, version control concepts, decentralization, binary files, Git basics, and the distinction between Git, GitHub, and GitLab.
 
 [Back to Schedule](#schedule)
 
-### How Open Source Software Help Governments Meet Compliance
+### How Open Source Software Helps Governments Meet Compliance
 
 #### Details
 
@@ -541,7 +535,7 @@ This session will provide the participants an opportunity to learn about:
 
 Robin has been the Managing Partner at OpenPlus since 2004, where he has fostered the adoption of many Open Source platforms and has been a dedicated advocate for better Government Open Source adoption, Open Standards and Accessibility. Robin also co-founded the Open Source Alliance of Canada to promote a better exposure to the industry in the public sector.
 
-He manages a highly experienced team with a passion for Government Digital Services, where integration and modern adoption is in demand. OpenPlus has successfully deployed multiple large Drupal WxT and Solr initiatives at all three levels of Government. He has led province-wide adoption projects for major Web Renewal initiatives with online eServices portal solutions, as well as national Intranets for some of the federal government's largest ministries. His project roster also includes the United Nations, several Crown corporations, and the University of Ottawa's main campus wide solution.
+He manages a highly experienced team with a passion for Government DiGital Services, where integration and modern adoption is in demand. OpenPlus has successfully deployed multiple large Drupal WxT and Solr initiatives at all three levels of Government. He has led province-wide adoption projects for major Web Renewal initiatives with online eServices portal solutions, as well as national Intranets for some of the federal government's largest ministries. His project roster also includes the United Nations, several Crown corporations, and the University of Ottawa's main campus wide solution.
 
 #### Description
 
@@ -570,9 +564,30 @@ Library and Archives Canada
 
 #### Description
 
-Library and Archives Canada (LAC) has spent the last few years determining how to harness the “wisdom of the crowd” to solve problems related to accessibility, discoverability and usability of its enormous collection of historic records. One of the key results (so far!) is Co-Lab. Integrated with LAC’s new Collection Search Beta tool, Co-Lab allows the public to tag, transcribe, translate and describe digitized images – whether they be photographs, diary entries, maps, government memos or more!
+Library and Archives Canada (LAC) has spent the last few years determining how to harness the “wisdom of the crowd” to solve problems related to accessibility, discoverability and usability of its enormous collection of historic records. One of the key results (so far!) is Co-Lab. Integrated with LAC’s new Collection Search Beta tool, Co-Lab allows the public to tag, transcribe, translate and describe diGitized images – whether they be photographs, diary entries, maps, government memos or more!
 
 So what’s next? Join us for an interactive workshop on a wide variety of topics – from citizen science/crowdsourcing in government, to the release of Co-Lab’s source code for use by other institutions, to how LAC should proceed in building its collaboration tools.
+
+[Back to Schedule](#schedule)
+
+### Enabling People with Accessibility by Design
+
+#### Details
+
+- Time: 11:30
+- Duration: 30 minutes
+- Room: Foundry
+- Format: Presentation
+
+#### Speaker
+
+##### Juli-Ann Roswell, Jeffrey Stark
+
+Shared Services Canada
+
+#### Description
+
+Upcoming
 
 [Back to Schedule](#schedule)
 
