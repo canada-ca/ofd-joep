@@ -276,7 +276,7 @@ This section will be updated once the technical details are confirmed and regist
 ## Our Masters of Ceremony
 
 - Ashley Casovan from Treasury Board Secretariat Canada
-- Sabrina Nash from Public Service and Procurement Canada
+- Sabrina Nash from Public Service and Procurement Canada - [LinkedIn](https://www.linkedin.com/in/sabrina-nash/)
 
 ## Welcome
 

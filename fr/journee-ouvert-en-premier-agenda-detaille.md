@@ -273,10 +273,10 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
 </table>
 
-## Nos Maîtres de cérémonie
+## Nos animatrices
 
 - Ashley Casovan du Secrétariat du Conseil du Trésor du Canada
-- Sabrina Nash de Service publics et Approvisionnement Canada
+- Sabrina Nash de Service publics et Approvisionnement Canada - [LinkedIn](https://www.linkedin.com/in/sabrina-nash/)
 
 ## Accueil
 
