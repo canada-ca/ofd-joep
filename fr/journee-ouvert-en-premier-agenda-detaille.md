@@ -26,7 +26,13 @@ Pour vous inscrire, veuillez remplir le formulaire à la page suivante (si vous 
 
 Afin de permettre aux gens ne pouvant se déplacer jusqu'à l'endroit retenu de participer, nous établirons une webdiffusion pour les séances principales.
 
-Les informations pour se connecter seront mis à jour dans cette section lorsque les détails techniques seront confirmés et il ne sera pas nécessaire de s'inscrire pour se connecter.
+Pour vous connecter à la webdiffusion des séances qui auront lieu dans la Forge à compter de 08:30, veuillez utiliser le lien suivant:
+
+- [http://video.isilive.ca/tbs/2018-09-28-0830/original.html](http://video.isilive.ca/tbs/2018-09-28-0830/original.html)
+
+Pour vous connecter à la webdiffusion des séances qui auront lieu dans la Forge à compter de 08:30, veuillez utiliser le lien suivant:
+
+- [http://video.isilive.ca/tbs/2018-09-28-1030/original.html](http://video.isilive.ca/tbs/2018-09-28-1030/original.html)
 
 #### Trousse de conférence
 
@@ -273,10 +279,10 @@ Les informations pour se connecter seront mis à jour dans cette section lorsque
   </tr>
 </table>
 
-## Nos Maîtres de cérémonie
+## Nos animatrices
 
 - Ashley Casovan du Secrétariat du Conseil du Trésor du Canada
-- Sabrina Nash de Service publics et Approvisionnement Canada
+- Sabrina Nash de Service publics et Approvisionnement Canada - [LinkedIn](https://www.linkedin.com/in/sabrina-nash/)
 
 ## Accueil
 
