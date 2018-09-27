@@ -26,7 +26,7 @@ To register, please fill in the form at the following link (if you're not from a
 
 In order to support remote participation to the event, we will establish a streaming option for the main sessions.
 
-To join the webcast for sessions that will be hosted in the Forge starting at 08:30, use the following link:
+To join the webcast for the sessions that will be hosted in the Forge starting at 08:30, use the following link:
 
 - [http://video.isilive.ca/tbs/2018-09-28-0830/floor.html](http://video.isilive.ca/tbs/2018-09-28-0830/floor.html)
 
