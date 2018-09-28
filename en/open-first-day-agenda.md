@@ -224,9 +224,9 @@ To join the webcast for the sessions that will be hosted in the training room st
   <tr>
     <td class="tg-uys7">13:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-at-scale">Open Source at Scale:<br>Open Source Program Office</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#open-source-at-scale">Open Source at Scale:<br>Open Source Program Office</a><br>(Training Room)</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#open-projects-at-deil">Open Projects at DEIL</a></td>
+    <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#open-projects-at-deil">Open Projects at DEIL</a>(Foundry)<br></td>
   </tr>
   <tr>
     <td class="tg-c3ow">13:10</td>
@@ -237,7 +237,7 @@ To join the webcast for the sessions that will be hosted in the training room st
   <tr>
     <td class="tg-c3ow">13:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Source Code Policy Jam</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Source Code Policy Jam</a><br>(Training Room)</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
   </tr>
   <tr>
@@ -250,8 +250,8 @@ To join the webcast for the sessions that will be hosted in the training room st
     <td class="tg-c3ow">14:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#full-open-source-application-stacks-for-data-visualizations-and-cloud-native">Full Open Source Application Stacks</a></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#a-journey-to-open">A Journey to Open:<br>The People Side of Accelerated Innovation</a></td>
+    <td class="tg-c3ow" rowspan="6"><a href="./open-first-day-agenda-details.html#full-open-source-application-stacks-for-data-visualizations-and-cloud-native">Full Open Source Application Stacks</a>(Foundry)</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#a-journey-to-open">A Journey to Open:<br>The People Side of Accelerated Innovation</a>(Training Room)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:10</td>
@@ -263,7 +263,7 @@ To join the webcast for the sessions that will be hosted in the training room st
     <td class="tg-c3ow">14:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-value-of-open-source-in-business">The Value of Open Source in Business</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-value-of-open-source-in-business">The Value of Open Source in Business</a>(Training Room)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">14:40</td>
@@ -275,8 +275,8 @@ To join the webcast for the sessions that will be hosted in the training room st
     <td class="tg-c3ow">15:00</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-a-decentralized-version-control-system">Working with a Decentralized Version Control System</a></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-engineering-economics-of-open-source">The Engineering Economics of Open Source</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#working-with-a-decentralized-version-control-system">Working with a Decentralized Version Control System</a>(Foundry)</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#the-engineering-economics-of-open-source">The Engineering Economics of Open Source</a>(Training Room)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:10</td>
@@ -288,8 +288,8 @@ To join the webcast for the sessions that will be hosted in the training room st
     <td class="tg-c3ow">15:30</td>
     <td class="tg-c3ow empty" rowspan="3"></td>
     <td class="tg-c3ow empty" rowspan="3"></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">How Open Source Software Helps Governments Meet Compliance</a></td>
-    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Harnessing Open Source for Audacious Projects in your Community</a></td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#how-open-source-software-helps-governments-meet-compliance">How Open Source Software Helps Governments Meet Compliance</a><br>(Training Room)</td>
+    <td class="tg-c3ow" rowspan="3"><a href="./open-first-day-agenda-details.html#">Harnessing Open Source for Audacious Projects in your Community</a><br>(Foundry)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">15:40</td>
@@ -299,7 +299,7 @@ To join the webcast for the sessions that will be hosted in the training room st
   </tr>
   <tr>
     <td class="tg-c3ow">16:00</td>
-    <td class="tg-uys7" colspan="5">Closing Remarks</td>
+    <td class="tg-uys7" colspan="5">Closing Remarks<br>(Foundry)</td>
   </tr>
 </table>
 
