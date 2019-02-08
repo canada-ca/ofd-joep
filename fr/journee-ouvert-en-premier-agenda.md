@@ -42,7 +42,7 @@ Pour les gens qui seraient déjà familier avec ces concepts et ces sujets, une 
 
 Pour vous inscrire, veuillez remplir le formulaire à la page suivante (si vous n'êtes pas d'un département du gouvernement, nous vous prions de choisir "Autre" pour votre organisation):
 
-[https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord?&lang=fr)
+> Les inscriptions sont terminées.
 
 > Veuillez noter que le nombre d'inscriptions pour assister à l'événement sur place sera limité à 250 personnes mais qu'une liste d'attente sera créée afin de permettre au plus de gens possible de participer.
 
@@ -58,6 +58,8 @@ Pour vous connecter à la webdiffusion des séances qui auront lieu dans la Forg
 
 - [http://video.isilive.ca/tbs/2018-09-28-1030/original.html](http://video.isilive.ca/tbs/2018-09-28-1030/original.html)
 
+> Les enregistrements complets seront disponibles jusqu'à septembre 2019.
+
 ## Détails de l'événement
 
 ### Date et Heure
@@ -68,11 +70,11 @@ Pour vous connecter à la webdiffusion des séances qui auront lieu dans la Forg
 
 ### Endroit
 
-Cours Bayview, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
+- Cours Bayview, 7 Promenade Bayview, Ottawa, ON K1Y 2C5
 
 ### Prix
 
-Gratuit
+- Gratuit
 
 ### Auditoire
 

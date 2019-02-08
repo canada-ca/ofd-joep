@@ -42,7 +42,7 @@ For the people who are already familiar with these topics, a series of networkin
 
 To register, please fill in the form at the following link (if you're not from a government department, please choose "Other" as your organisation):
 
-[https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord](https://questionnaire.simplesurvey.com/f/l/gcopenfirst-gcouvertdabord)
+> Registration is over.
 
 > Please note that we have to limit number of registrations for this event to 250 people but that a waiting list will be created upon reaching the maximum number of registrants to ensure as many people as possible can attend.
 
@@ -57,6 +57,8 @@ To join the webcast for the sessions that will be hosted in the Forge starting a
 To join the webcast for the sessions that will be hosted in the training room starting at 10:30, use the following link:
 
 - [http://video.isilive.ca/tbs/2018-09-28-1030/floor.html](http://video.isilive.ca/tbs/2018-09-28-1030/floor.html)
+
+> The links for the full recordings will remain available until September 2019.
 
 ## Event Details
 
