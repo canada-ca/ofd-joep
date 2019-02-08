@@ -377,6 +377,8 @@ Office of the Chief Information Officer of Canada
 - Mélanie Robert - Treasury Board Secretariat, Open Government
 - Pierre-Antoine Ferron - Ville de Montréal
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nMG6G5bJz0w?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Topics
 
 - Why should we:
@@ -413,13 +415,19 @@ Office of the Chief Information Officer of Canada
 
 #### Speaker
 
-##### Alexandra Marchand
+##### Mélanie Robert
 
-Outreach and Engagement Advisor, Open Government, Office of the Chief Information Officer
+Executive Director, Open Government and Services
 
-Treasury Board Secretariat Canada
+Treasury Board of Canada Secretariat
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tIlK_-TNOME?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Presentation slides]({{site.baseurl}}/assets/pdf/Melanie Robert Open Gov 101 - Presentation to Open First Day - September 2018.pdf)
 
 #### Description
+
+Open Government:
 
 - What is the scope of Open in the Government of Canada?
 - Who are the different actors?

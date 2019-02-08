@@ -377,6 +377,8 @@ Bureau du Dirigeant principal de l'information du Canada
 - Mélanie Robert - Secrétariat du Conseil du Trésor, Gouvernement Ouvert
 - Pierre-Antoine Ferron - Ville de Montréal
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nMG6G5bJz0w?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Sujets
 
 - Pourquoi devrions-nous:
@@ -413,15 +415,19 @@ Bureau du Dirigeant principal de l'information du Canada
 
 #### Invitée
 
-##### Alexandra Marchand
+##### Mélanie Robert
 
-Agente de sensibilisation et mobilisation, Gouvernement Ouvert, Direction du dirigeant principal de l'information
+Directrice exécutive, Gouvernment et services ouverts
 
 Secrétariat du Conseil du Trésor Canada
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tIlK_-TNOME?start=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Diapositives de la présentation]({{site.baseurl}}/assets/pdf/Melanie Robert FR Open Gov 101 - Presentation to Open First Day - September 2018.pdf)
+
 #### Description
 
-(À mettre à jour) Gouvernement ouvert:
+Gouvernement ouvert:
 
 - Qu'est-ce qui fait partie d'un gouvernement Ouvert au Gouvernement du Canada?
 - Qui sont les différents acteurs?
