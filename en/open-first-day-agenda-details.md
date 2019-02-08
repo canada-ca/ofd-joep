@@ -293,6 +293,8 @@ To join the webcast for the sessions that will be hosted in the training room st
 - Room: Foundry
 - Format: Presentation and Workshop
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8yE8RTUVomk?start=120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Speakers
 
 #### Marc Brouillard
@@ -324,6 +326,8 @@ Roy T. Fielding is a Senior Principal Scientist at Adobe Systems Inc. Dr. Fieldi
 - Room: Foundry
 - Format: Presentation
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Cp9AumrvYY?start=121" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Description
 
 This keynote will present Dr. Fielding's perspective on the Open First direction that the Government of Canada is taking as well as the value proposition for using Open Standards.
@@ -340,6 +344,8 @@ Web Developer at United States Department of State
 - Duration: 20 minutes
 - Room: Foundry
 - Format: Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2VenMvYpXGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Description
 

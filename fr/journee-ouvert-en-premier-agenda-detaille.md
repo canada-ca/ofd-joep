@@ -293,6 +293,8 @@ Pour vous connecter à la webdiffusion des séances qui auront lieu dans la Forg
 - Salle: Forge
 - Format: Présentation et séance de travail
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8yE8RTUVomk?start=120" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Invitée, invité
 
 #### Marc Brouillard
@@ -324,6 +326,8 @@ Roy T. Fielding est chercheur sénior principal chez Adobe Systems Inc. M. Field
 - Salle: Forge
 - Format: Présentation
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Cp9AumrvYY?start=121" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Description
 
 Ce présentation donnera le point de vue du Dr. Fielding sur l'orientation "Ouvert en premier" que prend le gouvernement du Canada, ainsi que la proposition de valeur pour l'utilisation des normes ouvertes.
@@ -340,6 +344,8 @@ Développeuse Web au Département d'État des États-Unis
 - Durée: 20 minutes
 - Salle: Forge
 - Format: Présentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2VenMvYpXGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Description
 
