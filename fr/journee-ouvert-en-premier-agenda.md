@@ -10,7 +10,7 @@ filename: journee-ouvert-en-premier-agenda
 {% assign dataSource = site.data[dataVariable] %}
 [English](../en/open-first-day-agenda.html)
 
-> Veuillez noter que le site présent était provisoire et en évolution. Des changements et des mises à jours ont été faites au fur et à mesure où nous recevions des confirmations d'invités et des sujets de séances. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à communiquer par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
+> **ARCHIVE:** Veuillez noter que le site présent est une archive. L'événement a eu lieu le 28 septembre 2018 et est maintenant terminé. Si vous notez des fautes de syntaxes ou d’orthographe, nous serons heureux de faire les ajustements qui nous serons communiqués. N'hésitez pas à joindre par le biais du [répertoire de projet](https://github.com/canada-ca/ofd-joep/issues) ou par courriel à: [guillaume.charest@tbs-sct.gc.ca](mailto:guillaume.charest@tbs-sct.gc.ca).
 
 ## Objectif
 
