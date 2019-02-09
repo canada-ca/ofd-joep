@@ -454,6 +454,8 @@ Conseiller, Logiciels libres, Direction du dirigeant principal de l'information
 
 Secrétariat du Conseil du Trésor Canada
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-8gAqksAwA?start=36" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Description
 
 Cette présentation aura pour but de fournir une mise à jour sur les règles qui encadrent notre travail ainsi que sur notre capacité à tirer parti des Standards Ouverts et des Logiciels Libres.
@@ -474,6 +476,10 @@ Cette présentation aura pour but de fournir une mise à jour sur les règles qu
 ##### Calvin Rodo
 
 Emploi et Développement social Canada (EDSC)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3ax8oJNXXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Diapositives de la présentation]({{site.baseurl}}/assets/pdf/FR Open Source Code Calvin Rodo.pdf)
 
 #### Description
 
@@ -502,6 +508,10 @@ Jeff McAffer a plus de 25 ans d'expérience à la tête d'équipes de développe
 
 Au cours de sa carrière, Jeff a travaillé dans des domaines tels que les environnements d'exécution modulaires, les environnements de développement intégrés, la conception linguistique, les systèmes distribués et massivement parallèles, la simulation, les systèmes experts et la conception de machine virtuelle. Travaillant au sein de grandes entreprises et de petites entreprises en démarrage, il a occupé les postes de directeur technique, fondateur/entrepreneur, directeur et gestionnaire, ainsi que visionnaire, architecte, chef de projet et d'équipe, concepteur et réalisateur. Il a une grande expérience des projets de logiciels libres(Eclipse), des spécifications ouvertes (OSGi, JCP, IETF, ANSI), des produits de force industrielle ainsi que des projets de recherche spéculative.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrZq3a6C-H8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Diapositives de la présentation (Anglais)]({{site.baseurl}}/assets/pdf/Jeff McAffer Open source at scale.pdf)
+
 #### Description
 
 Le logiciel libre est fondamental pour le processus et la culture du logiciel moderne. Construire un logiciel dans un monde ouvert exige un état d'esprit différent, qui accepte de dépendre de milliers de composants que vous n'avez pas écrits, d'avoir des équipes de développeurs qui ouvrent leur propre code, ou de contribuer à d'autres projets. Dans le même temps, les exigences de conformité, de sécurité et de chaîne d'approvisionnement en matière de logiciels augmentent. Les organisations qui cherchent à gérer l'ampleur et la portée de ces engagements ont besoin d'efforts coordonnés. Cet exposé décrit les défis que posent la mise en œuvre du logiciel libre à grande échelle dans une organisation vaste et diversifiée, et examine les approches en matière de politiques et d'outils qui permettent à la fois de tirer parti des possibilités et de gérer les risques, ainsi que les techniques pour bâtir une culture ouverte et collaborative.
@@ -521,9 +531,13 @@ Le logiciel libre est fondamental pour le processus et la culture du logiciel mo
 
 ##### Ashley Casovan, Guillaume Charest
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHxyBPNwtX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Lien vers les points de discussion](https://github.com/canada-ca/open-source-logiciel-libre/issues)
+
 #### Description
 
-À venir
+Séance au cours de laquelle les membres de l'auditoire peuvent contribuer à identifier les opportunités et les défis de l'adoption de normes ouvertes et des logiciels libres étant donné les règles et politiques courantes au Gouvernement du Canada.
 
 [Retour à l'Horaire](#horaire)
 
@@ -543,6 +557,10 @@ Le logiciel libre est fondamental pour le processus et la culture du logiciel mo
 ##### Andrew Sinkinson, Laurent Goderre, William Hearn
 
 Statistiques Canada
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0bWk3bJLjAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Diapositives de la présentation](https://govcloud.ca/slide/2018-09-28/#/intro)
 
 #### Description
 

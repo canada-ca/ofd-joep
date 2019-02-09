@@ -454,6 +454,8 @@ Advisor, Open Source Software, Office of the Chief Information Officer
 
 Treasury Board Secretariat Canada
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-8gAqksAwA?start=36" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Description
 
 This presentation will aim to provide an update on the rules that frame our work as well as our ability to leverage Open Standards and Open Source Software.
@@ -474,6 +476,10 @@ This presentation will aim to provide an update on the rules that frame our work
 ##### Calvin Rodo
 
 Employment and Social Development Canada (ESDC)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3ax8oJNXXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Presentation slides]({{site.baseurl}}/assets/pdf/Open Source Code Calvin Rodo.pdf)
 
 #### Description
 
@@ -502,6 +508,10 @@ Jeff McAffer has over 25 years experience leading impactful high-performance mat
 
 Over his career Jeff has worked in domains including modular runtimes, integrated development environments, language design, distributed and massively parallel systems, simulation, expert systems and virtual machine design. Working in large corporations and small startups he has filled the roles of CTO, founder/entrepreneur, director and manager as well as visionary, architect, project/team leader, designer and implementer. He has deep experience in open source projects (Eclipse), open specifications (OSGi, JCP, IETF, ANSI), industrial-strength products as well as speculative research projects.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrZq3a6C-H8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Presentation slides]({{site.baseurl}}/assets/pdf/Jeff McAffer Open source at scale.pdf)
+
 #### Description
 
 Open source is fundamental to the modern software process and culture. Building software in an open world requires a different mindset, one that accepts depending on thousands of components you did not write, having teams of developers open sourcing their own code, or contributing to other projects. At the same time, the compliance, security, and supply chain demands around software are increasing. Organizations looking to manage the scale and scope of these engagements need coordinated efforts. This talk outlines the challenges in doing open source at scale in a broad, diversified organization, and looks at policy and tooling approaches that both unleash the opportunities and manage the risks, as well as techniques for building an open and collaborative culture.
@@ -521,9 +531,13 @@ Open source is fundamental to the modern software process and culture. Building 
 
 ##### Ashley Casovan, Guillaume Charest
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHxyBPNwtX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Link to discussed items](https://github.com/canada-ca/open-source-logiciel-libre/issues)
+
 #### Description
 
-Upcoming
+Session where members of the audience can contribute to identifying opportunities and challenges in the current rules and policies the Government of Canada to support the adoption of open standards and open source software.
 
 [Back to Schedule](#schedule)
 
@@ -543,6 +557,10 @@ Upcoming
 ##### Andrew Sinkinson, Laurent Goderre, William Hearn
 
 Statistics Canada
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0bWk3bJLjAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Presentation slides](https://govcloud.ca/slide/2018-09-28/#/intro)
 
 #### Description
 
